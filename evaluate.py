@@ -178,7 +178,7 @@ def load_data(args) -> list:
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dataset', choices=['AddSub', 'MultiArith', 'SingleEq', 'gsm8k', 'AQuA', 'SVAMP'],
+    parser.add_argument('--dataset', choices=['AddSub', 'MultiArith', 'SingleEq', 'gsm8k', 'AQuA', 'SVAMP', 'mathqa'],
                         required=True)
     parser.add_argument('--model', choices=['LLaMA-7B', 'BLOOM-7B', 'GPT-j-6B'], required=True)
     parser.add_argument('--adapter', choices=['LoRA', 'AdapterP', 'AdapterH', 'Parallel', 'Prefix'],
@@ -271,7 +271,7 @@ def load_instruction(args) -> str:
 
 def extract_answer_number(args, sentence: str) -> float:
     dataset = args.dataset.lower()
-    if dataset in ["multiarith", "addsub", "singleeq", "gsm8k", "svamp"]:
+    if dataset in ["multiarith", "addsub", "singleeq", "gsm8k", "svamp", "mathqa"]:
         sentence = sentence.replace(',', '')
         pred = [s for s in re.findall(r'-?\d+\.?\d*', sentence)]
         if not pred:
@@ -293,7 +293,7 @@ def extract_answer_letter(args, sentence: str) -> str:
     if pred_answers:
         if not pred_answers:
             return ''
-        return pred_answers[0]
+        return pred_answers[-1]
     else:
         return ''
 
