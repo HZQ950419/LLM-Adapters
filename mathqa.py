@@ -23,10 +23,10 @@ def answer_extract(sentence):
     if not pred:
         return float('inf')
     if "-" in sentence:
-        pred_answer = ["-" + pred[0]]
+        pred_answer = "-" + pred[0]
     elif "/" in sentence or ":" in sentence:
         if len(pred) == 2 and float(pred[1]) != 0:
-            pred_answer = [float(pred[0]) / float(pred[1])]
+            pred_answer = float(pred[0]) / float(pred[1])
         else:
             pred_answer = float(pred[0])
     else:
