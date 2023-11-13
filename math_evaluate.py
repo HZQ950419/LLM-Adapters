@@ -12,6 +12,7 @@ import torch
 sys.path.append(os.path.join(os.getcwd(), "peft/src/"))
 from peft import PeftModel
 from tqdm import tqdm
+from tool import *
 from transformers import GenerationConfig, LlamaForCausalLM, LlamaTokenizer, AutoModelForCausalLM, AutoTokenizer
 
 if torch.cuda.is_available():
@@ -169,7 +170,7 @@ def load_data(args) -> list:
     Returns:
 
     """
-    file_path = f'dataset/{args.dataset}/test.json'
+    file_path = args.test_file
     if not os.path.exists(file_path):
         raise FileNotFoundError(f"can not find dataset file : {file_path}")
     json_data = json.load(open(file_path, 'r'))
@@ -178,9 +179,10 @@ def load_data(args) -> list:
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dataset', choices=['AddSub', 'MultiArith', 'SingleEq', 'gsm8k', 'AQuA', 'SVAMP', 'mathqa'],
+    parser.add_argument('--dataset', choices=['AddSub', 'MultiArith', 'SingleEq', 'gsm8k', 'AQuA', 'SVAMP', 'mathqa', 'math_addsub'],
                         required=True)
     parser.add_argument('--model', type=str, required=True)
+    parser.add_argument('--test_file', type=str, required=True)
     parser.add_argument('--adapter', type=str, required=True)
     parser.add_argument('--base_model', required=True)
     parser.add_argument('--lora_weights', required=True)
@@ -206,7 +208,7 @@ def load_model(args) -> tuple:
         raise ValueError(f'can not find lora weight, the value is: {lora_weights}')
 
     load_8bit = args.load_8bit
-    if args.model == 'LLaMA-7B':
+    if "llama" in args.model.lower():
         tokenizer = LlamaTokenizer.from_pretrained(base_model)
     else:
         tokenizer = AutoTokenizer.from_pretrained(base_model)
@@ -270,9 +272,16 @@ def load_instruction(args) -> str:
 
 def extract_answer_number(args, sentence: str) -> float:
     dataset = args.dataset.lower()
-    if dataset in ["multiarith", "addsub", "singleeq", "gsm8k", "svamp", "mathqa"]:
-        sentence = sentence.replace(',', '')
-        pred = [s for s in re.findall(r'-?\d+\.?\d*', sentence)]
+    if dataset in ["multiarith", "addsub", "singleeq", "gsm8k", "svamp", "mathqa", "math_addsub"]:
+        if "python" in sentence.lower():
+            code = sentence.split("# Python code, return ans")[-1].replace("</s>", "").strip("\n")
+            ans = safe_execute(code)
+            pred = [floatify_ans(ans)]
+            if pred[0] is None:
+                return float('inf')
+        else:
+            sentence = sentence.replace(',', '')
+            pred = [s for s in re.findall(r'-?\d+\.?\d*', sentence)]
         if not pred:
             return float('inf')
         pred_answer = float(pred[-1])
