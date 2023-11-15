@@ -1,0 +1,6119 @@
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please submit your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+CUDA_SETUP: WARNING! libcudart.so not found in any environmental path. Searching /usr/local/cuda/lib64...
+CUDA SETUP: CUDA runtime path found: /usr/local/cuda/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 7.0
+CUDA SETUP: Detected CUDA version 111
+CUDA SETUP: Loading binary /home/users/qing_meng/.conda/envs/llama_adapter_env/lib/python3.9/site-packages/bitsandbytes/libbitsandbytes_cuda111_nocublaslt.so...
+ 
+---------------
+1. Let x be the number of hours Tom paid to have the bike checked out.
+2. The total cost of renting the bike is 17 + 7x.
+3. We know that Tom paid 80 dollars, so we can set up the equation:
+17 + 7x = 80
+4. Solving for x, we get:
+x = 80/17 = 5
+Therefore, Tom paid to have the bike checked out for 5 hours.</s>
+prediction: 5.0
+label: 9.0
+---------------
+test:1/508 | accuracy 0  0.0
+ 
+---------------
+1. Add the amount of wheat bread and white bread served: 0.2 + 0.4 = 0.6
+2. The total amount of bread served is 0.6 loaves.
+
+Answer: 0.6 loaves.</s>
+prediction: 0.6
+label: 0.6
+---------------
+test:2/508 | accuracy 1  0.5
+ 
+---------------
+1. Start with the number of pennies Sam had: 98
+2. Subtract the number of pennies he spent: 98 - 93 = 5
+3. Sam now has 5 pennies.
+
+Answer: Sam now has 5 pennies.</s>
+prediction: 5.0
+label: 5.0
+---------------
+test:3/508 | accuracy 2  0.6666666666666666
+ 
+---------------
+1. Start with the initial height of the tree: 4 feet.
+2. Calculate the growth of the tree in one year: 5 feet.
+3. Multiply the growth by the number of years: 5 x 1 = 5 feet.
+4. Add the growth to the initial height: 4 + 5 = 9 feet.
+5. The tree will take 9 years to be 29 feet tall.
+
+Answer: 9</s>
+prediction: 9.0
+label: 5.0
+---------------
+test:4/508 | accuracy 2  0.5
+ 
+---------------
+1. Add the number of blue balloons Joan has to the number of blue balloons Melanie has: 
+
+40 + 41 = 81 
+
+2. The total number of blue balloons they have is 81. 
+
+Answer: 81</s>
+prediction: 81.0
+label: 81.0
+---------------
+test:5/508 | accuracy 3  0.6
+ 
+---------------
+1. Divide the total number of glasses served by the number of glasses per pitcher: 
+30 glasses ÷ 5 glasses per pitcher = 6 pitchers 
+
+Therefore, Christian's mother prepared 6 pitchers of lemonade.</s>
+prediction: 6.0
+label: 6.0
+---------------
+test:6/508 | accuracy 4  0.6666666666666666
+ 
+---------------
+1. Let x be the number of puppies Alyssa had to start with.
+2. Alyssa gave 7 puppies to her friends, so she has x - 7 puppies left.
+3. We also know that Alyssa now has 5 puppies left, so we can set up the equation:
+x - 7 = 5
+4. To solve for x, we can add 7 to both sides:
+x - 7 + 7 = 5 + 7
+x = 12
+
+Therefore, Alyssa had 12 puppies to start with.</s>
+prediction: 12.0
+label: 12.0
+---------------
+test:7/508 | accuracy 5  0.7142857142857143
+ 
+---------------
+1. Identify the given information:
+- Each day they drove 250 miles.
+- They took a 5 day vacation.
+
+2. Use multiplication to find the total miles driven:
+Total miles driven = 250 miles/day x 5 days
+Total miles driven = 1250 miles
+
+3. Write the answer in Arabic numerals:
+The Sumata family drove a total of 1250 miles.</s>
+prediction: 1250.0
+label: 1250.0
+---------------
+test:8/508 | accuracy 6  0.75
+ 
+---------------
+1. Add the number of potatoes grown by Nancy and Sandy: 6 + 7 = 13
+2. The total number of potatoes grown by Nancy and Sandy is 13.
+
+Answer: 13</s>
+prediction: 13.0
+label: 13.0
+---------------
+test:9/508 | accuracy 7  0.7777777777777778
+ 
+---------------
+1. Start with the number of roses in the vase: 6
+2. Add the number of roses Mary cut from her garden: 16
+3. Subtract the number of roses in the vase from the number Mary cut: 16 - 6 = 10
+
+Therefore, Mary cut 10 more roses from her garden. The answer in Arabic numerals is 10.</s>
+prediction: 10.0
+label: 10.0
+---------------
+test:10/508 | accuracy 8  0.8
+ 
+---------------
+1 dozen = 12
+
+So, Sara, Keith, Benny, and Alyssa have a total of:
+
+96 x 12 = 1152
+
+Therefore, they have 1152 dozen baseball cards in all.
+
+Answer: 1152.</s>
+prediction: 1152.0
+label: 32.0
+---------------
+test:11/508 | accuracy 8  0.7272727272727273
+ 
+---------------
+1. Add the number of books Tim has to the number of books Mike has: 
+
+22 + 20 = 42 
+
+2. Therefore, they have a total of 42 books together. 
+
+Answer: 42</s>
+prediction: 42.0
+label: 42.0
+---------------
+test:12/508 | accuracy 9  0.75
+ 
+---------------
+1 dozen is equal to 12, so 9 dozen is equal to:
+
+9 x 12 = 108
+
+Therefore, Dan bought 108 eggs from the grocery store. 
+
+The answer in Arabic numerals is: 108.</s>
+prediction: 108.0
+label: 108.0
+---------------
+test:13/508 | accuracy 10  0.7692307692307693
+ 
+---------------
+1. Start with the total amount of fruit Gordon bought: 3.42 pounds
+2. Subtract the amount of fruit the class ate: 3.42 - 2.2 = 1.22 pounds
+3. The amount of fruit left is 1.22 pounds.
+
+Answer: 1.22</s>
+prediction: 1.22
+label: 1.22
+---------------
+test:14/508 | accuracy 11  0.7857142857142857
+ 
+---------------
+1. Start with the number of apples Joan picked: 43
+2. Subtract the number of apples she gave to Melanie: 43 - 27 = 16
+3. Joan now has 16 apples.
+
+Answer: Joan now has 16 apples.</s>
+prediction: 16.0
+label: 16.0
+---------------
+test:15/508 | accuracy 12  0.8
+ 
+---------------
+1. Identify the given information:
+- Number of tables = 34
+- Number of students per table = 6
+
+2. Use multiplication to find the total number of students:
+34 x 6 = 204
+
+3. Write the answer in Arabic numerals:
+There were 204 students sitting in the lunchroom.</s>
+prediction: 204.0
+label: 204.0
+---------------
+test:16/508 | accuracy 13  0.8125
+ 
+---------------
+1. Divide the total number of crayons by the number of crayons that can be placed in each box: 
+
+80 ÷ 8 = 10 
+
+2. The answer is 10 boxes. 
+
+Therefore, she needs 10 boxes to place all of her crayons.</s>
+prediction: 10.0
+label: 10.0
+---------------
+test:17/508 | accuracy 14  0.8235294117647058
+ 
+---------------
+1. Start with the number of peaches Mike had initially: 34.
+2. Add the number of peaches he picked: 86.
+3. Perform the addition: 34 + 86 = 120.
+
+Therefore, Mike picked 120 peaches.</s>
+prediction: 120.0
+label: 52.0
+---------------
+test:18/508 | accuracy 14  0.7777777777777778
+ 
+---------------
+1. Start with Tori's original height: 4.4 feet
+2. Add the amount she grew: 2.86 feet
+3. Perform the addition: 4.4 + 2.86 = 7.26 feet
+4. Tori is now 7.26 feet tall.
+
+Answer: Tori is now 7.26 feet tall.</s>
+prediction: 7.26
+label: 7.26
+---------------
+test:19/508 | accuracy 15  0.7894736842105263
+ 
+---------------
+1. Start with the amount Tom had last week: 74 dollars.
+2. Add the amount he has now: 86 dollars.
+3. Subtract the amount he had last week from the amount he has now: 86 - 74 = 12.
+4. Therefore, Tom made 12 dollars washing cars.
+
+Answer: Tom made 12 dollars washing cars.</s>
+prediction: 12.0
+label: 12.0
+---------------
+test:20/508 | accuracy 16  0.8
+ 
+---------------
+1. Determine the total number of blocks Allen has: 49 blocks
+2. Determine the number of blocks for each color: 7 blocks per color
+3. Divide the total number of blocks by the number of blocks per color to find the number of colors: 49 blocks ÷ 7 blocks per color = 7 colors
+
+Therefore, Shiela used 7 colors to repaint Allen's blocks. The answer in Arabic numerals is 7.</s>
+prediction: 7.0
+label: 7.0
+---------------
+test:21/508 | accuracy 17  0.8095238095238095
+ 
+---------------
+1. Let x be the smallest of the three consecutive even numbers.
+2. The next two consecutive even numbers would be x+2 and x+4.
+3. The sum of these three numbers is given as 162:
+x + (x+2) + (x+4) = 162
+4. Simplifying the equation:
+3x + 6 = 162
+5. Subtracting 6 from both sides:
+3x = 156
+6. Dividing both sides by 3:
+x = 52
+
+Therefore, the smallest of the three consecutive even numbers is 52.</s>
+prediction: 52.0
+label: 52.0
+---------------
+test:22/508 | accuracy 18  0.8181818181818182
+ 
+---------------
+1. Add the fractions for groceries and eating out: 0.6 + 0.2 = 0.8
+2. The Montoya family spends 0.8 of their budget on food.
+
+Answer: 0.8</s>
+prediction: 0.8
+label: 0.8
+---------------
+test:23/508 | accuracy 19  0.8260869565217391
+ 
+---------------
+1. Add the amount of brown sugar and white sugar: 0.625 + 0.25 = 0.875
+2. Subtract the amount of white sugar from the amount of brown sugar: 0.625 - 0.25 = 0.375
+3. Therefore, Victor used 0.375 more brown sugar than white sugar. 
+
+Answer: 0.375</s>
+prediction: 0.375
+label: 0.375
+---------------
+test:24/508 | accuracy 20  0.8333333333333334
+ 
+---------------
+1. Identify the given information: 
+- Sara grew 4 onions 
+- Sally grew 5 onions 
+- Fred grew 9 onions 
+
+2. Use addition to find the total number of onions: 
+4 + 5 + 9 = 18 
+
+Therefore, they grew a total of 18 onions. 
+
+Answer: 18</s>
+prediction: 18.0
+label: 18.0
+---------------
+test:25/508 | accuracy 21  0.84
+ 
+---------------
+1. Add the number of seashells Joan found to the number of seashells Jessica found: 6 + 8 = 14
+2. The total number of seashells they found together is 14.
+
+Therefore, they found 14 seashells together.</s>
+prediction: 14.0
+label: 14.0
+---------------
+test:26/508 | accuracy 22  0.8461538461538461
+ 
+---------------
+1. Add the number of games Jason attended in each month: 11 + 17 + 16 = 44
+2. The total number of games Jason will attend in all is 44.
+
+Therefore, the answer is: 44.</s>
+prediction: 44.0
+label: 44.0
+---------------
+test:27/508 | accuracy 23  0.8518518518518519
+ 
+---------------
+1. Add the number of cantaloupes grown by each person: 29 + 16 + 20 = 65
+2. The total number of cantaloupes grown by Keith, Fred, and Jason is 65.
+
+Therefore, they grew a total of 65 cantaloupes.</s>
+prediction: 65.0
+label: 65.0
+---------------
+test:28/508 | accuracy 24  0.8571428571428571
+ 
+---------------
+1. Find the total number of boys in the class: 5
+2. Divide the total number of marbles by the number of boys: 35 ÷ 5 = 7
+3. Each boy will receive 7 marbles.
+
+Answer: Each boy will receive 7 marbles.</s>
+prediction: 7.0
+label: 7.0
+---------------
+test:29/508 | accuracy 25  0.8620689655172413
+ 
+---------------
+1. Find the total number of fleas in Harry Hound's ears: 
+36 (frisky fleas) + 85 (baby fleas) = 121 fleas
+
+2. Subtract the number of fleas that were removed from Harry Hound's ears: 
+121 (total fleas) - 36 (frisky fleas) - 85 (baby fleas) = 9 fleas
+
+Therefore, 9 fleas perished.</s>
+prediction: 9.0
+label: 121.0
+---------------
+test:30/508 | accuracy 25  0.8333333333333334
+ 
+---------------
+1. Add the length of the two worms: 0.8 + 0.1 = 0.9
+2. The longer worm is 0.9 inches long.
+
+Therefore, the longer worm is 0.9 inches long.</s>
+prediction: 0.9
+label: 0.7
+---------------
+test:31/508 | accuracy 25  0.8064516129032258
+ 
+---------------
+1. Find the total number of pages in the short story section by multiplying the number of booklets by the number of pages per booklet: 
+
+49 x 9 = 441 
+
+2. Therefore, Jack will need to go through 441 pages if he plans to read all the booklets in the short story section. 
+
+Answer: 441</s>
+prediction: 441.0
+label: 441.0
+---------------
+test:32/508 | accuracy 26  0.8125
+ 
+---------------
+1. Add the number of yellow balloons Tom has to the number of yellow balloons Sara has: 9 + 8 = 17
+2. The total number of yellow balloons they have is 17.
+
+Answer: 17</s>
+prediction: 17.0
+label: 17.0
+---------------
+test:33/508 | accuracy 27  0.8181818181818182
+ 
+---------------
+1. Add the cost of the basketball game and the racing game: $5.20 + $4.23 = $9.43
+2. Joan spent $9.43 on video games.
+
+Answer: Joan spent $9.43 on video games.</s>
+prediction: 9.43
+label: 9.43
+---------------
+test:34/508 | accuracy 28  0.8235294117647058
+ 
+---------------
+1. Divide the total number of games by the number of months: 
+
+323 games ÷ 17 months = 19 games per month 
+
+2. The answer is 19.</s>
+prediction: 19.0
+label: 19.0
+---------------
+test:35/508 | accuracy 29  0.8285714285714286
+ 
+---------------
+1. Divide the total number of stickers by the number of friends who like stickers: 
+
+72 ÷ 9 = 8 
+
+2. Each friend will receive 8 stickers. 
+
+Therefore, each friend will receive 8 stickers.</s>
+prediction: 8.0
+label: 8.0
+---------------
+test:36/508 | accuracy 30  0.8333333333333334
+ 
+---------------
+1. Let x be the number of kittens Tim started with.
+2. He gave 3 to Jessica and 6 to Sara, so he gave away a total of 3 + 6 = 9 kittens.
+3. He now has 9 kittens left, so x - 9 = 9.
+4. Solving for x, we get x = 18.
+
+Therefore, Tim started with 18 kittens.</s>
+prediction: 18.0
+label: 18.0
+---------------
+test:37/508 | accuracy 31  0.8378378378378378
+ 
+---------------
+1. Find the total distance Stanley ran and walked: 
+
+0.4 miles + 0.2 miles = 0.6 miles 
+
+2. Subtract the distance Stanley walked from the distance he ran: 
+
+0.4 miles - 0.2 miles = 0.2 miles 
+
+Therefore, Stanley ran 0.2 miles farther than he walked. 
+
+Answer: 0.2 miles</s>
+prediction: 0.2
+label: 0.2
+---------------
+test:38/508 | accuracy 32  0.8421052631578947
+ 
+---------------
+1. Determine the number of hockey games in one month: 13
+2. Multiply the number of hockey games in one month by the number of months in a season: 13 x 14 = 182
+3. Therefore, there are 182 hockey games in a season.
+
+Answer: 182</s>
+prediction: 182.0
+label: 182.0
+---------------
+test:39/508 | accuracy 33  0.8461538461538461
+ 
+---------------
+1. Identify the given information:
+- Bryan has 56 books in each of his 9 bookshelves.
+
+2. Use multiplication to find the total number of books:
+56 x 9 = 504
+
+3. Write the answer in Arabic numerals:
+Bryan has a total of 504 books.</s>
+prediction: 504.0
+label: 504.0
+---------------
+test:40/508 | accuracy 34  0.85
+ 
+---------------
+1. Add the number of coins Kylie got from her piggy bank and her brother: 15 + 13 = 28
+2. Add the number of coins Kylie got from her father: 28 + 8 = 36
+3. Subtract the number of coins Kylie gave to Laura: 36 - 21 = 15
+
+Therefore, Kylie had 15 coins left.</s>
+prediction: 15.0
+label: 15.0
+---------------
+test:41/508 | accuracy 35  0.8536585365853658
+ 
+---------------
+1. Convert the height of the old lamp from feet to inches: 1 foot = 12 inches
+2. Convert the height of the new lamp from feet to inches: 2.3333333333333335 feet = 23.333333333333333 inches
+3. Subtract the height of the old lamp from the height of the new lamp: 23.333333333333333 inches - 12 inches = 11.3333333333333335 inches
+4. The new lamp is 11.3333333333333335 inches taller than the old lamp.
+
+Answer: 11.3333333333333335</s>
+prediction: 11.333333333333334
+label: 1.3333333333333333
+---------------
+test:42/508 | accuracy 35  0.8333333333333334
+ 
+---------------
+1. Multiply the number of hours Mike worked each day by the number of days he worked: 
+3 hours/day x 5 days = 15 hours 
+
+2. Therefore, Mike worked for a total of 15 hours. 
+
+Answer: 15</s>
+prediction: 15.0
+label: 15.0
+---------------
+test:43/508 | accuracy 36  0.8372093023255814
+ 
+---------------
+1. Nina ran 0.08333333333333333 of a mile.
+2. Nina ran 0.08333333333333333 of a mile and 0.6666666666666666 of a mile more.
+3. To find the total distance Nina ran, we need to add the two distances: 0.08333333333333333 + 0.6666666666666666 = 0.75
+4. Therefore, Nina ran a total of 0.75 miles.
+
+Answer: 0.75</s>
+prediction: 0.75
+label: 0.8333333333333334
+---------------
+test:44/508 | accuracy 36  0.8181818181818182
+ 
+---------------
+1. Multiply the number of calories in one candy bar by the number of candy bars: 
+
+31 calories/candy bar x 11 candy bars = 341 calories 
+
+2. Therefore, there are 341 calories in 11 candy bars. 
+
+Answer: 341</s>
+prediction: 341.0
+label: 341.0
+---------------
+test:45/508 | accuracy 37  0.8222222222222222
+ 
+---------------
+1. Divide the total amount of money by the denomination of each bill: 
+
+45 dollars ÷ 5 dollars/bill = 9 bills 
+
+2. The answer is 9. 
+
+Therefore, Mike has 9 five dollar bills.</s>
+prediction: 9.0
+label: 9.0
+---------------
+test:46/508 | accuracy 38  0.8260869565217391
+ 
+---------------
+1. Determine the number of baseball games in one month: 7
+2. Determine the number of baseball games in two months: 7 x 2 = 14
+3. Therefore, there are 14 baseball games in a season.
+
+Answer: 14</s>
+prediction: 14.0
+label: 14.0
+---------------
+test:47/508 | accuracy 39  0.8297872340425532
+ 
+---------------
+1. Add the number of pears picked by Jason and Keith: 46 + 47 = 93
+2. Add the number of pears picked by Mike to the sum from step 1: 93 + 12 = 105
+3. The total number of pears picked is 105.
+
+Answer: 105</s>
+prediction: 105.0
+label: 105.0
+---------------
+test:48/508 | accuracy 40  0.8333333333333334
+ 
+---------------
+1. Add the amount of corn harvested by Greg and Sharon: 0.4 + 0.1 = 0.5 acres
+2. Subtract Sharon's harvest from Greg's harvest: 0.4 - 0.1 = 0.3 acres
+3. Therefore, Greg harvested 0.3 more acres than Sharon. 
+
+Answer: 0.3 acres</s>
+prediction: 0.3
+label: 0.3
+---------------
+test:49/508 | accuracy 41  0.8367346938775511
+ 
+---------------
+1. Divide the total number of markers by the number of packages: 
+
+40 ÷ 7 = 5 
+
+2. Therefore, there are 5 markers in each package. 
+
+Answer: 5</s>
+prediction: 5.0
+label: 5.0
+---------------
+test:50/508 | accuracy 42  0.84
+ 
+---------------
+1. Identify the given information: 
+- Fred earns $12.50 an hour cleaning houses. 
+- He works for 8 hours. 
+
+2. Use the formula: 
+Total earnings = rate per hour x number of hours worked 
+
+3. Substitute the given values into the formula: 
+Total earnings = $12.50 x 8 
+
+4. Multiply: 
+Total earnings = $100 
+
+Therefore, Fred will make $100 if he works for 8 hours cleaning houses.</s>
+prediction: 8.0
+label: 100.0
+---------------
+test:51/508 | accuracy 42  0.8235294117647058
+ 
+---------------
+1. Divide the total number of cherry tomatoes by the number of cherry tomatoes that can be placed in each jar: 
+
+56 cherry tomatoes ÷ 8 cherry tomatoes per jar = 7 jars 
+
+2. The answer is 7 jars.</s>
+prediction: 7.0
+label: 7.0
+---------------
+test:52/508 | accuracy 43  0.8269230769230769
+ 
+---------------
+1. Let x be the number of hours the job took.
+2. The cost of labor is 45x.
+3. The total cost is the sum of the cost of labor and the cost of the parts: 45x + 225 = 450.
+4. Subtracting 225 from both sides: 45x = 225.
+5. Dividing both sides by 45: x = 5.
+
+Therefore, the job took 5 hours.</s>
+prediction: 5.0
+label: 5.0
+---------------
+test:53/508 | accuracy 44  0.8301886792452831
+ 
+---------------
+1. Add the cost of the marbles, football, and baseball: 
+
+$9.05 + $4.95 + $6.52 = $20.52 
+
+2. Therefore, Mike spent $20.52 on toys. 
+
+Answer: $20.52</s>
+prediction: 20.52
+label: 20.52
+---------------
+test:54/508 | accuracy 45  0.8333333333333334
+ 
+---------------
+1. Find the total distance Mrs. Hilt will walk by multiplying the distance from her desk to the fountain by the number of times she will go to the fountain: 
+
+30 feet x 4 = 120 feet 
+
+2. Therefore, Mrs. Hilt will walk 120 feet on her trips to the fountain if she goes to the water fountain 4 times today. 
+
+Answer: 120</s>
+prediction: 120.0
+label: 120.0
+---------------
+test:55/508 | accuracy 46  0.8363636363636363
+ 
+---------------
+1. Determine the value of the pennies: 9 pennies x $0.01/penny = $0.90
+2. Determine the value of the quarters: 7 quarters x $0.25/quarter = $1.75
+3. Add the value of the pennies and quarters: $0.90 + $1.75 = $2.65
+
+Therefore, Sam has $2.65.</s>
+prediction: 2.65
+label: 1.84
+---------------
+test:56/508 | accuracy 46  0.8214285714285714
+ 
+---------------
+1. Find the difference in length between the green caterpillar and the orange caterpillar: 
+
+3 inches - 1.1666666666666667 inches = 1.8333333333333333 inches 
+
+2. The green caterpillar is 1.8333333333333333 inches longer than the orange caterpillar. 
+
+Answer: 1.8333333333333333</s>
+prediction: 1.8333333333333333
+label: 1.8333333333333335
+---------------
+test:57/508 | accuracy 47  0.8245614035087719
+ 
+---------------
+1. Find the total cost of the movie tickets by multiplying the cost of one ticket by the number of tickets: 
+   $10.62 x 2 = $21.24
+
+2. Add the cost of the rented movie to the total cost of the tickets: 
+   $21.24 + $1.59 = $22.83
+
+3. Add the cost of the bought movie to the total cost of the tickets and rented movie: 
+   $22.83 + $13.95 = $36.78
+
+Therefore, Sara spent $36.78 on movies in total.</s>
+prediction: 36.78
+label: 36.78
+---------------
+test:58/508 | accuracy 48  0.8275862068965517
+ 
+---------------
+1. Fred paid $5.92 each on 2 tickets to a movie theater, so he paid a total of $5.92 x 2 = $11.84.
+2. Fred also borrowed a movie for $6.79, so he paid a total of $11.84 + $6.79 = $18.63.
+3. Fred paid with a $20 bill, so his change would be $20 - $18.63 = $1.37.
+
+Therefore, Fred received $1.37 in change.</s>
+prediction: 1.37
+label: 1.37
+---------------
+test:59/508 | accuracy 49  0.8305084745762712
+ 
+---------------
+1. Fred had 47 seashells.
+2. He gave Jessica 25 of the seashells.
+3. To find out how many seashells Fred has left, we need to subtract the number of seashells he gave to Jessica from the total number he found.
+4. 47 - 25 = 22
+5. Therefore, Fred now has 22 seashells.
+
+Answer: Fred now has 22 seashells.</s>
+prediction: 22.0
+label: 22.0
+---------------
+test:60/508 | accuracy 50  0.8333333333333334
+ 
+---------------
+1. Add the number of books Tim has to the number of books Sam has: 44 + 52 = 96
+2. The total number of books they have together is 96.
+
+Answer: 96</s>
+prediction: 96.0
+label: 96.0
+---------------
+test:61/508 | accuracy 51  0.8360655737704918
+ 
+---------------
+1. Determine the total number of balls Haley has: 36 balls
+2. Divide the total number of balls by the number of balls per bag: 36 ÷ 4 = 9 bags
+3. The answer is 9 bags.</s>
+prediction: 9.0
+label: 9.0
+---------------
+test:62/508 | accuracy 52  0.8387096774193549
+ 
+---------------
+1. Start with the number of books Joan had: 33
+2. Subtract the number of books she sold: 33 - 26 = 7
+3. Joan now has 7 books.
+
+Answer: Joan now has 7 books.</s>
+prediction: 7.0
+label: 7.0
+---------------
+test:63/508 | accuracy 53  0.8412698412698413
+ 
+---------------
+1. Mary has 4 times more black balloons than Nancy, which means Mary has 4 x 7 = 28 black balloons.
+2. Therefore, Mary has 28 black balloons now.
+
+Answer: Mary has 28 black balloons now.</s>
+prediction: 28.0
+label: 28.0
+---------------
+test:64/508 | accuracy 54  0.84375
+ 
+---------------
+1. Add the number of cars produced in North America and Europe: 3,884 + 2,871 = 6,755
+2. The total number of cars produced in North America and Europe is 6,755.
+
+Therefore, the answer is: 6,755.</s>
+prediction: 6755.0
+label: 6755.0
+---------------
+test:65/508 | accuracy 55  0.8461538461538461
+ 
+---------------
+1. Determine the total number of stars made by one student: 3 stars
+2. Multiply the number of stars made by one student by the number of students: 3 stars x 124 students = 372 stars
+3. Therefore, the 124 students will make 372 stars all together. 
+
+Answer: 372</s>
+prediction: 372.0
+label: 372.0
+---------------
+test:66/508 | accuracy 56  0.8484848484848485
+ 
+---------------
+1. Add the number of passengers who landed on time to the number of passengers who landed late: 
+
+14,507 + 213 = 14,720 
+
+2. The total number of passengers who landed in Newberg last year is 14,720. 
+
+Answer: 14,720</s>
+prediction: 14720.0
+label: 14720.0
+---------------
+test:67/508 | accuracy 57  0.8507462686567164
+ 
+---------------
+1. Start with the number of pencils in the drawer: 115
+2. Add the number of pencils Sara placed: 100
+3. Perform the addition: 115 + 100 = 215
+
+Therefore, there are now 215 pencils in all.</s>
+prediction: 215.0
+label: 215.0
+---------------
+test:68/508 | accuracy 58  0.8529411764705882
+ 
+---------------
+1. Multiply the number of sacks harvested per section by the number of sections: 45 sacks/section x 8 sections = 360 sacks
+2. The total number of sacks harvested every day is 360 sacks.
+
+Therefore, the answer is: 360.</s>
+prediction: 360.0
+label: 360.0
+---------------
+test:69/508 | accuracy 59  0.855072463768116
+ 
+---------------
+1. Add the number of books Keith has to the number of books Jason has: 20 + 21 = 41
+2. The total number of books they have together is 41.
+
+Therefore, Keith and Jason have 41 books together.</s>
+prediction: 41.0
+label: 41.0
+---------------
+test:70/508 | accuracy 60  0.8571428571428571
+ 
+---------------
+1. Determine the number of cinnamon balls needed per day: 1 cinnamon ball per sock x 5 socks = 5 cinnamon balls per day
+2. Divide the total number of cinnamon balls by the number needed per day: 50 cinnamon balls ÷ 5 cinnamon balls per day = 10 days
+3. The answer is 10 days.</s>
+prediction: 10.0
+label: 10.0
+---------------
+test:71/508 | accuracy 61  0.8591549295774648
+ 
+---------------
+1. Add the cost of the trumpet and the song book: $145.16 + $5.84 = $151
+2. Therefore, Mike spent $151 at the music store. 
+
+Answer: $151</s>
+prediction: 151.0
+label: 151.0
+---------------
+test:72/508 | accuracy 62  0.8611111111111112
+ 
+---------------
+1. Find the total amount Manuel needs to save in 19 weeks: 
+500 dollars 
+
+2. Divide the total amount by the number of weeks: 
+500 dollars ÷ 19 weeks = 25 dollars per week 
+
+Therefore, Manuel must save 25 dollars each week to reach his goal of 500 dollars in 19 weeks. The answer in Arabic numerals is 25.</s>
+prediction: 25.0
+label: 17.0
+---------------
+test:73/508 | accuracy 62  0.8493150684931506
+ 
+---------------
+1. Add the amounts of rocky road, cookie dough, and strawberry cheesecake ice cream: 0.3333333333333333 + 0.3333333333333333 + 0.16666666666666666 = 0.7333333333333333
+2. The total amount of ice cream is 0.7333333333333333.
+3. Therefore, Allie had 0.7333333333333333 of a carton of ice cream in all.
+
+Answer: 0.7333333333333333</s>
+prediction: 0.7333333333333333
+label: 0.8333333333333334
+---------------
+test:74/508 | accuracy 62  0.8378378378378378
+ 
+---------------
+1. Jason has 3 Pokemon cards.
+2. Benny bought 2 of Jason's Pokemon cards.
+3. Jason now has 1 Pokemon card.
+
+Therefore, Jason has 1 Pokemon card now.</s>
+prediction: 1.0
+label: 1.0
+---------------
+test:75/508 | accuracy 63  0.84
+ 
+---------------
+1. Convert Vince's bus ride to miles: 0.625 miles = 0.625 miles
+2. Convert Zachary's bus ride to miles: 0.5 miles = 0.5 miles
+3. Subtract Vince's bus ride from Zachary's bus ride: 0.5 miles - 0.625 miles = 0.125 miles
+4. The difference between Vince's bus ride and Zachary's bus ride is 0.125 miles.
+
+Therefore, Vince's bus ride is 0.125 miles longer than Zachary's bus ride. The answer in Arabic numerals is 0.125.</s>
+prediction: 0.125
+label: 0.125
+---------------
+test:76/508 | accuracy 64  0.8421052631578947
+ 
+---------------
+1. Add the cost of the football and baseball: $9.14 + $6.81 = $15.95
+2. Subtract the total cost from the amount paid with the $20 bill: $20.00 - $15.95 = $4.05
+3. Therefore, Sandy received $4.05 in change. 
+
+Answer: $4.05</s>
+prediction: 4.05
+label: 4.05
+---------------
+test:77/508 | accuracy 65  0.8441558441558441
+ 
+---------------
+1. Start with the total number of games played: 64
+2. Subtract the number of games Melanie attended: 64 - 32 = 32
+3. Therefore, Melanie missed 32 soccer games.
+
+Answer: Melanie missed 32 soccer games.</s>
+prediction: 32.0
+label: 32.0
+---------------
+test:78/508 | accuracy 66  0.8461538461538461
+ 
+---------------
+1. Start with the number of orange marbles Mike has: 8
+2. Subtract the number of marbles he gave to Sam: 4
+3. The result is the number of marbles Mike now has: 4
+
+Therefore, Mike now has 4 orange marbles.</s>
+prediction: 4.0
+label: 4.0
+---------------
+test:79/508 | accuracy 67  0.8481012658227848
+ 
+---------------
+1. Find the total distance Craig rode by adding the distance he rode on the bus and the distance he walked: 
+
+3.8333333333333335 + 0.16666666666666666 = 3.999999999999999
+
+2. Subtract the distance Craig walked from the distance he rode to find the difference: 
+
+3.999999999999999 - 0.16666666666666666 = 3.8333333333333335
+
+Therefore, Craig rode 3.8333333333333335 miles farther than he walked. The answer in Arabic numerals is 3.8333333333333335.</s>
+prediction: 3.8333333333333335
+label: 3.6666666666666665
+---------------
+test:80/508 | accuracy 67  0.8375
+ 
+---------------
+1. Start with the number of popular trees currently in the park: 25
+2. Add the number of popular trees the workers will plant today: 73
+3. Perform the addition: 25 + 73 = 98
+4. The park will have 98 popular trees when the workers are finished.
+
+Answer: 98</s>
+prediction: 98.0
+label: 98.0
+---------------
+test:81/508 | accuracy 68  0.8395061728395061
+ 
+---------------
+1. Start with the initial amount of water: 3 gallons
+2. Add the amount Derek added: 6.8 gallons
+3. Calculate the total amount of water: 3 + 6.8 = 9.8 gallons
+
+Therefore, there will be 9.8 gallons of water in all.</s>
+prediction: 9.8
+label: 9.8
+---------------
+test:82/508 | accuracy 69  0.8414634146341463
+ 
+---------------
+1. Add the cost of the flute, music stand, and song book: $142.46 + $8.89 + $7 = $158.35
+2. Therefore, Jason spent $158.35 at the music store. 
+
+Answer: $158.35</s>
+prediction: 158.35
+label: 158.35
+---------------
+test:83/508 | accuracy 70  0.8433734939759037
+ 
+---------------
+1. Find the total number of heart-shaped stones Shannon has: 48
+2. Divide the total number of stones by the number of stones in each bracelet: 48 ÷ 8 = 6
+3. Shannon can make 6 bracelets with heart-shaped stones.
+
+Answer: Shannon can make 6 bracelets with heart-shaped stones.</s>
+prediction: 6.0
+label: 6.0
+---------------
+test:84/508 | accuracy 71  0.8452380952380952
+ 
+---------------
+1 dozen = 12
+So, 4 dozen = 4 x 12 = 48 pencils
+Therefore, the teacher will have to give out 48 pencils.
+The answer in Arabic numerals is 48.</s>
+prediction: 48.0
+label: 2208.0
+---------------
+test:85/508 | accuracy 71  0.8352941176470589
+ 
+---------------
+1. Start with the number of apples the farmer had: 127
+2. Subtract the number of apples the farmer gave to his neighbor: 127 - 88 = 39
+3. The farmer now has 39 apples.
+
+Answer: The farmer now has 39 apples.</s>
+prediction: 39.0
+label: 39.0
+---------------
+test:86/508 | accuracy 72  0.8372093023255814
+ 
+---------------
+1. Find the total number of pies: 16 + 14 = 30
+2. Divide the total number of pies by the number of pies in each row: 30 ÷ 5 = 6
+3. Mrs. Hilt will have 6 rows of pies.
+
+Answer: 6</s>
+prediction: 6.0
+label: 6.0
+---------------
+test:87/508 | accuracy 73  0.8390804597701149
+ 
+---------------
+1. Add the number of blue balloons each person has: 9 + 5 + 2 = 16
+2. The total number of blue balloons they have is 16.
+
+Answer: 16</s>
+prediction: 16.0
+label: 16.0
+---------------
+test:88/508 | accuracy 74  0.8409090909090909
+ 
+---------------
+1 dozen is equal to 12, so 9 dozen is equal to 9 x 12 = 108.
+Therefore, they have a total of 108 Pokemon cards.
+The answer in Arabic numerals is 108.</s>
+prediction: 108.0
+label: 432.0
+---------------
+test:89/508 | accuracy 74  0.8314606741573034
+ 
+---------------
+1. Find the total distance Wendy ran and walked: 
+
+19.833333333333332 + 9.166666666666666 = 29
+
+2. Subtract the distance Wendy walked from the distance she ran: 
+
+19.833333333333332 - 9.166666666666666 = 10.666666666666666
+
+Therefore, Wendy ran 10.666666666666666 miles farther than she walked. 
+
+Answer: 10.666666666666666 miles.</s>
+prediction: 10.666666666666666
+label: 10.666666666666666
+---------------
+test:90/508 | accuracy 75  0.8333333333333334
+ 
+---------------
+1. Start with the initial number of maple trees: 53
+2. Add the number of maple trees planted by the workers: 64
+3. Subtract the initial number of maple trees from the final number of maple trees: 64 - 53 = 11
+4. The workers planted 11 maple trees today.
+
+Answer: 11</s>
+prediction: 11.0
+label: 11.0
+---------------
+test:91/508 | accuracy 76  0.8351648351648352
+ 
+---------------
+1. Add the cost of the berries, apples, and peaches: $11.08 + $14.33 + $9.31 = $34.72
+2. Therefore, Mary spent $34.72 on fruits.
+
+Answer: $34.72</s>
+prediction: 34.72
+label: 34.72
+---------------
+test:92/508 | accuracy 77  0.8369565217391305
+ 
+---------------
+1. Start with the amount of money Carrie's mom gave her: $91.
+2. Subtract the cost of the sweater: $91 - $24 = $67.
+3. Subtract the cost of the T-shirt: $67 - $6 = $61.
+4. Subtract the cost of the shoes: $61 - $11 = $50.
+
+Therefore, Carrie has $50 left.</s>
+prediction: 50.0
+label: 50.0
+---------------
+test:93/508 | accuracy 78  0.8387096774193549
+ 
+---------------
+1. Start with the initial amount of cargo: 5,973 tons
+2. Add the amount of cargo loaded in the Bahamas: 8,723 tons
+3. Calculate the total amount of cargo: 5,973 + 8,723 = 14,696 tons
+
+Therefore, the ship now holds 14,696 tons of cargo.</s>
+prediction: 14696.0
+label: 14696.0
+---------------
+test:94/508 | accuracy 79  0.8404255319148937
+ 
+---------------
+1. Identify the given information: 5 clown mobiles, each stuffed with 28 clowns.
+2. Use multiplication to find the total number of clowns: 5 clown mobiles x 28 clowns per mobile = 140 clowns.
+3. Write the answer in Arabic numerals: 140 clowns.
+
+Therefore, there are 140 clowns inside all the clown mobiles combined.</s>
+prediction: 140.0
+label: 140.0
+---------------
+test:95/508 | accuracy 80  0.8421052631578947
+ 
+---------------
+1. Convert the distances to miles: 
+- Oscar's bus ride is 0.75 miles
+- Charlie's bus ride is 0.25 miles
+
+2. Find the difference between the distances: 
+- Subtract Charlie's distance from Oscar's distance: 0.75 - 0.25 = 0.5 miles
+
+3. Therefore, Oscar's bus ride is 0.5 miles longer than Charlie's. 
+
+Answer: 0.5 miles</s>
+prediction: 0.5
+label: 0.5
+---------------
+test:96/508 | accuracy 81  0.84375
+ 
+---------------
+1. Add the number of pages Rosa called last week (10.2) to the number of pages she called this week (8.6): 
+
+10.2 + 8.6 = 18.8 
+
+2. The total number of pages worth of people Rosa called is 18.8. 
+
+Answer: 18.8</s>
+prediction: 18.8
+label: 18.8
+---------------
+test:97/508 | accuracy 82  0.845360824742268
+ 
+---------------
+1 dozen = 12
+
+So, 96 birds = 96/12 = 8 dozens
+
+Therefore, Sara saw 8 dozen birds.
+
+The answer in Arabic numerals is 8.</s>
+prediction: 8.0
+label: 8.0
+---------------
+test:98/508 | accuracy 83  0.8469387755102041
+ 
+---------------
+1. Find the total number of pieces of cinnamon swirls: 12
+2. Divide the total number of pieces by the number of people who will be eating them: 12 ÷ 3 = 4
+3. Each person will eat 4 pieces of cinnamon swirls.
+4. Therefore, Jane ate 4 pieces of cinnamon swirls. 
+
+Answer: Jane ate 4 pieces of cinnamon swirls.</s>
+prediction: 4.0
+label: 4.0
+---------------
+test:99/508 | accuracy 84  0.8484848484848485
+ 
+---------------
+1. Start with the initial amount of water: 7.75 gallons
+2. Add the amount of water Becky will add: 7 gallons
+3. Calculate the total amount of water: 7.75 + 7 = 14.75 gallons
+
+Therefore, there will be 14.75 gallons of water in Becky's fish tank after she adds 7 more gallons. The answer in Arabic numerals is 14.75.</s>
+prediction: 14.75
+label: 14.75
+---------------
+test:100/508 | accuracy 85  0.85
+ 
+---------------
+1. Add the amount of snow that fell on Monday and Tuesday: 
+
+0.32 + 0.21 = 0.53 
+
+2. Therefore, the total amount of snow that fell on Monday and Tuesday combined is 0.53 inches. 
+
+Answer: 0.53</s>
+prediction: 0.53
+label: 0.53
+---------------
+test:101/508 | accuracy 86  0.8514851485148515
+ 
+---------------
+1. Elise starts with $8.
+2. She saves $13, so she has $8 + $13 = $21.
+3. She spends $2 on a comic book, so she has $21 - $2 = $19.
+4. She spends $18 on a puzzle, so she has $19 - $18 = $1.
+
+Therefore, Elise has $1 left.</s>
+prediction: 1.0
+label: 1.0
+---------------
+test:102/508 | accuracy 87  0.8529411764705882
+ 
+---------------
+1. Identify the given information: Nancy has 9 five dollars bills.
+2. Determine the operation to use: To find the total amount of money Nancy has, we need to multiply the number of bills by the value of each bill.
+3. Perform the operation: 9 x 5 = 45
+4. State the answer: Nancy has $45.
+
+Therefore, Nancy has $45.</s>
+prediction: 45.0
+label: 45.0
+---------------
+test:103/508 | accuracy 88  0.8543689320388349
+ 
+---------------
+1. Start with the total number of people watching the movie: 532
+2. Subtract the number of people watching the movie from the total number of seats: 750 - 532 = 218
+3. Therefore, there are 218 seats empty in the theater.
+
+Answer: 218</s>
+prediction: 218.0
+label: 218.0
+---------------
+test:104/508 | accuracy 89  0.8557692307692307
+ 
+---------------
+1. Add the number of crayons Karen has to the number of crayons Cindy has: 
+
+639 + 504 = 1143 
+
+2. Subtract the number of crayons Cindy has from the number of crayons Karen has: 
+
+639 - 504 = 135 
+
+Therefore, Karen has 135 more crayons than Cindy. The answer in Arabic numerals is 135.</s>
+prediction: 135.0
+label: 135.0
+---------------
+test:105/508 | accuracy 90  0.8571428571428571
+ 
+---------------
+1. Find the total number of wheels on the bicycles: 
+24 bicycles x 2 wheels per bicycle = 48 bicycle wheels 
+
+2. Find the total number of wheels on the tricycles: 
+14 tricycles x 3 wheels per tricycle = 42 tricycle wheels 
+
+3. Add the number of bicycle wheels and tricycle wheels together: 
+48 bicycle wheels + 42 tricycle wheels = 90 total wheels 
+
+Therefore, there are 90 wheels in all.</s>
+prediction: 90.0
+label: 90.0
+---------------
+test:106/508 | accuracy 91  0.8584905660377359
+ 
+---------------
+1. Trisha walked 0.1111111111111111 of a mile from her hotel to a postcard shop.
+2. Trisha walked 0.1111111111111111 of a mile from the postcard shop to a T-shirt shop.
+3. Trisha walked 0.6666666666666666 of a mile from the T-shirt shop back to the hotel.
+4. To find the total distance Trisha walked, we need to add up the distances she walked from her hotel to the postcard shop, from the postcard shop to the T-shirt shop, and from the T-shirt shop back to the hotel.
+5. 0.1111111111111111 + 0.1111111111111111 + 0.6666666666666666 = 0.8888888888888
+prediction: 0.8888888888888
+label: 0.8888888888888888
+---------------
+test:107/508 | accuracy 92  0.8598130841121495
+ 
+---------------
+1. Multiply the number of seats by the number of people each seat can hold: 
+
+14 x 6 = 84 
+
+2. Therefore, the Ferris wheel can hold 84 people at the same time. 
+
+Answer: 84</s>
+prediction: 84.0
+label: 84.0
+---------------
+test:108/508 | accuracy 93  0.8611111111111112
+ 
+---------------
+1. Add the weight of almonds and pecans: 0.14 kg + 0.38 kg = 0.52 kg
+2. The chef bought a total of 0.52 kilograms of nuts.
+
+Answer: 0.52</s>
+prediction: 0.52
+label: 0.52
+---------------
+test:109/508 | accuracy 94  0.8623853211009175
+ 
+---------------
+1. Find the total number of students who went to the zoo: 375
+2. Divide the total number of students by the number of buses: 375 ÷ 7 = 52
+3. Each bus had 52 students.
+
+Therefore, there were 52 students in each bus.</s>
+prediction: 52.0
+label: 53.0
+---------------
+test:110/508 | accuracy 94  0.8545454545454545
+ 
+---------------
+0.20 of a number can be written as 0.2x.
+
+So, 0.2x - 4 = 6
+
+Adding 4 to both sides, we get:
+
+0.2x = 10
+
+Dividing both sides by 0.2, we get:
+
+x = 50
+
+Therefore, the number is 50.</s>
+prediction: 50.0
+label: 50.0
+---------------
+test:111/508 | accuracy 95  0.8558558558558559
+ 
+---------------
+1. Start with the number of walnut trees currently in the park: 107
+2. Add the number of walnut trees the workers will plant today: 104
+3. Perform the addition: 107 + 104 = 211
+4. The park will have 211 walnut trees when the workers are finished.
+
+Answer: 211</s>
+prediction: 211.0
+label: 211.0
+---------------
+test:112/508 | accuracy 96  0.8571428571428571
+ 
+---------------
+1. Add the number of books in the public library to the number of books in the school libraries: 
+
+1,986 + 5,106 = 7,092 
+
+2. The libraries in Oak Grove have a total of 7,092 books. 
+
+Answer: 7,092</s>
+prediction: 7092.0
+label: 7092.0
+---------------
+test:113/508 | accuracy 97  0.8584070796460177
+ 
+---------------
+1. Start with the amount of flour Mary already added: 2 cups.
+2. Subtract that amount from the total amount needed: 8 cups - 2 cups = 6 cups.
+3. Mary needs to add 6 more cups of flour to the cake.
+
+Answer: Mary needs to add 6 more cups of flour to the cake.</s>
+prediction: 6.0
+label: 6.0
+---------------
+test:114/508 | accuracy 98  0.8596491228070176
+ 
+---------------
+1. Add the amount of cinnamon and nutmeg: 0.6666666666666666 + 0.5 = 0.7666666666666666
+2. Subtract the amount of nutmeg from the amount of cinnamon: 0.6666666666666666 - 0.5 = 0.6666666666666666
+3. Therefore, Mandy used 0.6666666666666666 more cinnamon than nutmeg. 
+
+Answer: 0.6666666666666666</s>
+prediction: 0.6666666666666666
+label: 0.16666666666666666
+---------------
+test:115/508 | accuracy 98  0.8521739130434782
+ 
+---------------
+1. Let x be the amount of money in the account before the transfer.
+2. The problem states that after the transfer, the account has $26,935 left in it. So we can set up the equation:
+x - 69 = 26,935
+3. To solve for x, we can add 69 to both sides:
+x = 26,941
+4. Therefore, there was $26,941 in the account before the transfer.</s>
+prediction: 26941.0
+label: 27004.0
+---------------
+test:116/508 | accuracy 98  0.8448275862068966
+ 
+---------------
+1 cent = 1/100 of a dollar
+1 dime = 1/10 of a dollar
+
+To find out how many dimes Fred has, we need to divide 90 cents by 1/10 of a dollar.
+
+90 cents ÷ 1/10 of a dollar = 9 dimes
+
+Therefore, Fred has 9 dimes. The answer in Arabic numerals is 9.</s>
+prediction: 9.0
+label: 9.0
+---------------
+test:117/508 | accuracy 99  0.8461538461538461
+ 
+---------------
+1. Start with the number of stickers on one page: 10.
+2. Multiply the number of stickers on one page by the number of pages: 10 x 22 = 220.
+3. The answer is 220 stickers.
+
+Therefore, you have 220 stickers.</s>
+prediction: 220.0
+label: 220.0
+---------------
+test:118/508 | accuracy 100  0.847457627118644
+ 
+---------------
+1. Find the total number of paper clips: 81
+2. Divide the total number of paper clips by the number of boxes: 81 ÷ 9 = 9
+3. Each box will contain 9 paper clips.
+
+Answer: Each box will contain 9 paper clips.</s>
+prediction: 9.0
+label: 9.0
+---------------
+test:119/508 | accuracy 101  0.8487394957983193
+ 
+---------------
+1. Divide the total number of students by the number of students per classroom: 
+
+390 ÷ 30 = 13 
+
+2. The school needs 13 classrooms. 
+
+Answer: 13</s>
+prediction: 13.0
+label: 13.0
+---------------
+test:120/508 | accuracy 102  0.85
+ 
+---------------
+1. Determine the total number of gumballs Melanie is selling: 4 gumballs/8 cents = 0.5 gumballs/cent
+2. Multiply the number of gumballs by the price per gumball: 0.5 gumballs/cent x 8 cents/gumball = 4 cents
+3. Therefore, Melanie can get 4 cents from selling the gumballs. 
+
+Answer: 4 cents</s>
+prediction: 4.0
+label: 32.0
+---------------
+test:121/508 | accuracy 102  0.8429752066115702
+ 
+---------------
+1. Find the difference between the amount of pie eaten by Erik and Frank: 
+
+0.6666666666666666 - 0.3333333333333333 = 0.3333333333333333 
+
+2. Therefore, Erik ate 0.3333333333333333 more pie than Frank. 
+
+Answer: 0.3333333333333333</s>
+prediction: 0.3333333333333333
+label: 0.3333333333333333
+---------------
+test:122/508 | accuracy 103  0.8442622950819673
+ 
+---------------
+1. Start with the number of nickels Mary had: 7
+2. Add the number of nickels her dad gave her: 5
+3. Perform the addition: 7 + 5 = 12
+4. Mary now has 12 nickels.
+
+Answer: Mary now has 12 nickels.</s>
+prediction: 12.0
+label: 12.0
+---------------
+test:123/508 | accuracy 104  0.8455284552845529
+ 
+---------------
+1. Find the total number of sheets of paper: 700
+2. Divide the total number of sheets by the number of sheets per box: 700 ÷ 100 = 7
+3. The answer is 7 boxes.</s>
+prediction: 7.0
+label: 7.0
+---------------
+test:124/508 | accuracy 105  0.8467741935483871
+ 
+---------------
+1. Add the weights of the two pieces of metal: 11.166666666666666 + 0.8333333333333334 = 11.999999999999999
+2. Subtract the weight of the piece of aluminum from the weight of the piece of iron: 11.999999999999999 - 0.8333333333333334 = 10.166666666666666
+3. Therefore, the piece of iron weighed 10.166666666666666 pounds more than the piece of aluminum.
+
+Answer: 10.166666666666666</s>
+prediction: 10.166666666666666
+label: 10.333333333333334
+---------------
+test:125/508 | accuracy 105  0.84
+ 
+---------------
+1. Find the difference between the number of houses before and after the housing boom: 
+
+2000 - 1426 = 574 
+
+2. Therefore, developers built 574 houses during the housing boom. 
+
+Answer: 574</s>
+prediction: 574.0
+label: 574.0
+---------------
+test:126/508 | accuracy 106  0.8412698412698413
+ 
+---------------
+1. Start with the number of stickers Mika had: 20
+2. Add the number of stickers she bought: 20 + 26 = 46
+3. Add the number of stickers she received for her birthday: 46 + 20 = 66
+4. Subtract the number of stickers she gave to her sister: 66 - 6 = 60
+5. Subtract the number of stickers she used to decorate a greeting card: 60 - 58 = 2
+
+Therefore, Mika has 2 stickers left.</s>
+prediction: 2.0
+label: 2.0
+---------------
+test:127/508 | accuracy 107  0.84251968503937
+ 
+---------------
+1. Divide the total number of origami papers by the number of cousins: 
+
+48 ÷ 6 = 8 
+
+2. Each cousin will receive 8 origami papers. 
+
+Therefore, each cousin will receive 8 origami papers.</s>
+prediction: 8.0
+label: 8.0
+---------------
+test:128/508 | accuracy 108  0.84375
+ 
+---------------
+1. Add the amount of dog food each dog eats: 0.125 + 0.125 = 0.25
+2. The two dogs eat a total of 0.25 scoops of dog food each day.
+
+Answer: 0.25</s>
+prediction: 0.25
+label: 0.25
+---------------
+test:129/508 | accuracy 109  0.8449612403100775
+ 
+---------------
+1. Add the amounts of strawberries, yogurt, and orange juice: 0.2 + 0.1 + 0.2 = 0.5
+2. The total amount of ingredients Ellen used for the smoothies is 0.5 cups.
+
+Therefore, Ellen used 0.5 cups of ingredients for the smoothies.</s>
+prediction: 0.5
+label: 0.5
+---------------
+test:130/508 | accuracy 110  0.8461538461538461
+ 
+---------------
+1 dozen is equal to 12, so 7 dozen is equal to:
+
+7 x 12 = 84
+
+Therefore, Benny bought 84 eggs from the grocery store. 
+
+The answer in Arabic numerals is: 84.</s>
+prediction: 84.0
+label: 84.0
+---------------
+test:131/508 | accuracy 111  0.8473282442748091
+ 
+---------------
+1. The farmer estimates that he will harvest 48,097 bushels of wheat.
+2. The weather is perfect during the growing season, so he harvests 684 more bushels of wheat than expected.
+3. To find out how many bushels of wheat the farmer harvests, we need to add the extra bushels he harvested to the estimated amount.
+4. 48,097 + 684 = 48,781
+5. Therefore, the farmer harvests 48,781 bushels of wheat. 
+
+Answer: 48,781</s>
+prediction: 48781.0
+label: 48781.0
+---------------
+test:132/508 | accuracy 112  0.8484848484848485
+ 
+---------------
+1. Add the weight of melon and berries: 0.25 + 0.375 = 0.625
+2. Scarlett used 0.625 pounds of fruit in all.
+
+Answer: 0.625</s>
+prediction: 0.625
+label: 0.625
+---------------
+test:133/508 | accuracy 113  0.849624060150376
+ 
+---------------
+1 dozen = 12
+So, 45 candy bars = 45 x 12 = 540 calories
+Therefore, there are 540 dozen calories in 45 candy bars.
+Answer: 540.</s>
+prediction: 540.0
+label: 225.0
+---------------
+test:134/508 | accuracy 113  0.8432835820895522
+ 
+---------------
+1. Start with the amount of rain that fell on Monday: 0.9 inches
+2. Subtract the amount of rain that fell on Tuesday from Monday: 0.9 - 0.7 = 0.2 inches
+3. Therefore, it rained 0.2 inches on Tuesday.
+
+Answer: 0.2</s>
+prediction: 0.2
+label: 0.2
+---------------
+test:135/508 | accuracy 114  0.8444444444444444
+ 
+---------------
+1. Start with the total number of acres in the prairie: 64,535
+2. Subtract the number of acres covered by the dust storm: 64,535 - 64,535 = 0
+3. Add the number of acres left untouched: 64,535 + 522 = 65,057
+4. The prairie covers 65,057 acres.
+
+Answer: 65,057</s>
+prediction: 65057.0
+label: 65057.0
+---------------
+test:136/508 | accuracy 115  0.8455882352941176
+ 
+---------------
+1. Identify the given information: 
+- We ordered 21 pizzas. 
+- Each pizza has 8 slices. 
+
+2. Use multiplication to find the total number of slices: 
+21 x 8 = 168 
+
+3. Write the answer in Arabic numerals: 
+There are 168 slices of pizza altogether. 
+
+Answer: 168</s>
+prediction: 168.0
+label: 168.0
+---------------
+test:137/508 | accuracy 116  0.8467153284671532
+ 
+---------------
+1. Add the weight of gravel and sand: 5.91 + 8.11 = 14.02
+2. The company bought a total of 14.02 tons of material.
+
+Answer: 14.02</s>
+prediction: 14.02
+label: 14.02
+---------------
+test:138/508 | accuracy 117  0.8478260869565217
+ 
+---------------
+1. Add the number of people born in the country to the number of people who immigrated to it: 
+
+90,171 + 16,320 = 106,491 
+
+2. The total number of new people who began living in the country last year is 106,491. 
+
+Answer: 106,491</s>
+prediction: 106491.0
+label: 106491.0
+---------------
+test:139/508 | accuracy 118  0.8489208633093526
+ 
+---------------
+1. Start with the total number of games played: 12
+2. Subtract the number of games lost: 12 - 4 = 8
+3. The team won 8 basketball games this year.
+
+Answer: 8</s>
+prediction: 8.0
+label: 8.0
+---------------
+test:140/508 | accuracy 119  0.85
+ 
+---------------
+1 dozen is equal to 12, so Sally saw 12 birds. 
+
+The answer in Arabic numerals is 12.</s>
+prediction: 12.0
+label: 12.0
+---------------
+test:141/508 | accuracy 120  0.851063829787234
+ 
+---------------
+1. Start with the total number of hockey games played: 31
+2. Subtract the number of games Alyssa attended: 31 - 13 = 18
+3. Therefore, Alyssa missed 18 hockey games.
+
+Answer: Alyssa missed 18 hockey games.</s>
+prediction: 18.0
+label: 18.0
+---------------
+test:142/508 | accuracy 121  0.852112676056338
+ 
+---------------
+1. Find the total amount cut off both the skirt and pants: 
+
+0.75 + 0.5 = 1.25 inches 
+
+2. Subtract the amount cut off the pants from the amount cut off the skirt: 
+
+0.75 - 0.5 = 0.25 inches 
+
+Therefore, the tailor cut off 0.25 more inches from the skirt than the pants. 
+
+Answer: 0.25</s>
+prediction: 0.25
+label: 0.25
+---------------
+test:143/508 | accuracy 122  0.8531468531468531
+ 
+---------------
+1. Let x be the number of cards Benny started with.
+2. Benny bought 4 new cards, so he had x + 4 cards.
+3. His dog ate half of his collection, so he had (x + 4)/2 cards left.
+4. We know that he has 34 cards left, so we can set up the equation:
+   (x + 4)/2 = 34
+5. Solving for x, we get:
+   x = 34/2 - 4
+   x = 17
+
+Therefore, Benny started with 17 cards.</s>
+prediction: 17.0
+label: 64.0
+---------------
+test:144/508 | accuracy 122  0.8472222222222222
+ 
+---------------
+1. Add the number of plums picked by Melanie, Dan, and Sally: 4 + 9 + 3 = 16
+2. The total number of plums picked is 16.
+
+Therefore, the answer is: 16.</s>
+prediction: 16.0
+label: 16.0
+---------------
+test:145/508 | accuracy 123  0.8482758620689655
+ 
+---------------
+1. Determine the value of one quarter: 1 quarter = $0.25
+2. Determine the value of one penny: 1 penny = $0.01
+3. Multiply the number of quarters by the value of one quarter: 12 quarters x $0.25 = $3.00
+4. Multiply the number of pennies by the value of one penny: 7 pennies x $0.01 = $0.07
+5. Add the value of the quarters and pennies together: $3.00 + $0.07 = $3.07
+
+Therefore, Alyssa has a total of $3.07.</s>
+prediction: 3.07
+label: 3.07
+---------------
+test:146/508 | accuracy 124  0.8493150684931506
+ 
+---------------
+1. Start with the number of games Kelly has: 121
+2. Subtract the number of games Kelly will keep: 22
+3. Use subtraction to find the number of games Kelly needs to give away: 121 - 22 = 99
+4. Kelly needs to give away 99 games.
+
+Answer: Kelly needs to give away 99 games.</s>
+prediction: 99.0
+label: 99.0
+---------------
+test:147/508 | accuracy 125  0.8503401360544217
+ 
+---------------
+1. Identify the given information:
+- Jack has 6 classic authors.
+- Each author has 33 books.
+
+2. Use multiplication to find the total number of books in the classics section:
+6 x 33 = 198
+
+3. Write the answer in Arabic numerals:
+Jack has 198 books in the classics section.</s>
+prediction: 198.0
+label: 198.0
+---------------
+test:148/508 | accuracy 126  0.8513513513513513
+ 
+---------------
+1 dozen = 12
+So, 4 dozen = 4 x 12 = 48
+Therefore, there are 48 calories in one candy bar.
+To find the total calories in 42 candy bars, we multiply 48 by 42.
+48 x 42 = 2016
+Therefore, there are 2016 calories in 42 candy bars.
+The answer in Arabic numerals is 2016.</s>
+prediction: 2016.0
+label: 2016.0
+---------------
+test:149/508 | accuracy 127  0.8523489932885906
+ 
+---------------
+1. Identify the number of students: 4
+2. Identify the number of pencils each student will get: 2
+3. Multiply the number of students by the number of pencils each student will get: 4 x 2 = 8
+4. The teacher will have to give out 8 pencils.
+
+Answer: 8</s>
+prediction: 8.0
+label: 8.0
+---------------
+test:150/508 | accuracy 128  0.8533333333333334
+ 
+---------------
+1 dozen = 12
+
+So, Jessica has 3 x 12 = 36 red marbles.
+
+Sandy has 4 x 36 = 144 red marbles.
+
+Therefore, Sandy has 144 red marbles.</s>
+prediction: 144.0
+label: 144.0
+---------------
+test:151/508 | accuracy 129  0.8543046357615894
+ 
+---------------
+1. Start with the number of seashells Joan found: 70.
+2. Subtract the number of seashells she has left: 70 - 27 = 43.
+3. Therefore, Joan gave Sam 43 seashells. 
+
+Answer: Joan gave Sam 43 seashells.</s>
+prediction: 43.0
+label: 43.0
+---------------
+test:152/508 | accuracy 130  0.8552631578947368
+ 
+---------------
+1. Divide the total number of crayons by the number of crayons in each pack: 
+
+615 ÷ 15 = 41 
+
+2. The answer is 41, which means that Nancy bought 41 packs of crayons. 
+
+Answer: 41</s>
+prediction: 41.0
+label: 41.0
+---------------
+test:153/508 | accuracy 131  0.8562091503267973
+ 
+---------------
+1. Add the number of books Joan has to the number of books Tom has: 
+
+10 + 38 = 48 
+
+2. The total number of books they have together is 48. 
+
+Answer: 48</s>
+prediction: 48.0
+label: 48.0
+---------------
+test:154/508 | accuracy 132  0.8571428571428571
+ 
+---------------
+1. Add the amount of mustard found at each table: 0.25 + 0.25 + 0.375 = 0.875
+2. The waitress finds 0.875 bottles of mustard.
+
+Answer: 0.875</s>
+prediction: 0.875
+label: 0.875
+---------------
+test:155/508 | accuracy 133  0.8580645161290322
+ 
+---------------
+1. Identify the given information:
+- Number of books in the science fiction section = 8
+- Number of pages in each book = 478
+
+2. Use multiplication to find the total number of pages:
+Total number of pages = Number of books x Number of pages per book
+Total number of pages = 8 x 478
+Total number of pages = 3,824
+
+Therefore, all the books in the science fiction section have a total of 3,824 pages.</s>
+prediction: 3824.0
+label: 3824.0
+---------------
+test:156/508 | accuracy 134  0.8589743589743589
+ 
+---------------
+1. Add the length of the first fish and the second fish: 0.3 + 0.2 = 0.5
+2. Subtract the length of the second fish from the length of the first fish: 0.3 - 0.2 = 0.1
+3. The first fish is 0.1 foot longer than the second fish.
+
+Answer: 0.1</s>
+prediction: 0.1
+label: 0.1
+---------------
+test:157/508 | accuracy 135  0.8598726114649682
+ 
+---------------
+1. Start with the initial amount of water: 0.8 gallons
+2. Subtract the amount poured out: 0.8 - 0.2 = 0.6 gallons
+3. The amount of water left in the bucket is 0.6 gallons.
+
+Answer: 0.6</s>
+prediction: 0.6
+label: 0.6
+---------------
+test:158/508 | accuracy 136  0.8607594936708861
+ 
+---------------
+1. Identify the number of people who have baseball cards: 4
+2. Identify the number of baseball cards each person has: 3
+3. Multiply the number of people by the number of cards each person has: 4 x 3 = 12
+4. The total number of baseball cards they have in all is 12.
+
+Answer: 12</s>
+prediction: 12.0
+label: 12.0
+---------------
+test:159/508 | accuracy 137  0.8616352201257862
+ 
+---------------
+1. Find the total number of cookies by multiplying the number of bags by the number of cookies in each bag: 
+
+37 bags x 19 cookies/bag = 703 cookies 
+
+2. Write the answer in Arabic numerals: 
+
+The answer is 703.</s>
+prediction: 703.0
+label: 703.0
+---------------
+test:160/508 | accuracy 138  0.8625
+ 
+---------------
+1. Let x be the number of minutes Milan was billed for.
+2. The cost per minute is 12 cents, so the total cost for x minutes is 12x.
+3. The monthly fee is 2 dollars, so the total cost for x minutes is 12x + 2x = 14x.
+4. We know that the total bill was 23.36 dollars, so we can set up an equation: 14x = 23.36.
+5. Solving for x, we divide both sides by 14: x = 1.67.
+6. Therefore, Milan was billed for 1.67 minutes.</s>
+prediction: 1.67
+label: 178.0
+---------------
+test:161/508 | accuracy 138  0.8571428571428571
+ 
+---------------
+1. Convert minutes to hours by dividing by 60: 
+300 minutes ÷ 60 = 5 hours 
+
+2. Therefore, Marcia spent 5 hours on her science project. 
+
+Answer: 5</s>
+prediction: 5.0
+label: 5.0
+---------------
+test:162/508 | accuracy 139  0.8580246913580247
+ 
+---------------
+1. Add the number of seashells Sam found to the number of seashells Mary found: 
+
+18 + 47 = 65 
+
+2. The total number of seashells they found together is 65. 
+
+Answer: 65</s>
+prediction: 65.0
+label: 65.0
+---------------
+test:163/508 | accuracy 140  0.8588957055214724
+ 
+---------------
+1. First, we need to find out how many books Alyssa has. To do this, we multiply Mike's number of books by 8: 
+
+48 x 8 = 384 
+
+So Alyssa has 384 books. 
+
+2. Next, we need to convert Alyssa's number of books to dozens. One dozen is equal to 12, so we divide her number of books by 12: 
+
+384 ÷ 12 = 32 
+
+Therefore, Alyssa has 32 dozen books. 
+
+Answer: Alyssa has 32 dozen books.</s>
+prediction: 32.0
+label: 32.0
+---------------
+test:164/508 | accuracy 141  0.8597560975609756
+ 
+---------------
+1. Find the total distance Eve ran and walked: 
+
+0.7 miles + 0.6 miles = 1.3 miles 
+
+2. Subtract the distance Eve walked from the distance she ran: 
+
+0.7 miles - 0.6 miles = 0.1 miles 
+
+Therefore, Eve ran 0.1 miles farther than she walked. 
+
+Answer: 0.1 miles</s>
+prediction: 0.1
+label: 0.1
+---------------
+test:165/508 | accuracy 142  0.8606060606060606
+ 
+---------------
+1. Find the difference in height between Miki's sandcastle and her sister's sandcastle: 
+
+0.8333333333333334 - 0.5 = 0.3333333333333334 
+
+2. Therefore, Miki's sandcastle was 0.3333333333333334 feet taller than her sister's sandcastle. 
+
+Answer: 0.3333333333333334</s>
+prediction: 0.3333333333333334
+label: 0.3333333333333333
+---------------
+test:166/508 | accuracy 143  0.8614457831325302
+ 
+---------------
+1. Start with the amount of baking powder Kelly had yesterday: 0.4 of a box
+2. Subtract the amount of baking powder she has today: 0.4 - 0.3 = 0.1
+3. Therefore, Kelly had 0.1 more of a box of baking powder yesterday than she does today.
+
+Answer: 0.1</s>
+prediction: 0.1
+label: 0.1
+---------------
+test:167/508 | accuracy 144  0.8622754491017964
+ 
+---------------
+1. Find the total number of balls needed by multiplying the number of jugglers by the number of balls each juggler is juggling: 
+
+378 jugglers x 6 balls per juggler = 2,204 balls 
+
+2. Write the answer in Arabic numerals: 
+
+The answer is 2,204 balls.</s>
+prediction: 2204.0
+label: 2268.0
+---------------
+test:168/508 | accuracy 144  0.8571428571428571
+ 
+---------------
+1. Divide the total number of sunflower seeds by the number of cans: 
+
+54 ÷ 9 = 6 
+
+2. Each can will have 6 sunflower seeds. 
+
+Answer: 6</s>
+prediction: 6.0
+label: 6.0
+---------------
+test:169/508 | accuracy 145  0.8579881656804734
+ 
+---------------
+1. Find the total number of hamburgers sold in a week: 63
+2. Divide the total number of hamburgers sold by the number of days in a week: 63 ÷ 7 = 9
+3. The average number of hamburgers sold each day is 9.
+
+Therefore, the answer is: 9.</s>
+prediction: 9.0
+label: 9.0
+---------------
+test:170/508 | accuracy 146  0.8588235294117647
+ 
+---------------
+1. Add the number of seashells each person found: 9 + 7 + 5 = 21
+2. The total number of seashells they found together is 21.
+
+Therefore, they found 21 seashells together.</s>
+prediction: 21.0
+label: 21.0
+---------------
+test:171/508 | accuracy 147  0.8596491228070176
+ 
+---------------
+1. Start with the number of cards Sally had: 27
+2. Add the number of cards Dan gave her: 27 + 41 = 68
+3. Subtract the number of cards Sally bought: 68 - 20 = 48
+
+Therefore, Sally now has 48 cards.</s>
+prediction: 48.0
+label: 88.0
+---------------
+test:172/508 | accuracy 147  0.8546511627906976
+ 
+---------------
+1. Add the amount of concrete, bricks, and stone: 0.16666666666666666 + 0.16666666666666666 + 0.5 = 0.8333333333333333
+2. The company ordered a total of 0.8333333333333333 tons of material.
+
+Answer: 0.8333333333333333</s>
+prediction: 0.8333333333333333
+label: 0.8333333333333334
+---------------
+test:173/508 | accuracy 148  0.8554913294797688
+ 
+---------------
+1. Add the amount of trout and salmon the polar bear eats: 0.2 + 0.4 = 0.6
+2. The polar bear eats 0.6 buckets of fish daily.
+
+Answer: 0.6</s>
+prediction: 0.6
+label: 0.6
+---------------
+test:174/508 | accuracy 149  0.8563218390804598
+ 
+---------------
+1. Find the total number of hours Sandy worked in 5 days: 
+
+45 hours 
+
+2. Divide the total number of hours by the number of days: 
+
+45 hours ÷ 5 days = 9 hours per day 
+
+Therefore, Sandy worked 9 hours each day. 
+
+Answer: 9</s>
+prediction: 9.0
+label: 9.0
+---------------
+test:175/508 | accuracy 150  0.8571428571428571
+ 
+---------------
+1. Find the total number of people at the second concert by adding 119 to the number of people at the first concert: 
+
+65899 + 119 = 66018 
+
+2. Therefore, there were 66018 people at the second concert. 
+
+Answer: 66018</s>
+prediction: 66018.0
+label: 66018.0
+---------------
+test:176/508 | accuracy 151  0.8579545454545454
+ 
+---------------
+1. Each person orders the $8 lunch special, so the total bill is 3 x $8 = $24.
+2. Benny agrees to pay the bill, so he will have to pay $24.
+Therefore, Benny will have to pay $24.</s>
+prediction: 24.0
+label: 24.0
+---------------
+test:177/508 | accuracy 152  0.8587570621468926
+ 
+---------------
+1. Identify the given information:
+- Sally earns $12.50 an hour cleaning houses.
+- She works for 12 hours.
+
+2. Use multiplication to find the total amount of money Sally will make:
+$12.50/hour x 12 hours = $150
+
+3. Write the answer in Arabic numerals:
+Sally will make $150.</s>
+prediction: 150.0
+label: 150.0
+---------------
+test:178/508 | accuracy 153  0.8595505617977528
+ 
+---------------
+1. Start with the amount of water Sam poured in the first instance: 1 bucket.
+2. Add the amount of water he poured in the second instance: 8.8 buckets.
+3. Calculate the total amount of water Sam poured into the pool: 1 + 8.8 = 9.8 buckets.
+
+Therefore, Sam poured 9.8 buckets of water into the pool.</s>
+prediction: 9.8
+label: 9.8
+---------------
+test:179/508 | accuracy 154  0.8603351955307262
+ 
+---------------
+1. Identify the given information:
+- Each crown is made with 7 different colored feathers.
+- The circus needs 934 crowns.
+
+2. Use multiplication to find the total number of feathers needed:
+- Multiply the number of feathers per crown (7) by the number of crowns needed (934):
+7 x 934 = 6,508
+
+3. Write the answer in Arabic numerals:
+The circus needs 6,508 feathers for 934 crowns. 
+
+Answer: 6,508</s>
+prediction: 6508.0
+label: 6538.0
+---------------
+test:180/508 | accuracy 154  0.8555555555555555
+ 
+---------------
+1. Divide the total number of books by the number of books each shelf can hold: 
+
+315 ÷ 45 = 7 
+
+2. Round up to the nearest whole number since you can't have a fraction of a shelf: 
+
+8 
+
+Therefore, Jason will need 8 shelves to hold 315 books. 
+
+Answer: 8</s>
+prediction: 8.0
+label: 7.0
+---------------
+test:181/508 | accuracy 154  0.850828729281768
+ 
+---------------
+1. Determine the total cost of the baseball gear by adding the cost of the baseball glove, baseball, and bat: 
+   Total cost = cost of baseball glove + cost of baseball + cost of bat 
+   Total cost = 67 + 67 + 67 
+   Total cost = 197 
+
+2. Subtract the remaining amount from the total cost to find the amount spent on the baseball gear: 
+   Amount spent on baseball gear = total cost - remaining amount 
+   Amount spent on baseball gear = 197 - 33 
+   Amount spent on baseball gear = 164 
+
+Therefore, Benny spent 164 dollars on the baseball gear.</s>
+prediction: 164.0
+label: 34.0
+---------------
+test:182/508 | accuracy 154  0.8461538461538461
+ 
+---------------
+1. Add the number of turnips grown by Melanie and Benny: 
+
+139 + 113 = 252 
+
+2. The total number of turnips grown by Melanie and Benny is 252. 
+
+Answer: 252</s>
+prediction: 252.0
+label: 252.0
+---------------
+test:183/508 | accuracy 155  0.8469945355191257
+ 
+---------------
+1. Start with the number of games Joan went to this year: 4
+2. Add the number of games she went to last year: 4 + 9 = 13
+3. The total number of games Joan went to is 13.
+
+Answer: Joan went to 13 football games in all.</s>
+prediction: 13.0
+label: 13.0
+---------------
+test:184/508 | accuracy 156  0.8478260869565217
+ 
+---------------
+1. Start with the number of oak trees currently in the park: 5
+2. Add the number of oak trees the workers will plant today: 4
+3. Perform the addition: 5 + 4 = 9
+4. The park will have 9 oak trees when the workers are finished.
+
+Answer: 9</s>
+prediction: 9.0
+label: 9.0
+---------------
+test:185/508 | accuracy 157  0.8486486486486486
+ 
+---------------
+1. Start with the number of fish Lucy already has: 212
+2. Subtract that number from the desired total: 280 - 212 = 68
+3. Therefore, Lucy needs to buy 68 more fish to have a total of 280.
+
+Answer: Lucy needs to buy 68 more fish.</s>
+prediction: 68.0
+label: 68.0
+---------------
+test:186/508 | accuracy 158  0.8494623655913979
+ 
+---------------
+1. Start with the number of ear muffs sold before December: 1,346
+2. Add the number of ear muffs sold during December: 6,444
+3. Total number of ear muffs sold: 1,346 + 6,444 = 7,790
+
+Therefore, the customers bought 7,790 ear muffs in total.</s>
+prediction: 7790.0
+label: 7790.0
+---------------
+test:187/508 | accuracy 159  0.8502673796791443
+ 
+---------------
+1. Start with the number of legos Ellen had: 380
+2. Subtract the number of legos she lost: 380 - 57 = 323
+3. Ellen now has 323 legos.
+
+Answer: Ellen now has 323 legos.</s>
+prediction: 323.0
+label: 323.0
+---------------
+test:188/508 | accuracy 160  0.851063829787234
+ 
+---------------
+1. Find the total number of hours Benny worked by multiplying the number of hours he worked each day by the number of days he worked:
+3 hours/day x 6 days = 18 hours
+
+2. Therefore, Benny worked for a total of 18 hours. 
+
+Answer: 18</s>
+prediction: 18.0
+label: 18.0
+---------------
+test:189/508 | accuracy 161  0.8518518518518519
+ 
+---------------
+1. Add the fractions of each type of food: 0.125 + 0.125 + 0.5 = 0.875
+2. Convert the fraction to a decimal by dividing by 100: 0.875 ÷ 100 = 0.0875
+3. Divide the decimal by 10 to get the number of bins: 0.0875 ÷ 10 = 0.0875
+
+Therefore, the canned food would take up 0.0875 bins.</s>
+prediction: 0.0875
+label: 0.75
+---------------
+test:190/508 | accuracy 161  0.8473684210526315
+ 
+---------------
+1. Add the weight of green peppers and red peppers: 
+2.8333333333333335 + 2.8333333333333335 = 5.666666666666667
+
+Therefore, Dale's Vegetarian Restaurant bought 5.666666666666667 pounds of peppers in all.</s>
+prediction: 5.666666666666667
+label: 5.666666666666667
+---------------
+test:191/508 | accuracy 162  0.8481675392670157
+ 
+---------------
+1. Start with the total number of seashells Tom found: 7
+2. Subtract the number of broken seashells: 4
+3. The result is the number of unbroken seashells Tom found: 7 - 4 = 3
+
+Therefore, Tom found 3 unbroken seashells. The answer in Arabic numerals is 3.</s>
+prediction: 3.0
+label: 3.0
+---------------
+test:192/508 | accuracy 163  0.8489583333333334
+ 
+---------------
+1. Start with the number of pencils in the drawer: 41
+2. Add the number of pencils Mike placed: 30
+3. Calculate the total number of pencils: 41 + 30 = 71
+
+Therefore, there are now 71 pencils in total.</s>
+prediction: 71.0
+label: 71.0
+---------------
+test:193/508 | accuracy 164  0.8497409326424871
+ 
+---------------
+1. Find the total number of soccer games in the season: 10 games
+2. Divide the total number of games by the number of months in the season: 10 games ÷ 5 months = 2 games per month
+3. The answer is 2 games per month.</s>
+prediction: 2.0
+label: 2.0
+---------------
+test:194/508 | accuracy 165  0.8505154639175257
+ 
+---------------
+1. Start with the number of orange balloons Joan had: 8
+2. Subtract the number of orange balloons she lost: 2
+3. The result is the number of orange balloons Joan has now: 6
+
+Therefore, Joan now has 6 orange balloons.</s>
+prediction: 6.0
+label: 6.0
+---------------
+test:195/508 | accuracy 166  0.8512820512820513
+ 
+---------------
+1. Add the number of male and female salmon: 712,261 + 259,378 = 971,639
+2. The total number of salmon that made the trip is 971,639.
+
+Answer: 971,639</s>
+prediction: 971639.0
+label: 971639.0
+---------------
+test:196/508 | accuracy 167  0.8520408163265306
+ 
+---------------
+1. Start with the initial number of oak trees: 9
+2. Subtract the number of oak trees that were cut down: 9 - 2 = 7
+3. The park will have 7 oak trees when the workers are finished.
+
+Answer: 7</s>
+prediction: 7.0
+label: 7.0
+---------------
+test:197/508 | accuracy 168  0.8527918781725888
+ 
+---------------
+1. Identify the given information:
+- Mrs. Hilt uses 2 ounces of detergent to wash a pound of clothes.
+- Mrs. Hilt wants to wash 9 pounds of clothes.
+
+2. Use the given information to find the amount of detergent needed:
+- To wash 1 pound of clothes, Mrs. Hilt uses 2 ounces of detergent.
+- To wash 9 pounds of clothes, Mrs. Hilt needs 2 x 9 = 18 ounces of detergent.
+
+Therefore, Mrs. Hilt will use 18 ounces of detergent to wash 9 pounds of clothes. The answer in Arabic numerals is 18.</s>
+prediction: 18.0
+label: 18.0
+---------------
+test:198/508 | accuracy 169  0.8535353535353535
+ 
+---------------
+1. Find the total number of pies sold in one day: 8
+2. Multiply the number of pies sold in one day by the number of days in a week: 8 x 7 = 56
+3. Therefore, the restaurant sold 56 pies during the week. 
+
+Answer: 56</s>
+prediction: 56.0
+label: 56.0
+---------------
+test:199/508 | accuracy 170  0.8542713567839196
+ 
+---------------
+1. The spaceship traveled 0.5 + 0.1 = 0.6 light-years from Earth to Planet X.
+2. The spaceship traveled 0.1 + 0.1 = 0.2 light-years from Planet X to Planet Y.
+3. The spaceship traveled 0.1 + 0.1 = 0.2 light-years from Planet Y back to Earth.
+4. The total distance traveled by the spaceship is 0.6 + 0.2 + 0.2 = 0.9 light-years.
+
+Therefore, the spaceship traveled 0.9 light-years in all.</s>
+prediction: 0.9
+label: 0.7
+---------------
+test:200/508 | accuracy 170  0.85
+ 
+---------------
+1. Add the number of carrots grown by Sandy and Sam: 6 + 3 = 9
+2. The total number of carrots grown by Sandy and Sam is 9.
+
+Answer: 9</s>
+prediction: 9.0
+label: 9.0
+---------------
+test:201/508 | accuracy 171  0.8507462686567164
+ 
+---------------
+1. Identify the given information:
+- Sean has 223 whistles.
+- Sean has 95 more whistles than Charles.
+
+2. Use the given information to find the number of whistles Charles has:
+- Let x be the number of whistles Charles has.
+- According to the problem, Sean has 95 more whistles than Charles, so we can write an equation: 223 = x + 95.
+- Solving for x, we subtract 95 from both sides: 223 - 95 = x.
+- Simplifying, we get: 128 = x.
+- Therefore, Charles has 128 whistles.
+
+Answer: Charles has 128 whistles.</s>
+prediction: 128.0
+label: 128.0
+---------------
+test:202/508 | accuracy 172  0.8514851485148515
+ 
+---------------
+1. Start with the total number of pumpkins Sara grew: 43
+2. Subtract the number of pumpkins the rabbits ate: 43 - 23 = 20
+3. Sara has 20 pumpkins left.
+
+Answer: Sara has 20 pumpkins left.</s>
+prediction: 20.0
+label: 20.0
+---------------
+test:203/508 | accuracy 173  0.8522167487684729
+ 
+---------------
+1. Start with the number of pencils in the drawer: 43
+2. Add the number of pencils on the desk: 43 + 19 = 62
+3. Add the number of pencils Dan placed on the desk: 62 + 16 = 78
+
+Therefore, there are now 78 pencils in total.</s>
+prediction: 78.0
+label: 78.0
+---------------
+test:204/508 | accuracy 174  0.8529411764705882
+ 
+---------------
+1. Start with the total amount of flour needed: 7 cups.
+2. Subtract the amount of flour already added: 4 cups.
+3. The result is the amount of flour Sandy still needs to add: 3 cups.
+
+Therefore, Sandy still needs to add 3 cups of flour to the cake. The answer in Arabic numerals is 3.</s>
+prediction: 3.0
+label: 3.0
+---------------
+test:205/508 | accuracy 175  0.8536585365853658
+ 
+---------------
+1. Let x be the number of Pokemon cards Jason had to start with.
+2. He gave away 9 cards, so he has x - 9 cards left.
+3. We also know that he has 4 cards left, so we can set up an equation:
+x - 9 = 4
+4. To solve for x, we can add 9 to both sides:
+x = 13
+
+Therefore, Jason had 13 Pokemon cards to start with.</s>
+prediction: 13.0
+label: 13.0
+---------------
+test:206/508 | accuracy 176  0.8543689320388349
+ 
+---------------
+1. Start with the amount of walnuts Karen added: 0.25 cups
+2. Add the amount of almonds Karen added: 0.25 cups
+3. Add the two amounts together: 0.25 + 0.25 = 0.5 cups
+
+Therefore, Karen put 0.5 cups of nuts in the trail mix in all.</s>
+prediction: 0.5
+label: 0.5
+---------------
+test:207/508 | accuracy 177  0.855072463768116
+ 
+---------------
+1. Identify the number of players: 22
+2. Identify the number of basketballs each player has: 11
+3. Multiply the number of players by the number of basketballs each player has: 22 x 11 = 242
+4. The Spurs basketball team has 242 basketballs in all.
+
+Answer: 242</s>
+prediction: 242.0
+label: 242.0
+---------------
+test:208/508 | accuracy 178  0.8557692307692307
+ 
+---------------
+1. Determine the number of days in 6 weeks: 6 weeks = 6 x 7 = 42 days
+2. Determine the number of days John will read: John reads every Monday and Tuesday, so he reads 2 days a week. Therefore, he reads 2 x 6 = 12 days in 6 weeks.
+3. Determine the total number of books John will read: John can read 4 books a day, so he will read 4 x 12 = 48 books in 6 weeks.
+
+Therefore, John will read 48 books in 6 weeks. The answer in Arabic numerals is 48.</s>
+prediction: 48.0
+label: 48.0
+---------------
+test:209/508 | accuracy 179  0.8564593301435407
+ 
+---------------
+1. Start with the number of buckets the farmer had: 8.75
+2. Subtract the number of buckets she has left: 8.75 - 6 = 2.75
+3. The farmer sowed 2.75 buckets of seeds.
+
+Answer: The farmer sowed 2.75 buckets of seeds.</s>
+prediction: 2.75
+label: 2.75
+---------------
+test:210/508 | accuracy 180  0.8571428571428571
+ 
+---------------
+1. Find the total amount of money Chris received from his grandmother, aunt, and uncle: 
+   $25 + $20 + $20 = $65
+
+2. Add the amount of money Chris received from his parents: 
+   $65 + $75 = $140
+
+3. Subtract the total amount of money Chris received from his allowance: 
+   $279 - $140 = $139
+
+Therefore, Chris had $139 before his birthday.</s>
+prediction: 139.0
+label: 159.0
+---------------
+test:211/508 | accuracy 180  0.8530805687203792
+ 
+---------------
+1. Determine the total cost of the books: 10 books x $5/book = $50
+2. Subtract the cost of the books from the amount Mark's father gave him: $85 - $50 = $35
+3. Therefore, Mark has $35 left. 
+
+Answer: $35</s>
+prediction: 35.0
+label: 35.0
+---------------
+test:212/508 | accuracy 181  0.8537735849056604
+ 
+---------------
+1. Add the amount of oil and water Kenny used: 0.16666666666666666 + 1.1666666666666667 = 1.3666666666666667
+
+2. Therefore, Kenny used 1.3666666666666667 cups of liquid in all.
+
+Answer: 1.3666666666666667</s>
+prediction: 1.3666666666666667
+label: 1.3333333333333333
+---------------
+test:213/508 | accuracy 181  0.8497652582159625
+ 
+---------------
+1. Find the total number of star-shaped stones Brenda bought: 36
+2. Divide the total number of star-shaped stones by the number of bracelets Brenda wants: 36 ÷ 3 = 12
+3. Each bracelet will have 12 star-shaped stones.
+
+Therefore, there will be 12 star-shaped stones in each bracelet Betty makes for Brenda.</s>
+prediction: 12.0
+label: 12.0
+---------------
+test:214/508 | accuracy 182  0.8504672897196262
+ 
+---------------
+1. Start with the number of crayons in the drawer: 7
+2. Subtract the number of crayons Mary took out: 3
+3. The result is the number of crayons left in the drawer: 4
+
+Therefore, there are now 4 crayons in the drawer.</s>
+prediction: 4.0
+label: 4.0
+---------------
+test:215/508 | accuracy 183  0.8511627906976744
+ 
+---------------
+1. Add the cost of grapes and cherries: $12.08 + $9.85 = $21.93
+2. Therefore, Alyssa spent $21.93 on fruits. 
+
+Answer: $21.93</s>
+prediction: 21.93
+label: 21.93
+---------------
+test:216/508 | accuracy 184  0.8518518518518519
+ 
+---------------
+1. Start with the total number of hamburgers made: 9
+2. Subtract the number of hamburgers served: 9 - 3 = 6
+3. Therefore, there were 6 hamburgers left over from lunch.
+
+Answer: 6</s>
+prediction: 6.0
+label: 6.0
+---------------
+test:217/508 | accuracy 185  0.8525345622119815
+ 
+---------------
+1. Start with the number of dimes Joan had: 5
+2. Subtract the number of dimes she spent: 2
+3. The result is the number of dimes she has now: 3
+
+Therefore, Joan has 3 dimes now.</s>
+prediction: 3.0
+label: 3.0
+---------------
+test:218/508 | accuracy 186  0.8532110091743119
+ 
+---------------
+1. Start with the number of quarters Sally had: 760 quarters
+2. Subtract the number of quarters she spent: 760 quarters - 418 quarters = 342 quarters
+3. Sally now has 342 quarters.
+
+Answer: Sally now has 342 quarters.</s>
+prediction: 342.0
+label: 342.0
+---------------
+test:219/508 | accuracy 187  0.8538812785388128
+ 
+---------------
+1. Start with the initial number of bales in the barn: 73.
+2. Add the number of bales Jason stored in the barn today: 96.
+3. Perform the addition: 73 + 96 = 169.
+4. Therefore, Jason stored 169 bales in the barn today.
+
+Answer: 169</s>
+prediction: 169.0
+label: 23.0
+---------------
+test:220/508 | accuracy 187  0.85
+ 
+---------------
+1. Start with the total number of games: 7
+2. Subtract the number of games Melanie missed: 7 - 4 = 3
+3. Melanie went to 3 football games in all.
+
+Answer: Melanie went to 3 football games in all.</s>
+prediction: 3.0
+label: 3.0
+---------------
+test:221/508 | accuracy 188  0.8506787330316742
+ 
+---------------
+1. Add the cost of the football and the marbles: $5.71 + $6.59 = $12.30
+2. Therefore, Alyssa spent $12.30 on toys. 
+
+Answer: $12.30</s>
+prediction: 12.3
+label: 12.3
+---------------
+test:222/508 | accuracy 189  0.8513513513513513
+ 
+---------------
+1. Determine the cost of one stamp: 34 cents
+2. Determine the cost of 4 stamps: 4 x 34 cents = 136 cents
+3. Convert 136 cents to dollars: 136 cents ÷ 100 cents/dollar = 1.36 dollars
+4. Therefore, 4 stamps would cost 1.36 dollars. 
+
+Answer: 1.36 dollars.</s>
+prediction: 1.36
+label: 134.0
+---------------
+test:223/508 | accuracy 189  0.8475336322869955
+ 
+---------------
+1. Convert 4900 cents to dollars by dividing by 100: 4900/100 = 49
+2. Nancy has 49 dollars.
+
+Answer: Nancy has 49 dollars.</s>
+prediction: 49.0
+label: 49.0
+---------------
+test:224/508 | accuracy 190  0.8482142857142857
+ 
+---------------
+1. Let x be Alyssa's weekly allowance.
+2. Alyssa spent half of her allowance going to the movies, so she spent 0.5x on the movies.
+3. Alyssa earned 8 dollars by washing the family car.
+4. To find Alyssa's weekly allowance, we need to subtract the amount she spent on the movies and add the amount she earned from washing the car: 0.5x - 8 + 8 = 12.
+5. Simplifying the equation: 0.5x = 12.
+6. Solving for x: x = 24.
+
+Therefore, Alyssa's weekly allowance is $24.</s>
+prediction: 24.0
+label: 8.0
+---------------
+test:225/508 | accuracy 190  0.8444444444444444
+ 
+---------------
+1. Add the number of books Sam has to the number of books Joan has: 110 + 102 = 212
+2. The total number of books they have together is 212.
+
+Therefore, Sam and Joan have 212 books together.</s>
+prediction: 212.0
+label: 212.0
+---------------
+test:226/508 | accuracy 191  0.8451327433628318
+ 
+---------------
+1. Start with the number of blue balloons Joan had: 9
+2. Subtract the number of blue balloons she lost: 2
+3. The result is the number of blue balloons Joan has now: 7
+
+Therefore, Joan now has 7 blue balloons.</s>
+prediction: 7.0
+label: 7.0
+---------------
+test:227/508 | accuracy 192  0.8458149779735683
+ 
+---------------
+1. Let x be the original amount of grain in tons.
+2. The amount of grain that spilled is 49,952 tons.
+3. The amount of grain that remained onboard is 918 tons.
+4. We can set up the equation: x - 49,952 = 918
+5. To solve for x, we can add 49,952 to both sides: x = 49,952 + 918
+6. Simplifying: x = 50,860
+
+Therefore, the ship originally contained 50,860 tons of grain.</s>
+prediction: 50860.0
+label: 50870.0
+---------------
+test:228/508 | accuracy 192  0.8421052631578947
+ 
+---------------
+1. Start with the total amount of money Sam had: 79 dollars.
+2. Subtract the amount he had left after buying the books: 16 dollars.
+3. Divide the remaining amount by the number of books he bought: 79/9 = 9 dollars per book.
+
+Therefore, each book cost 9 dollars.</s>
+prediction: 9.0
+label: 7.0
+---------------
+test:229/508 | accuracy 192  0.8384279475982532
+ 
+---------------
+1. Find the total number of animal drawings Shiela has: 54
+2. Divide the total number of animal drawings by the number of her neighbors: 54 ÷ 6 = 9
+3. Each of Shiela's neighbors will receive 9 animal drawings.
+
+Answer: Each of Shiela's neighbors will receive 9 animal drawings.</s>
+prediction: 9.0
+label: 9.0
+---------------
+test:230/508 | accuracy 193  0.8391304347826087
+ 
+---------------
+1. Start with the total number of games played: 39
+2. Subtract the number of games Benny attended: 39 - 14 = 25
+3. Therefore, Benny missed 25 baseball games.
+
+Answer: Benny missed 25 baseball games.</s>
+prediction: 25.0
+label: 25.0
+---------------
+test:231/508 | accuracy 194  0.8398268398268398
+ 
+---------------
+1. Let x be the world grain demand.
+2. According to the problem, the supply is only 0.75 of the demand, so we can write:
+   x = 0.75(1800000)
+3. Solving for x, we get:
+   x = 1200000
+4. Therefore, the world grain demand will be 1200000 metric tons.</s>
+prediction: 1200000.0
+label: 2400000.0
+---------------
+test:232/508 | accuracy 194  0.8362068965517241
+ 
+---------------
+1. Add the cost of the three games: $14.02 + $9.46 + $12.04 = $35.52
+2. Therefore, Tom spent $35.52 on video games. 
+
+Answer: $35.52</s>
+prediction: 35.52
+label: 35.52
+---------------
+test:233/508 | accuracy 195  0.8369098712446352
+ 
+---------------
+1. Start with the number of dogwood trees currently in the park: 34
+2. Add the number of dogwood trees the workers will plant: 49
+3. Perform the addition: 34 + 49 = 83
+4. The park will have 83 dogwood trees when the workers are finished.
+
+Answer: 83</s>
+prediction: 83.0
+label: 83.0
+---------------
+test:234/508 | accuracy 196  0.8376068376068376
+ 
+---------------
+1. Add the number of turnips Keith and Alyssa grew: 6 + 9 = 15
+2. The total number of turnips they grew is 15.
+
+Answer: 15</s>
+prediction: 15.0
+label: 15.0
+---------------
+test:235/508 | accuracy 197  0.8382978723404255
+ 
+---------------
+1. Start with the number of oak trees in the park: 33
+2. Subtract the number of oak trees that were cut down: 33 - 18 = 15
+3. The park will have 15 oak trees when the workers are finished.
+
+Answer: 15</s>
+prediction: 15.0
+label: 15.0
+---------------
+test:236/508 | accuracy 198  0.8389830508474576
+ 
+---------------
+1 dozen is equal to 12, so Nancy has 12 quarters. 
+
+To find out how much money Nancy has, we need to multiply the number of quarters by their value. 
+
+The value of 1 quarter is $0.25, so:
+
+12 quarters x $0.25/quarter = $3.00
+
+Therefore, Nancy has $3.00.</s>
+prediction: 3.0
+label: 3.0
+---------------
+test:237/508 | accuracy 199  0.8396624472573839
+ 
+---------------
+1. Start with the number of quarters Jessica had: 8
+2. Subtract the number of quarters her sister borrowed: 8 - 3 = 5
+3. Jessica now has 5 quarters.
+
+Answer: Jessica now has 5 quarters.</s>
+prediction: 5.0
+label: 5.0
+---------------
+test:238/508 | accuracy 200  0.8403361344537815
+ 
+---------------
+1 dozen = 12
+
+So, Sara has:
+
+192/12 = 16 dozens
+
+Therefore, Sara has 16 dozen golf balls.
+
+Answer: 16.</s>
+prediction: 16.0
+label: 16.0
+---------------
+test:239/508 | accuracy 201  0.8410041841004184
+ 
+---------------
+1. Fred has 40 baseball cards.
+2. Keith bought 22 of Fred's baseball cards.
+3. To find out how many baseball cards Fred has now, we need to subtract the number of cards Keith bought from the total number of cards Fred had before.
+4. 40 - 22 = 18
+5. Therefore, Fred now has 18 baseball cards.
+
+Answer: Fred now has 18 baseball cards.</s>
+prediction: 18.0
+label: 18.0
+---------------
+test:240/508 | accuracy 202  0.8416666666666667
+ 
+---------------
+1. Add the distance Terrell hiked on Saturday and Sunday: 8.2 miles + 1.6 miles = 9.8 miles
+
+Therefore, Terrell hiked a total of 9.8 miles all together.</s>
+prediction: 9.8
+label: 9.8
+---------------
+test:241/508 | accuracy 203  0.8423236514522822
+ 
+---------------
+1. Identify the given information:
+- Each ticket costs $44.
+- They bought 7 tickets.
+
+2. Use the given information to find the total cost of the tickets:
+$44 x 7 = $308
+
+3. Write the answer in Arabic numerals:
+They spent $308 on tickets.</s>
+prediction: 308.0
+label: 308.0
+---------------
+test:242/508 | accuracy 204  0.8429752066115702
+ 
+---------------
+1. Fred has 5 baseball cards.
+2. Melanie bought 3 of Fred's baseball cards.
+3. To find out how many baseball cards Fred has now, we need to subtract the number of cards Melanie bought from the total number of cards Fred had before.
+4. 5 - 3 = 2
+5. Therefore, Fred now has 2 baseball cards.
+
+Answer: Fred now has 2 baseball cards.</s>
+prediction: 2.0
+label: 2.0
+---------------
+test:243/508 | accuracy 205  0.8436213991769548
+ 
+---------------
+1. Start with the number of dimes Sam had: 9
+2. Add the number of dimes his dad gave him: 7
+3. Perform the addition: 9 + 7 = 16
+4. Sam now has 16 dimes.
+
+Answer: Sam now has 16 dimes.</s>
+prediction: 16.0
+label: 16.0
+---------------
+test:244/508 | accuracy 206  0.8442622950819673
+ 
+---------------
+1. Determine the ratio of flour to bread: 5 cups of flour : 2 loaves of bread
+2. Use the ratio to find the amount of flour needed for one loaf of bread: 5 cups of flour / 2 loaves = x cups of flour per loaf
+3. Solve for x by dividing both sides by 2: x = 2.5 cups of flour per loaf
+
+Therefore, Mrs. Hilt will need 2.5 cups of flour to make one loaf of bread. The answer in Arabic numerals is 2.5.</s>
+prediction: 2.5
+label: 2.5
+---------------
+test:245/508 | accuracy 207  0.8448979591836735
+ 
+---------------
+1. Start with the number of markers Megan had: 217
+2. Add the number of markers Robert gave her: 109
+3. Perform the addition: 217 + 109 = 326
+
+Therefore, Megan has 326 markers altogether.</s>
+prediction: 326.0
+label: 326.0
+---------------
+test:246/508 | accuracy 208  0.8455284552845529
+ 
+---------------
+1. Identify the given information:
+- Mrs. Hilt read 4 books.
+- Each book had 17 chapters in it.
+
+2. Use multiplication to find the total number of chapters:
+To find the total number of chapters, we need to multiply the number of books by the number of chapters in each book.
+
+3. Multiply the number of books by the number of chapters in each book:
+4 books x 17 chapters/book = 68 chapters
+
+Therefore, Mrs. Hilt read 68 chapters in total. The answer in Arabic numerals is 68.</s>
+prediction: 68.0
+label: 68.0
+---------------
+test:247/508 | accuracy 209  0.8461538461538461
+ 
+---------------
+1. Add the amount in their checking account to the amount in their savings account: 
+
+6,359 yen + 3,485 yen = 9,844 yen 
+
+2. Therefore, Abe's family has 9,844 yen in total. 
+
+Answer: 9,844</s>
+prediction: 9844.0
+label: 9844.0
+---------------
+test:248/508 | accuracy 210  0.8467741935483871
+ 
+---------------
+1. Start with the original length of the wood: 8.9 cm
+2. Saw off 2.3 cm from the end: 8.9 cm - 2.3 cm = 6.6 cm
+3. The piece of wood is now 6.6 cm long.
+
+Answer: 6.6 cm</s>
+prediction: 6.6
+label: 6.6
+---------------
+test:249/508 | accuracy 211  0.8473895582329317
+ 
+---------------
+1. Find the total fraction of nails by adding the fractions of size 2d and 4d: 0.25 + 0.5 = 0.75
+2. The fraction of nails that are either size 2d or 4d is the total fraction: 0.75
+3. Therefore, the answer is: 0.75.</s>
+prediction: 0.75
+label: 0.75
+---------------
+test:250/508 | accuracy 212  0.848
+ 
+---------------
+1. Find the total number of people in the vans: 6 vans x 6 people per van = 36 people
+2. Find the total number of people in the buses: 8 buses x 18 people per bus = 144 people
+3. Add the number of people in the vans and buses to find the total number of people: 36 people + 144 people = 180 people
+
+Therefore, 180 people went on the field trip.</s>
+prediction: 180.0
+label: 180.0
+---------------
+test:251/508 | accuracy 213  0.848605577689243
+ 
+---------------
+1. Add the amount of yellow raisins and black raisins: 0.3 + 0.4 = 0.7
+2. The total amount of raisins Jonah added is 0.7 cups.
+
+Therefore, Jonah added 0.7 cups of raisins in all.</s>
+prediction: 0.7
+label: 0.7
+---------------
+test:252/508 | accuracy 214  0.8492063492063492
+ 
+---------------
+1. Add the weights of peanuts, chocolate chips, and raisins: 0.16666666666666666 + 0.16666666666666666 + 0.08333333333333333 = 0.4166666666666666
+2. Therefore, Brandy made 0.4166666666666666 pounds of trail mix. 
+
+Answer: 0.4166666666666666</s>
+prediction: 0.4166666666666666
+label: 0.4166666666666667
+---------------
+test:253/508 | accuracy 215  0.849802371541502
+ 
+---------------
+1. Identify the number of people who have Pokemon cards: 4
+2. Identify the number of Pokemon cards each person has: 14
+3. Multiply the number of people by the number of cards each person has: 4 x 14 = 56
+4. The total number of Pokemon cards they have in all is 56.
+
+Answer: 56</s>
+prediction: 56.0
+label: 56.0
+---------------
+test:254/508 | accuracy 216  0.8503937007874016
+ 
+---------------
+1. Start with the number of marbles Connie has: 323
+2. Add the number of marbles Juan has: 323 + 175 = 498
+3. Juan has 498 marbles.
+
+Answer: Juan has 498 marbles.</s>
+prediction: 498.0
+label: 498.0
+---------------
+test:255/508 | accuracy 217  0.8509803921568627
+ 
+---------------
+1. Add the distance the fault line moved in the past year and the distance it moved the year before: 
+
+1.25 + 5.25 = 6.5
+
+2. The fault line moved a total of 6.5 inches. 
+
+Answer: 6.5</s>
+prediction: 6.5
+label: 6.5
+---------------
+test:256/508 | accuracy 218  0.8515625
+ 
+---------------
+1. Heather walked 0.3333333333333333 of a mile from the car to the entrance.
+2. Heather walked 0.3333333333333333 of a mile to the carnival rides.
+3. Heather walked 0.08333333333333333 of a mile from the carnival rides back to the car.
+4. To find the total distance Heather walked, we add up the distances she walked from the car to the entrance, from the entrance to the carnival rides, and from the carnival rides back to the car: 
+
+0.3333333333333333 + 0.3333333333333333 + 0.08333333333333333 = 0.75
+
+Therefore, Heather walked a total of 0.75 miles.</s>
+prediction: 0.75
+label: 0.75
+---------------
+test:257/508 | accuracy 219  0.8521400778210116
+ 
+---------------
+1. Mary has 2 times more blue marbles than Dan, which means she has 2 x 5 = 10 blue marbles.
+2. Therefore, Mary has 10 blue marbles. 
+
+Answer: Mary has 10 blue marbles.</s>
+prediction: 10.0
+label: 10.0
+---------------
+test:258/508 | accuracy 220  0.8527131782945736
+ 
+---------------
+1. Add the number of pears picked by Alyssa and Nancy: 42 + 17 = 59
+2. The total number of pears picked is 59.
+
+Therefore, the answer is: 59.</s>
+prediction: 59.0
+label: 59.0
+---------------
+test:259/508 | accuracy 221  0.8532818532818532
+ 
+---------------
+1. Add the fractions of apples Charlie picked: 0.16666666666666666 + 0.16666666666666666 + 0.3333333333333333 = 0.6666666666666666
+2. Convert the fraction to a decimal: 0.6666666666666666 = 0.6666666666666666
+3. Charlie picked a total of 0.6666666666666666 bags of apples.
+
+Answer: 0.6666666666666666</s>
+prediction: 0.6666666666666666
+label: 0.6666666666666666
+---------------
+test:260/508 | accuracy 222  0.8538461538461538
+ 
+---------------
+1. Divide the total number of children by the number of children that can sit in each seat: 
+
+58 ÷ 2 = 29 
+
+2. Round up to the nearest whole number since you can't have a partial seat: 
+
+30 
+
+Therefore, the children will need 30 seats in all.</s>
+prediction: 30.0
+label: 29.0
+---------------
+test:261/508 | accuracy 222  0.8505747126436781
+ 
+---------------
+1. Find the total cost of the football cards: 2 packs x $2.73/pack = $5.46
+2. Find the total cost of the Pokemon cards: 1 pack x $4.01/pack = $4.01
+3. Find the total cost of the deck of baseball cards: 1 deck x $8.95/deck = $8.95
+4. Find the total cost of all the cards: $5.46 + $4.01 + $8.95 = $18.42
+
+Therefore, Fred spent $18.42 on cards.</s>
+prediction: 18.42
+label: 18.42
+---------------
+test:262/508 | accuracy 223  0.851145038167939
+ 
+---------------
+1. Divide the total number of pink flower stones by the number of stones used in each bracelet: 
+
+88 ÷ 8 = 11 
+
+2. Each bracelet will have 11 pink flower stones. 
+
+Answer: Each bracelet will have 11 pink flower stones.</s>
+prediction: 11.0
+label: 11.0
+---------------
+test:263/508 | accuracy 224  0.8517110266159695
+ 
+---------------
+1. Find the total number of books Vincent bought: 10 + 1 + 3 = 14 books
+2. Multiply the total number of books by the cost per book: 14 x $16 = $224
+3. Therefore, Vincent spent $224 on the books. 
+
+Answer: $224</s>
+prediction: 224.0
+label: 224.0
+---------------
+test:264/508 | accuracy 225  0.8522727272727273
+ 
+---------------
+1. Add the number of laps Kyle jogged in P.E. class and track practice: 
+
+1.125 + 2.125 = 3.25
+
+2. Therefore, Kyle jogged a total of 3.25 laps. 
+
+Answer: 3.25</s>
+prediction: 3.25
+label: 3.25
+---------------
+test:265/508 | accuracy 226  0.8528301886792453
+ 
+---------------
+1. Add the weights of the marble pieces: 0.3333333333333333 + 0.3333333333333333 + 0.08333333333333333 = 0.75
+2. The total weight of the marble purchased by Paco's Countertop Company is 0.75 tons.
+
+Therefore, Paco's Countertop Company purchased 0.75 tons of marble in all.</s>
+prediction: 0.75
+label: 0.75
+---------------
+test:266/508 | accuracy 227  0.8533834586466166
+ 
+---------------
+1. Add the weight of the first watermelon and the second watermelon: 9.91 + 4.11 = 14.02
+2. Therefore, Kevin bought 14.02 pounds of watermelon. 
+
+Answer: 14.02</s>
+prediction: 14.02
+label: 14.02
+---------------
+test:267/508 | accuracy 228  0.8539325842696629
+ 
+---------------
+1. Add up Tanner's savings for September, October, and November: 
+
+$17 + $48 + $25 = $90 
+
+2. Subtract the amount Tanner spent on the video game: 
+
+$90 - $49 = $41 
+
+Therefore, Tanner has $41 left.</s>
+prediction: 41.0
+label: 41.0
+---------------
+test:268/508 | accuracy 229  0.8544776119402985
+ 
+---------------
+1. Add the cost of the pants and shirt: $9.24 + $8.25 = $17.49
+2. Subtract the total cost from the $20 bill: $20.00 - $17.49 = $2.51
+3. Therefore, Sandy got $2.51 in change. 
+
+Answer: $2.51</s>
+prediction: 2.51
+label: 2.51
+---------------
+test:269/508 | accuracy 230  0.8550185873605948
+ 
+---------------
+1. Add the number of cartons of strawberries and blueberries Maria already has: 4 + 8 = 12
+2. Subtract the number of cartons Maria already has from the total number of cartons needed: 21 - 12 = 9
+3. Maria should buy 9 more cartons of berries. 
+
+Answer: Maria should buy 9 more cartons of berries.</s>
+prediction: 9.0
+label: 9.0
+---------------
+test:270/508 | accuracy 231  0.8555555555555555
+ 
+---------------
+1 quarter = 25 cents
+
+So, Sara has 11 x 25 = 275 cents.
+
+Therefore, Sara has 275 cents.</s>
+prediction: 275.0
+label: 275.0
+---------------
+test:271/508 | accuracy 232  0.8560885608856088
+ 
+---------------
+1. Add the cost of the cat toy and the cage: $10.22 + $11.73 = $21.95
+2. The total cost of Jessica's purchases is $21.95.</s>
+prediction: 21.95
+label: 21.95
+---------------
+test:272/508 | accuracy 233  0.8566176470588235
+ 
+---------------
+1. Identify the given information: 
+- There are 261 fishbowls. 
+- Each fishbowl has 23 fish. 
+
+2. Use multiplication to find the total number of fish: 
+- Multiply the number of fishbowls by the number of fish in each bowl: 
+261 x 23 = 6033 
+
+3. Write the answer in Arabic numerals: 
+The total number of fish is 6033.</s>
+prediction: 6033.0
+label: 6003.0
+---------------
+test:273/508 | accuracy 233  0.8534798534798534
+ 
+---------------
+0.5 + 0.125 = 0.625
+
+Therefore, 0.625 of the students in the band are in either the trumpet section or the trombone section.
+
+Answer: 0.625</s>
+prediction: 0.625
+label: 0.625
+---------------
+test:274/508 | accuracy 234  0.8540145985401459
+ 
+---------------
+1. Convert 2000 cents to dollars by dividing by 100: 2000/100 = 20
+2. Therefore, Tim has 20 dollars.
+
+Answer: 20</s>
+prediction: 20.0
+label: 20.0
+---------------
+test:275/508 | accuracy 235  0.8545454545454545
+ 
+---------------
+1. Identify the given information:
+- Bryan collected 122 books per continent.
+- He has books from all 4 continents.
+
+2. Use the given information to find the total number of books:
+- To find the total number of books, we need to multiply the number of books per continent by the number of continents.
+- So, 122 x 4 = 488.
+
+3. Write the answer in Arabic numerals:
+- Bryan has 488 books in total.
+
+Therefore, the answer is: 488.</s>
+prediction: 488.0
+label: 488.0
+---------------
+test:276/508 | accuracy 236  0.855072463768116
+ 
+---------------
+1. Find the total number of cans of cat food by multiplying the number of packages by the number of cans per package: 9 packages x 10 cans per package = 90 cans of cat food.
+2. Find the total number of cans of dog food by multiplying the number of packages by the number of cans per package: 7 packages x 5 cans per package = 35 cans of dog food.
+3. Find the difference between the number of cans of cat food and dog food by subtracting the number of cans of dog food from the number of cans of cat food: 90 cans of cat food - 35 cans of dog food = 55 more cans of cat food.
+
+Therefore, Adam bought 55 more cans of cat food than dog food. The answer in Arabic numerals is 55.</s>
+prediction: 55.0
+label: 55.0
+---------------
+test:277/508 | accuracy 237  0.855595667870036
+ 
+---------------
+1. Find the total number of ice cream sandwiches: 143
+2. Divide the total number of ice cream sandwiches by the number of nieces: 143 ÷ 11 = 13
+3. Each niece can get 13 ice cream sandwiches.
+
+Therefore, each niece can get 13 ice cream sandwiches.</s>
+prediction: 13.0
+label: 13.0
+---------------
+test:278/508 | accuracy 238  0.8561151079136691
+ 
+---------------
+1. Add the amount of cement used for Lexi's street and Tess's street: 10 + 5.1 = 15.1
+2. The total amount of cement used by Roadster's Paving Company is 15.1 tons.
+
+Answer: 15.1</s>
+prediction: 15.1
+label: 15.1
+---------------
+test:279/508 | accuracy 239  0.8566308243727598
+ 
+---------------
+1. Start with the number of walnut trees currently in the park: 33
+2. Add the number of walnut trees the workers will plant today: 44
+3. Perform the addition: 33 + 44 = 77
+4. The park will have 77 walnut trees when the workers are finished.
+
+Answer: 77</s>
+prediction: 77.0
+label: 77.0
+---------------
+test:280/508 | accuracy 240  0.8571428571428571
+ 
+---------------
+1. Find the total number of hamburgers sold in a week: 49
+2. Divide the total number of hamburgers sold by the number of days in a week: 49 ÷ 7 = 7
+3. The average number of hamburgers sold each day is 7.
+
+Therefore, the answer is: 7.</s>
+prediction: 7.0
+label: 7.0
+---------------
+test:281/508 | accuracy 241  0.8576512455516014
+ 
+---------------
+1. Add the distance Kendall drove with her mother and father: 
+
+0.16666666666666666 + 0.5 = 0.6666666666666666
+
+2. Therefore, Kendall drove a total of 0.6666666666666666 miles. 
+
+Answer: 0.6666666666666666</s>
+prediction: 0.6666666666666666
+label: 0.6666666666666666
+---------------
+test:282/508 | accuracy 242  0.8581560283687943
+ 
+---------------
+1. Add the number of ladybugs with spots to the number of ladybugs without spots: 
+
+12,170 + 54,912 = 67,082 
+
+2. The total number of ladybugs is 67,082. 
+
+Answer: 67,082</s>
+prediction: 67082.0
+label: 67082.0
+---------------
+test:283/508 | accuracy 243  0.8586572438162544
+ 
+---------------
+1. Add the amount of snow in the morning to the amount of snow in the afternoon: 
+
+0.125 + 0.5 = 0.625 
+
+2. The total amount of snowfall in Yardley is 0.625 inches. 
+
+Answer: 0.625</s>
+prediction: 0.625
+label: 0.625
+---------------
+test:284/508 | accuracy 244  0.8591549295774648
+ 
+---------------
+1. Add the amounts of grape juice, cranberry juice, and club soda: 0.25 + 0.375 + 0.125 = 0.75
+2. The total amount of punch Kendra made is 0.75 gallons.
+
+Answer: 0.75</s>
+prediction: 0.75
+label: 0.75
+---------------
+test:285/508 | accuracy 245  0.8596491228070176
+ 
+---------------
+1. On the first day, Mrs. Hilt saw 144 bees.
+2. On the second day, she saw 3 times that many, which is 3 x 144 = 432 bees.
+3. Therefore, Mrs. Hilt saw 432 bees on the second day. 
+
+Answer: 432</s>
+prediction: 432.0
+label: 432.0
+---------------
+test:286/508 | accuracy 246  0.8601398601398601
+ 
+---------------
+1. Divide the total number of seedlings by the number of seeds per packet: 
+
+420 ÷ 7 = 60 
+
+2. The answer is 60, which means that they need 60 packets to place all the seedlings. 
+
+Therefore, the answer is: 60.</s>
+prediction: 60.0
+label: 60.0
+---------------
+test:287/508 | accuracy 247  0.8606271777003485
+ 
+---------------
+1. Add the number of pears picked by Sara and Tim: 6 + 5 = 11
+2. The total number of pears picked is 11.
+
+Therefore, the answer is: 11.</s>
+prediction: 11.0
+label: 11.0
+---------------
+test:288/508 | accuracy 248  0.8611111111111112
+ 
+---------------
+1. Add Johnny's savings from September, October, and November: 
+
+$30 + $49 + $46 = $125 
+
+2. Subtract Johnny's spending on the video game: 
+
+$125 - $58 = $67 
+
+Therefore, Johnny has $67 left.</s>
+prediction: 67.0
+label: 67.0
+---------------
+test:289/508 | accuracy 249  0.8615916955017301
+ 
+---------------
+1. Divide the total number of soccer games by the number of months in the season: 
+
+27 games ÷ 3 months = 9 games per month 
+
+2. The answer is 9.</s>
+prediction: 9.0
+label: 9.0
+---------------
+test:290/508 | accuracy 250  0.8620689655172413
+ 
+---------------
+1. Start with the original number of houses: 20,817
+2. Add the number of houses built during the housing boom: 97,741
+3. Calculate the total number of houses: 20,817 + 97,741 = 118,558
+
+Therefore, there are now 118,558 houses in Lincoln County.</s>
+prediction: 118558.0
+label: 118558.0
+---------------
+test:291/508 | accuracy 251  0.8625429553264605
+ 
+---------------
+1. Add the cost of the three books: $11 + $19 + $7 = $37
+2. Subtract the amount Jonathan has saved from his allowance: $37 - $8 = $29
+3. Therefore, Jonathan needs $29 more to buy all three books. 
+
+Answer: $29</s>
+prediction: 29.0
+label: 29.0
+---------------
+test:292/508 | accuracy 252  0.863013698630137
+ 
+---------------
+1. Find the total number of basketball games in the season: 12 games
+2. Divide the total number of games by the number of months in the season: 12 games ÷ 2 months = 6 games per month
+3. The answer is 6 games per month.</s>
+prediction: 6.0
+label: 6.0
+---------------
+test:293/508 | accuracy 253  0.863481228668942
+ 
+---------------
+1. Start with the number of roses in the vase: 3
+2. Add the number of roses Alyssa cut: 14
+3. Use addition to find the total number of roses: 3 + 14 = 17
+
+Therefore, Alyssa cut 14 roses from her flower garden. The answer in Arabic numerals is 14.</s>
+prediction: 14.0
+label: 11.0
+---------------
+test:294/508 | accuracy 253  0.8605442176870748
+ 
+---------------
+1. Divide the total number of doughnuts by the number of boxes: 
+
+48 ÷ 4 = 12 
+
+2. Therefore, there were 12 doughnuts in each box. 
+
+Answer: 12</s>
+prediction: 12.0
+label: 12.0
+---------------
+test:295/508 | accuracy 254  0.8610169491525423
+ 
+---------------
+1. Add the number of games Sam went to this year and last year: 14 + 29 = 43
+2. The answer is 43.
+
+Therefore, Sam went to 43 football games in all.</s>
+prediction: 43.0
+label: 43.0
+---------------
+test:296/508 | accuracy 255  0.8614864864864865
+ 
+---------------
+1. Start with the total amount of sugar Pamela bought: 9.8 ounces
+2. Subtract the amount she spilled on the floor: 9.8 - 5.2 = 4.6 ounces
+3. Therefore, Pamela has 4.6 ounces of sugar left.
+
+Answer: 4.6</s>
+prediction: 4.6
+label: 4.6
+---------------
+test:297/508 | accuracy 256  0.8619528619528619
+ 
+---------------
+1. Start with the initial amount of sand: 4.1 pounds
+2. Subtract the amount lost: 4.1 - 2.4 = 1.7 pounds
+3. The truck has 1.7 pounds of sand when it arrives at the yard.
+
+Answer: 1.7</s>
+prediction: 1.7
+label: 1.7
+---------------
+test:298/508 | accuracy 257  0.8624161073825504
+ 
+---------------
+1. Start with the total number of candy pieces: 3409
+2. Subtract the number of red candy pieces: 3409 - 145 = 3264
+3. Therefore, the number of blue candy pieces is 3264.
+
+Answer: 3264</s>
+prediction: 3264.0
+label: 3264.0
+---------------
+test:299/508 | accuracy 258  0.862876254180602
+ 
+---------------
+1. Convert 3 weeks to days: 3 weeks x 7 days/week = 21 days
+2. Multiply the number of miles Bert runs in a day by the number of days: 2 miles/day x 21 days = 42 miles
+3. Bert will run 42 miles in 3 weeks.
+
+Answer: Bert will run 42 miles in 3 weeks.</s>
+prediction: 3.0
+label: 42.0
+---------------
+test:300/508 | accuracy 258  0.86
+ 
+---------------
+1. Add the amount of ice cream they ate on Friday and Saturday nights: 3.25 + 0.25 = 3.5
+2. The total amount of ice cream they ate is 3.5 pints.
+
+Answer: 3.5</s>
+prediction: 3.5
+label: 3.5
+---------------
+test:301/508 | accuracy 259  0.8604651162790697
+ 
+---------------
+1. Divide the total number of candy pieces by the number of students: 
+
+344 ÷ 43 = 8 
+
+2. Each student will get 8 pieces of candy. 
+
+Therefore, each student will get 8 pieces of candy.</s>
+prediction: 8.0
+label: 8.0
+---------------
+test:302/508 | accuracy 260  0.8609271523178808
+ 
+---------------
+1. Start with the initial amount of pepper: 0.25 grams
+2. Subtract the amount used for the scrambled eggs: 0.25 - 0.16 = 0.09 grams
+3. Brennan has 0.09 grams of pepper left.
+
+Answer: 0.09</s>
+prediction: 0.09
+label: 0.09
+---------------
+test:303/508 | accuracy 261  0.8613861386138614
+ 
+---------------
+1. Start with the number of stickers Luke had: 20
+2. Add the number of stickers he bought: 20 + 12 = 32
+3. Add the number of stickers he received for his birthday: 32 + 20 = 52
+4. Subtract the number of stickers he gave to his sister: 52 - 5 = 47
+5. Subtract the number of stickers he used to decorate a greeting card: 47 - 8 = 39
+
+Therefore, Luke has 39 stickers left.</s>
+prediction: 39.0
+label: 39.0
+---------------
+test:304/508 | accuracy 262  0.8618421052631579
+ 
+---------------
+1. Start with the number of books Alyssa has: 36
+2. Multiply Alyssa's number of books by 7 to find how many books Nancy has: 36 x 7 = 252
+3. Nancy has 252 books.
+
+Answer: Nancy has 252 books.</s>
+prediction: 252.0
+label: 252.0
+---------------
+test:305/508 | accuracy 263  0.8622950819672132
+ 
+---------------
+1. On Wednesday, Joan spent 4 half-dollars playing pinball, which is equal to 2 dollars.
+2. On Thursday, Joan spent 14 half-dollars on pinball, which is equal to 7 dollars.
+3. To find the total amount Joan spent playing pinball, we add the amount she spent on Wednesday and Thursday: 2 dollars + 7 dollars = 9 dollars.
+
+Therefore, Joan spent a total of 9 dollars playing pinball.</s>
+prediction: 9.0
+label: 9.0
+---------------
+test:306/508 | accuracy 264  0.8627450980392157
+ 
+---------------
+1. Subtract the cost of the airplane from the amount of money Adam has: 
+$5.00 - $4.28 = $0.72 
+
+2. Therefore, Adam will get $0.72 in change. 
+
+Answer: $0.72</s>
+prediction: 0.72
+label: 0.72
+---------------
+test:307/508 | accuracy 265  0.8631921824104235
+ 
+---------------
+1. Find the difference in height between Janet's sandcastle and her sister's sandcastle: 
+
+3.6666666666666665 - 2.3333333333333335 = 1.3333333333333335 
+
+2. Therefore, Janet's sandcastle was 1.3333333333333335 feet taller than her sister's sandcastle. 
+
+Answer: 1.3333333333333335 feet</s>
+prediction: 1.3333333333333335
+label: 1.3333333333333333
+---------------
+test:308/508 | accuracy 266  0.8636363636363636
+ 
+---------------
+1. Start with the total number of blood cells in both samples: 7,341
+2. Subtract the number of blood cells in the first sample: 7,341 - 4,221 = 3,120
+3. Therefore, there were 3,120 blood cells in the second sample.
+
+Answer: 3,120</s>
+prediction: 3120.0
+label: 3120.0
+---------------
+test:309/508 | accuracy 267  0.8640776699029126
+ 
+---------------
+1. Subtract 0.35 inches from 0.81 inches to find the amount it rained less in April than in March: 
+
+0.81 - 0.35 = 0.46 
+
+2. Therefore, it rained 0.46 inches in April. 
+
+Answer: 0.46</s>
+prediction: 0.46
+label: 0.46
+---------------
+test:310/508 | accuracy 268  0.864516129032258
+ 
+---------------
+1. Start with the number of dimes Melanie had: 7
+2. Add the number of dimes her dad gave her: 7 + 8 = 15
+3. Add the number of dimes her mother gave her: 15 + 4 = 19
+4. Melanie now has 19 dimes.
+
+Answer: Melanie has 19 dimes now.</s>
+prediction: 19.0
+label: 19.0
+---------------
+test:311/508 | accuracy 269  0.864951768488746
+ 
+---------------
+1. Divide the total number of pencils by the number of pencils in each box: 
+
+648 ÷ 4 = 162 
+
+2. The answer is 162. 
+
+Therefore, you will fill 162 pencil boxes.</s>
+prediction: 162.0
+label: 162.0
+---------------
+test:312/508 | accuracy 270  0.8653846153846154
+ 
+---------------
+1. Let x be the number of comic books Sandy began with.
+2. Sandy sold half of her comic books, which means she sold x/2 comic books.
+3. She then bought 6 more comic books, so she now has x + 6 comic books.
+4. We know that x + 6 = 13, so we can solve for x:
+   x + 6 = 13
+   x = 7
+5. Therefore, Sandy began with 7 comic books. 
+
+Answer: Sandy began with 7 comic books.</s>
+prediction: 7.0
+label: 14.0
+---------------
+test:313/508 | accuracy 270  0.8626198083067093
+ 
+---------------
+1. Start with the total number of games played: 616
+2. Subtract the number of games Fred attended: 616 - 147 = 469
+3. Therefore, Fred missed 469 baseball games.
+
+Answer: 469</s>
+prediction: 469.0
+label: 469.0
+---------------
+test:314/508 | accuracy 271  0.8630573248407644
+ 
+---------------
+1. Divide the total number of students by the number of students per classroom: 
+
+960 ÷ 30 = 32 
+
+2. The school needs 32 classrooms. 
+
+Answer: 32</s>
+prediction: 32.0
+label: 32.0
+---------------
+test:315/508 | accuracy 272  0.8634920634920635
+ 
+---------------
+1. Let x be the height of the shortest player in inches.
+2. According to the problem, the tallest player is 9.5 inches taller than the shortest player, so the height of the tallest player is x + 9.5 inches.
+3. We also know that the height of the tallest player is 77.75 inches. So we can set up the equation:
+x + 9.5 = 77.75
+4. To solve for x, we need to isolate it on one side of the equation. We can do this by subtracting 9.5 from both sides:
+x + 9.5 - 9.5 = 77.75 - 9.5
+x = 68.25
+5. Therefore, the shortest player is 68.25 inches tall.</s>
+prediction: 68.25
+label: 68.25
+---------------
+test:316/508 | accuracy 273  0.8639240506329114
+ 
+---------------
+1. We know that Fred has 110 blue marbles.
+2. We also know that Fred has 22 times more blue marbles than Tim.
+3. To find out how many blue marbles Tim has, we need to multiply Fred's amount by 22.
+4. 110 x 22 = 2320
+5. Therefore, Tim has 2320 blue marbles.
+
+Answer: Tim has 2320 blue marbles.</s>
+prediction: 2320.0
+label: 5.0
+---------------
+test:317/508 | accuracy 273  0.861198738170347
+ 
+---------------
+1. Find the total number of cupcakes Randy already has: 7 + 19 = 26
+2. Subtract the number of cupcakes Randy already has from the total number he needs: 53 - 26 = 27
+3. Therefore, Randy should buy 27 more cupcakes. 
+
+Answer: 27</s>
+prediction: 27.0
+label: 32.0
+---------------
+test:318/508 | accuracy 273  0.8584905660377359
+ 
+---------------
+1. Start with the total amount of fruit sold so far: 9,792 pounds
+2. Subtract the amount of frozen fruit sold: 9,792 - 3,513 = 6,279 pounds
+3. Therefore, 6,279 pounds of fresh fruit have been sold so far.
+
+Answer: 6,279</s>
+prediction: 6279.0
+label: 6279.0
+---------------
+test:319/508 | accuracy 274  0.8589341692789969
+ 
+---------------
+1. Identify the number of marbles Mary has: 9
+2. Identify the number of marbles Joan has: 3
+3. Add the number of marbles Mary and Joan have: 9 + 3 = 12
+4. The answer is 12.
+
+Therefore, Mary and Joan have 12 yellow marbles in all.</s>
+prediction: 12.0
+label: 12.0
+---------------
+test:320/508 | accuracy 275  0.859375
+ 
+---------------
+1. Find the total number of slices by multiplying the number of pizzas by the number of slices per pizza: 5 pizzas x 4 slices per pizza = 20 slices.
+2. Write the answer in Arabic numerals: 20 slices.</s>
+prediction: 20.0
+label: 20.0
+---------------
+test:321/508 | accuracy 276  0.8598130841121495
+ 
+---------------
+1. Add the cost of the berries and the peaches: $7.19 + $6.83 = $14.02
+2. Subtract the cost from the amount paid: $20.00 - $14.02 = $6.00
+3. Therefore, Mary received $6.00 in change. 
+
+Answer: $6.00</s>
+prediction: 6.0
+label: 5.98
+---------------
+test:322/508 | accuracy 276  0.8571428571428571
+ 
+---------------
+1. Bryan had 8 precious stones in his collection.
+2. The stones were sold to his friend from the jewelry store.
+3. The stones were sold at 1785 dollar each.
+4. To find the total amount of money Bryan got, we need to multiply the number of stones by the price per stone.
+5. 8 stones x 1785 dollar/stone = 14280 dollar
+6. Therefore, Bryan got 14280 dollar in total.
+
+Answer: 14280</s>
+prediction: 14280.0
+label: 14280.0
+---------------
+test:323/508 | accuracy 277  0.8575851393188855
+ 
+---------------
+1. Start with the number of quarters Sara had: 21 quarters
+2. Add the number of quarters her dad gave her: 49 quarters
+3. Calculate the total number of quarters she has now: 21 quarters + 49 quarters = 70 quarters
+
+Therefore, Sara now has 70 quarters.</s>
+prediction: 70.0
+label: 70.0
+---------------
+test:324/508 | accuracy 278  0.8580246913580247
+ 
+---------------
+1. Start with the number of violet balloons Dan has: 29.
+2. Multiply Dan's number of balloons by 7 to find how many Tim has: 29 x 7 = 203.
+3. Therefore, Tim has 203 violet balloons.
+
+Answer: Tim has 203 violet balloons.</s>
+prediction: 203.0
+label: 203.0
+---------------
+test:325/508 | accuracy 279  0.8584615384615385
+ 
+---------------
+1. Add the number of nickels and dimes Tim got: 3 + 13 = 16
+2. Add the number of dimes Tim found in his tip jar: 7
+3. Multiply the number of dimes by their value: 7 x 0.10 = 0.70
+4. Add the amount of money Tim got from his tip jar: 16 + 0.70 = 16.70
+5. Add the number of half-dollars Tim found in his tip jar: 9
+6. Multiply the number of half-dollars by their value: 9 x 0.50 = 4.50
+7. Add the amount of money Tim got from his tip jar: 16.70 + 4.50 = 21.20
+
+Therefore, Tim got $21.20.</s>
+prediction: 21.2
+label: 6.65
+---------------
+test:326/508 | accuracy 279  0.8558282208588958
+ 
+---------------
+1. Start with the amount of water Kaleen filled the bucket with: 0.75 gallons
+2. Subtract the amount of water that remained: 0.75 - 0.5 = 0.25 gallons
+3. Therefore, 0.25 gallons of water had leaked out of the bucket.
+
+Answer: 0.25</s>
+prediction: 0.25
+label: 0.25
+---------------
+test:327/508 | accuracy 280  0.8562691131498471
+ 
+---------------
+1. Let x be the amount of sales Trenton makes.
+2. His commission is 0.04x.
+3. His total earnings for the week are 190 + 0.04x.
+4. His goal is to earn at least 500 dollars, so we can set up the equation:
+190 + 0.04x = 500
+5. Solving for x, we get:
+x = 500 / 0.04
+x = 12500
+6. Therefore, Trenton must make 12500 dollars in sales to reach his goal.</s>
+prediction: 12500.0
+label: 7750.0
+---------------
+test:328/508 | accuracy 280  0.8536585365853658
+ 
+---------------
+1. Add the number of part-time employees and full-time employees: 2,041 + 63,093 = 65,134
+2. The total number of employees working for the corporation is 65,134.
+
+Therefore, the answer is: 65,134.</s>
+prediction: 65134.0
+label: 65134.0
+---------------
+test:329/508 | accuracy 281  0.8541033434650456
+ 
+---------------
+1. Identify the given information:
+- Jill invited 37 people to her birthday party.
+- Each person ate 8 pieces of pizza.
+
+2. Determine the total number of pieces of pizza eaten:
+To find the total number of pieces of pizza eaten, we need to multiply the number of people by the number of pieces of pizza each person ate. 
+
+37 people x 8 pieces of pizza per person = 296 pieces of pizza
+
+3. Write the answer in Arabic numerals:
+The answer is 296.</s>
+prediction: 296.0
+label: 296.0
+---------------
+test:330/508 | accuracy 282  0.8545454545454545
+ 
+---------------
+1. Add the number of crayons Willy has to the number of crayons Lucy has: 
+
+1400 + 290 = 1690 
+
+2. Subtract the number of crayons Lucy has from the number of crayons Willy has: 
+
+1400 - 290 = 1110 
+
+Therefore, Willy has 1110 more crayons than Lucy. The answer in Arabic numerals is 1110.</s>
+prediction: 1110.0
+label: 1110.0
+---------------
+test:331/508 | accuracy 283  0.8549848942598187
+ 
+---------------
+1. Start with the number of quarters Jason had: 49 quarters
+2. Add the number of quarters his dad gave him: 25 quarters
+3. Calculate the total number of quarters he has now: 49 quarters + 25 quarters = 74 quarters
+
+Therefore, Jason now has 74 quarters.</s>
+prediction: 74.0
+label: 74.0
+---------------
+test:332/508 | accuracy 284  0.8554216867469879
+ 
+---------------
+1. Convert 2 pennies to dimes: 2 pennies x 10 dimes/penny = 20 dimes
+2. Convert 12 dimes to dollars: 12 dimes x 10 cents/dime = 120 cents
+3. Convert 120 cents to dollars: 120 cents ÷ 100 cents/dollar = 1.2 dollars
+4. Convert 1.2 dollars to dollars: 1.2 dollars x 100 cents/dollar = 120 cents
+5. Convert 120 cents to dimes: 120 cents ÷ 10 cents/dime = 12 dimes
+6. Convert 12 dimes to dollars: 12 dimes x 10 cents/dime = 120 cents
+7. Convert 120 cents to dollars: 120 cents ÷ 100 cents/dollar = 1.2 dollars
+8. Convert 1.2 dollars to dollars: 1.2
+prediction: 1.2
+label: 1.22
+---------------
+test:333/508 | accuracy 284  0.8528528528528528
+ 
+---------------
+1. Start with the number of baseball cards Mike had: 87
+2. Subtract the number of cards Sam bought: 87 - 13 = 74
+3. Therefore, Mike now has 74 baseball cards.
+
+Answer: Mike now has 74 baseball cards.</s>
+prediction: 74.0
+label: 74.0
+---------------
+test:334/508 | accuracy 285  0.8532934131736527
+ 
+---------------
+1. Add the amount of lemonade Jonah served during the first, second, and third intermissions: 
+
+0.25 + 0.4166666666666667 + 0.25 = 0.8333333333333333 
+
+2. The total amount of lemonade Jonah served is 0.8333333333333333. 
+
+Therefore, Jonah poured 0.8333333333333333 pitchers of lemonade in all.</s>
+prediction: 0.8333333333333333
+label: 0.9166666666666666
+---------------
+test:335/508 | accuracy 285  0.8507462686567164
+ 
+---------------
+1. Add the number of bottles of lemon-lime soda and cola: 2.6666666666666665 + 2.6666666666666665 = 5.333333333333333
+2. Therefore, Mason and his friends drank a total of 5.333333333333333 bottles of soda. 
+
+Answer: 5.333333333333333</s>
+prediction: 5.333333333333333
+label: 5.333333333333333
+---------------
+test:336/508 | accuracy 286  0.8511904761904762
+ 
+---------------
+1. Identify the given information:
+- Robin has 27 packages of gum.
+- Each package has 18 pieces of gum.
+
+2. Use multiplication to find the total number of pieces of gum:
+27 x 18 = 486
+
+3. Write the answer in Arabic numerals:
+Robin has 486 pieces of gum.</s>
+prediction: 486.0
+label: 486.0
+---------------
+test:337/508 | accuracy 287  0.8516320474777448
+ 
+---------------
+1. Benny has 6 blue marbles.
+2. Keith has 5 times more blue marbles than Benny, which means Keith has 5 x 6 = 30 blue marbles.
+3. Therefore, Keith has 30 blue marbles. 
+
+Answer: Keith has 30 blue marbles.</s>
+prediction: 30.0
+label: 30.0
+---------------
+test:338/508 | accuracy 288  0.8520710059171598
+ 
+---------------
+1. Multiply the cost of one ball by the number of balls: 
+$1.54 x 3 = $4.52 
+
+2. Therefore, Kyoko must pay $4.52 for 3 balls. 
+
+Answer: $4.52</s>
+prediction: 4.52
+label: 4.62
+---------------
+test:339/508 | accuracy 288  0.8495575221238938
+ 
+---------------
+1. Add the fractions of bikinis and trunks: 0.375 + 0.25 = 0.625
+2. The fraction of garments that are either bikinis or trunks is 0.625.
+
+Answer: 0.625</s>
+prediction: 0.625
+label: 0.625
+---------------
+test:340/508 | accuracy 289  0.85
+ 
+---------------
+1. Add the fractions of one-bedroom and two-bedroom apartments: 
+
+0.1666666666666666 + 0.3333333333333333 = 0.4999999999999999 
+
+2. The fraction of apartments that are either one- or two-bedroom is: 
+
+0.4999999999999999 
+
+Therefore, the answer is: 
+
+0.4999999999999999</s>
+prediction: 0.4999999999999999
+label: 0.5
+---------------
+test:341/508 | accuracy 290  0.8504398826979472
+ 
+---------------
+1. Tony had $20.
+2. Tony paid $8 for a ticket to a baseball game.
+3. Tony had $20 - $8 = $12 left.
+4. At the game, Tony bought a hot dog for $3.
+5. Tony had $12 - $3 = $9 left.
+
+Therefore, Tony had $9 left.</s>
+prediction: 9.0
+label: 9.0
+---------------
+test:342/508 | accuracy 291  0.8508771929824561
+ 
+---------------
+1. Start with the number of watermelons Sam grew: 4
+2. Subtract the number of watermelons the rabbits ate: 4 - 3 = 1
+3. Sam has 1 watermelon left.
+
+Answer: Sam has 1 watermelon left.</s>
+prediction: 1.0
+label: 1.0
+---------------
+test:343/508 | accuracy 292  0.8513119533527697
+ 
+---------------
+1. Add the amount of hair cut on the first day to the amount cut on the second day: 
+
+0.375 + 0.5 = 0.875 
+
+2. Therefore, Elizabeth had a total of 0.875 inches of hair cut off. 
+
+Answer: 0.875</s>
+prediction: 0.875
+label: 0.875
+---------------
+test:344/508 | accuracy 293  0.8517441860465116
+ 
+---------------
+1. Start with the number of pencils in the drawer: 27
+2. Add the number of pencils Nancy placed: 45
+3. Calculate the total number of pencils: 27 + 45 = 72
+
+Therefore, there are now 72 pencils in total.</s>
+prediction: 72.0
+label: 72.0
+---------------
+test:345/508 | accuracy 294  0.8521739130434782
+ 
+---------------
+1. Start with the number of peaches Sally had left: 13.
+2. Add the number of peaches she picked: 55.
+3. Perform the addition: 13 + 55 = 68.
+
+Therefore, Sally picked 68 peaches.</s>
+prediction: 68.0
+label: 42.0
+---------------
+test:346/508 | accuracy 294  0.8497109826589595
+ 
+---------------
+1. Divide the total number of paintings by the number of rooms: 
+
+32 paintings ÷ 4 rooms = 8 paintings per room 
+
+2. The answer is 8.</s>
+prediction: 8.0
+label: 8.0
+---------------
+test:347/508 | accuracy 295  0.8501440922190202
+ 
+---------------
+1. Add the number of oranges picked by Mary and Jason: 122 + 105 = 227
+2. The total number of oranges picked is 227.
+
+Therefore, the answer is: 227.</s>
+prediction: 227.0
+label: 227.0
+---------------
+test:348/508 | accuracy 296  0.8505747126436781
+ 
+---------------
+1. Add the weight of the blue ball and the brown ball: 6 + 3.12 = 9.12 pounds
+2. The scale will read 9.12 pounds.
+
+Answer: 9.12</s>
+prediction: 9.12
+label: 9.12
+---------------
+test:349/508 | accuracy 297  0.8510028653295129
+ 
+---------------
+1. Convert the weight of the geometry textbook to pounds: 0.625 = 0.625 pounds
+2. Subtract the weight of the geometry textbook from the weight of the chemistry textbook: 7.125 - 0.625 = 6.5 pounds
+3. The chemistry textbook weighs 6.5 pounds more than the geometry textbook.
+
+Answer: 6.5</s>
+prediction: 6.5
+label: 6.5
+---------------
+test:350/508 | accuracy 298  0.8514285714285714
+ 
+---------------
+1. Let x be the number of stamps that Minerva has.
+2. According to the problem, Lizette has 125 more stamps than Minerva, so Lizette has x + 125 stamps.
+3. We also know that Lizette has 813 stamps, so we can set up an equation:
+x + 125 = 813
+4. To solve for x, we can subtract 125 from both sides:
+x = 688
+5. Therefore, Minerva has 688 stamps. 
+
+Answer: Minerva has 688 stamps.</s>
+prediction: 688.0
+label: 688.0
+---------------
+test:351/508 | accuracy 299  0.8518518518518519
+ 
+---------------
+1. Start with the amount of oil in the cup: 0.16666666666666666 cups
+2. Add the amount of oil Scarlett wants to add: 0.6666666666666666 cups
+3. Calculate the total amount of oil: 0.16666666666666666 + 0.6666666666666666 = 0.8333333333333333 cups
+
+Therefore, there will be 0.8333333333333333 cups of oil in the measuring cup.</s>
+prediction: 0.8333333333333333
+label: 0.8333333333333334
+---------------
+test:352/508 | accuracy 300  0.8522727272727273
+ 
+---------------
+1. Let's call the smallest odd number "x".
+2. The next consecutive odd number would be x+2.
+3. The one after that would be x+4.
+4. The sum of these three numbers is 69: x + (x+2) + (x+4) = 69.
+5. Simplifying the equation: 3x + 6 = 69.
+6. Subtracting 6 from both sides: 3x = 63.
+7. Dividing both sides by 3: x = 21.
+
+Therefore, the smallest odd number is 21.</s>
+prediction: 21.0
+label: 21.0
+---------------
+test:353/508 | accuracy 301  0.8526912181303116
+ 
+---------------
+1. Add the number of red markers to the number of blue markers: 
+
+2315 + 1028 = 3343 
+
+2. Therefore, Connie has 3343 markers altogether. 
+
+Answer: 3343</s>
+prediction: 3343.0
+label: 3343.0
+---------------
+test:354/508 | accuracy 302  0.8531073446327684
+ 
+---------------
+1. Start with the total number of rulers in the drawer: 46
+2. Subtract the number of rulers Tim took: 46 - 25 = 21
+3. Therefore, there are now 21 rulers in the drawer.
+
+Answer: 21</s>
+prediction: 21.0
+label: 21.0
+---------------
+test:355/508 | accuracy 303  0.8535211267605634
+ 
+---------------
+1. Start with the number of rose bushes currently in the park: 2
+2. Add the number of rose bushes the workers will plant today: 4
+3. Perform the addition: 2 + 4 = 6
+4. The park will have 6 rose bushes when the workers are finished.
+
+Answer: 6</s>
+prediction: 6.0
+label: 6.0
+---------------
+test:356/508 | accuracy 304  0.8539325842696629
+ 
+---------------
+1. Identify the total bill: $15
+2. Identify the number of people: 3 (Benny, Sally, and Sandy)
+3. Divide the total bill by the number of people: $15 ÷ 3 = $5
+4. Each person will have to pay $5.
+
+Therefore, each person will have to pay $5.</s>
+prediction: 5.0
+label: 5.0
+---------------
+test:357/508 | accuracy 305  0.8543417366946778
+ 
+---------------
+1. Let x be the number of homes Mary cleaned.
+2. We know that Mary earns $46 cleaning one home, so her total earnings can be represented as 46x.
+3. We also know that her total earnings were $276, so we can set up an equation: 46x = 276.
+4. Solving for x, we divide both sides by 46: x = 6.
+5. Therefore, Mary cleaned 6 homes to earn $276.
+
+Answer: Mary cleaned 6 homes.</s>
+prediction: 6.0
+label: 6.0
+---------------
+test:358/508 | accuracy 306  0.8547486033519553
+ 
+---------------
+1. First, we need to find out how many blue marbles Sandy has. To do this, we multiply Melanie's number of blue marbles by 8: 
+
+84 x 8 = 656 
+
+2. Next, we need to convert this number to dozens. Since there are 12 marbles in a dozen, we divide 656 by 12: 
+
+656 ÷ 12 = 54 
+
+3. Therefore, Sandy has 54 dozen blue marbles. 
+
+Answer: Sandy has 54 dozen blue marbles.</s>
+prediction: 54.0
+label: 56.0
+---------------
+test:359/508 | accuracy 306  0.8523676880222841
+ 
+---------------
+1. Identify the given information: 
+- Each bus took 45 students. 
+- There were 8 buses. 
+
+2. Use the given information to find the total number of students who went to the concert: 
+- To find the total number of students who went to the concert, we need to multiply the number of buses by the number of students per bus. 
+- 8 buses x 45 students per bus = 360 students 
+
+3. Write the answer in Arabic numerals: 
+The total number of students who went to the concert is 360.</s>
+prediction: 360.0
+label: 360.0
+---------------
+test:360/508 | accuracy 307  0.8527777777777777
+ 
+---------------
+1 dozen is equal to 12, so 4 dozen is equal to 4 x 12 = 48 eggs.
+
+Therefore, Sally bought 48 eggs from the grocery store.</s>
+prediction: 48.0
+label: 48.0
+---------------
+test:361/508 | accuracy 308  0.853185595567867
+ 
+---------------
+1. Find the total cost of the notebook, ruler, and 3 pencils: 
+   Total cost = 35 + 18 + 3 x 3 
+   Total cost = 35 + 18 + 9 
+   Total cost = 52 
+
+2. Divide the total cost by the number of pencils to find the cost of one pencil: 
+   Cost of one pencil = Total cost / Number of pencils 
+   Cost of one pencil = 52 / 3 
+   Cost of one pencil = 17 
+
+Therefore, the cost of one pencil is $17.</s>
+prediction: 17.0
+label: 7.0
+---------------
+test:362/508 | accuracy 308  0.850828729281768
+ 
+---------------
+1. Determine the total cost of the candy bars by subtracting the cost of the soft drink from the total cost: 27 - 2 = 25.
+2. Divide the total cost of the candy bars by the number of candy bars Benny bought: 25 ÷ 5 = 5.
+3. Therefore, each candy bar costs 5 dollars. 
+
+Answer: Each candy bar costs $5.</s>
+prediction: 5.0
+label: 5.0
+---------------
+test:363/508 | accuracy 309  0.8512396694214877
+ 
+---------------
+1. Add the cost of the hotdog and the salad: $5.36 + $5.10 = $10.46
+2. The total lunch bill is $10.46.
+
+Answer: $10.46</s>
+prediction: 10.46
+label: 10.46
+---------------
+test:364/508 | accuracy 310  0.8516483516483516
+ 
+---------------
+1. Let x be the number of marbles Connie had to start with.
+2. According to the problem, Connie gave 183 marbles to Juan, so she would have had x - 183 marbles left.
+3. We also know that she has 593 marbles left, so we can set up the equation:
+x - 183 = 593
+4. To solve for x, we can add 183 to both sides:
+x - 183 + 183 = 593 + 183
+x = 776
+
+Therefore, Connie had 776 marbles to start with.</s>
+prediction: 776.0
+label: 776.0
+---------------
+test:365/508 | accuracy 311  0.852054794520548
+ 
+---------------
+1. Add the number of seashells Mary found to the number of seashells Jessica found: 
+
+18 + 41 = 59 
+
+2. The total number of seashells they found together is 59. 
+
+Answer: 59</s>
+prediction: 59.0
+label: 59.0
+---------------
+test:366/508 | accuracy 312  0.8524590163934426
+ 
+---------------
+1. Find the total fraction of students who received either A's or B's: 
+
+0.7 + 0.2 = 0.9 
+
+2. Therefore, 0.9 of the students received either A's or B's. 
+
+Answer: 0.9</s>
+prediction: 0.9
+label: 0.9
+---------------
+test:367/508 | accuracy 313  0.8528610354223434
+ 
+---------------
+1. Determine the total number of sacks harvested in 6 days:
+83 sacks/day x 6 days = 498 sacks
+
+2. Write the answer in Arabic numerals:
+Lewis will have 498 sacks of oranges after 6 days of harvest.</s>
+prediction: 6.0
+label: 498.0
+---------------
+test:368/508 | accuracy 313  0.8505434782608695
+ 
+---------------
+1 dozen is equal to 12, so to find out how many dozen eggs Keith bought, we need to divide 72 by 12.
+
+72 ÷ 12 = 6
+
+Therefore, Keith bought 6 dozen eggs.
+
+The answer in Arabic numerals is 6.</s>
+prediction: 6.0
+label: 6.0
+---------------
+test:369/508 | accuracy 314  0.8509485094850948
+ 
+---------------
+1. Add the cost of the shorts, shirt, and jacket: $13.99 + $12.14 + $7.43 = $33.56
+2. Therefore, Sandy spent $33.56 on clothes. 
+
+Answer: $33.56</s>
+prediction: 33.56
+label: 33.56
+---------------
+test:370/508 | accuracy 315  0.8513513513513513
+ 
+---------------
+1. Start with the total amount of honey produced: 0.36 pounds
+2. Subtract the amount eaten by bears: 0.36 - 0.05 = 0.31
+3. The amount of honey remaining is 0.31 pounds.
+
+Answer: 0.31</s>
+prediction: 0.31
+label: 0.31
+---------------
+test:371/508 | accuracy 316  0.8517520215633423
+ 
+---------------
+1. Determine the number of lemons needed for one glass of lemonade: 2 lemons
+2. Determine the number of lemons needed for 18 lemons: 18 lemons x 2 lemons per glass = 36 lemons
+3. Divide the total number of lemons by the number of lemons needed per glass: 36 lemons ÷ 2 lemons per glass = 18 glasses of lemonade
+
+Therefore, Jane can make 18 glasses of fresh lemonade with 18 lemons. The answer in Arabic numerals is 18.</s>
+prediction: 18.0
+label: 9.0
+---------------
+test:372/508 | accuracy 316  0.8494623655913979
+ 
+---------------
+1 candy bar = 3 calories
+5 candy bars = 5 x 3 = 15 calories
+
+Therefore, there are 15 calories in 5 candy bars. The answer in Arabic numerals is 15.</s>
+prediction: 15.0
+label: 15.0
+---------------
+test:373/508 | accuracy 317  0.8498659517426274
+ 
+---------------
+1. Add the amounts of rain recorded on Monday, Tuesday, and Wednesday: 
+
+0.16666666666666666 + 0.4166666666666667 + 0.08333333333333333 = 0.6666666666666666 
+
+2. Convert the total to centimeters: 
+
+0.6666666666666666 = 6.666666666666667 
+
+Therefore, the class recorded 6.666666666666667 centimeters of rain in all.</s>
+prediction: 6.666666666666667
+label: 0.6666666666666666
+---------------
+test:374/508 | accuracy 317  0.8475935828877005
+ 
+---------------
+1. Fred has 3 times more blue balloons than Sally, which means he has 3 x 6 = 18 blue balloons.
+2. Therefore, Fred has 18 blue balloons now.
+
+Answer: Fred has 18 blue balloons now.</s>
+prediction: 18.0
+label: 18.0
+---------------
+test:375/508 | accuracy 318  0.848
+ 
+---------------
+1. Add the amount of regular milk and soy milk: 0.5 + 0.1 = 0.6
+2. Therefore, Mitch's family drank a total of 0.6 cartons of milk in one week. 
+
+Answer: 0.6</s>
+prediction: 0.6
+label: 0.6
+---------------
+test:376/508 | accuracy 319  0.848404255319149
+ 
+---------------
+1. Start with the total amount of money: $3.75
+2. Divide the total amount of money by the number of people: 3.75 ÷ 3 = 1.25
+3. Each person will get $1.25.
+
+Therefore, each person will get $1.25.</s>
+prediction: 1.25
+label: 1.25
+---------------
+test:377/508 | accuracy 320  0.8488063660477454
+ 
+---------------
+1. Divide the total number of guests by the number of guests per table: 
+
+12 guests ÷ 3 guests per table = 4 tables 
+
+2. The answer is 4 tables. 
+
+Therefore, Marlee will need 4 tables for her Halloween party.</s>
+prediction: 4.0
+label: 4.0
+---------------
+test:378/508 | accuracy 321  0.8492063492063492
+ 
+---------------
+1. Divide the total number of blue round stones by the number of stones in each bracelet: 
+
+140 stones ÷ 14 stones per bracelet = 10 bracelets 
+
+2. The answer is 10 bracelets.</s>
+prediction: 10.0
+label: 10.0
+---------------
+test:379/508 | accuracy 322  0.8496042216358839
+ 
+---------------
+1. Start with the number of seashells Sam had: 35
+2. Subtract the number of seashells he gave to Joan: 35 - 18 = 17
+3. Sam now has 17 seashells.
+
+Answer: Sam now has 17 seashells.</s>
+prediction: 17.0
+label: 17.0
+---------------
+test:380/508 | accuracy 323  0.85
+ 
+---------------
+1. Start with the total number of trout caught: 18
+2. Divide the total number of trout by the number of people fishing: 18 ÷ 2 = 9
+3. Each person will get 9 trout.
+
+Therefore, each person will get 9 trout.</s>
+prediction: 9.0
+label: 9.0
+---------------
+test:381/508 | accuracy 324  0.8503937007874016
+ 
+---------------
+1. Find the total distance Irwin's family hiked from the car to the campsite:
+0.2 + 0.4 + 0.1 = 0.7 miles
+
+2. Therefore, Irwin's family hiked a total of 0.7 miles.</s>
+prediction: 0.7
+label: 0.7
+---------------
+test:382/508 | accuracy 325  0.8507853403141361
+ 
+---------------
+1 dollar = 4 quarters
+So, 9 dollars = 9 x 4 = 36 quarters
+To convert quarters to dozens, we divide by 12 (since there are 12 quarters in a dozen)
+36 quarters ÷ 12 = 3 dozens
+Therefore, Sara has 3 dozen quarters. 
+
+Answer: 3</s>
+prediction: 3.0
+label: 3.0
+---------------
+test:383/508 | accuracy 326  0.8511749347258486
+ 
+---------------
+1. Add the weight of the first pumpkin to the weight of the second pumpkin: 
+
+4 + 8.7 = 12.7 
+
+2. The two pumpkins weighed all together 12.7 pounds. 
+
+Answer: 12.7</s>
+prediction: 12.7
+label: 12.7
+---------------
+test:384/508 | accuracy 327  0.8515625
+ 
+---------------
+1. Find the total number of baseball cards: 540 x 5 = 2700
+2. Divide the total number of cards by the number of cards per pack: 2700 ÷ 20 = 135
+3. The answer is 135 packs of baseball cards in all.
+
+Answer: 135</s>
+prediction: 135.0
+label: 108.0
+---------------
+test:385/508 | accuracy 327  0.8493506493506493
+ 
+---------------
+1. Start with the number of dogwood trees currently in the park: 39
+2. Add the number of dogwood trees that will be planted today: 39 + 41 = 70
+3. Add the number of dogwood trees that will be planted tomorrow: 70 + 20 = 90
+4. The park will have 90 dogwood trees when the workers are finished.
+
+Answer: 90</s>
+prediction: 90.0
+label: 100.0
+---------------
+test:386/508 | accuracy 327  0.8471502590673575
+ 
+---------------
+1. Add the number of dimes Joan found in her jacket and shorts: 15 dimes + 4 dimes = 19 dimes
+2. Multiply the total number of dimes by the value of one dime: 19 dimes x $0.10/dime = $1.90
+3. Therefore, Joan found $1.90. 
+
+Answer: $1.90</s>
+prediction: 1.9
+label: 1.9
+---------------
+test:387/508 | accuracy 328  0.8475452196382429
+ 
+---------------
+1. Find the difference between the distance Jenny ran and walked: 
+
+0.6 miles - 0.4 miles = 0.2 miles 
+
+2. Therefore, Jenny ran 0.2 miles farther than she walked. 
+
+Answer: 0.2 miles</s>
+prediction: 0.2
+label: 0.2
+---------------
+test:388/508 | accuracy 329  0.8479381443298969
+ 
+---------------
+1. Let x be the number of marbles Carla started with.
+2. We know that Carla bought 489 marbles, so we can write an equation: x + 489 = 2778.
+3. Solving for x, we can subtract 489 from both sides: x = 2289.
+4. Therefore, Carla started with 2289 marbles.</s>
+prediction: 2289.0
+label: 2289.0
+---------------
+test:389/508 | accuracy 330  0.8483290488431876
+ 
+---------------
+1. Start with the number of seashells Dan found: 56.
+2. Subtract the number of seashells he has left: 56 - 22 = 34.
+3. Therefore, Dan gave Jessica 34 seashells. 
+
+Answer: Dan gave Jessica 34 seashells.</s>
+prediction: 34.0
+label: 34.0
+---------------
+test:390/508 | accuracy 331  0.8487179487179487
+ 
+---------------
+1. Determine the total number of nails they brought: 140
+2. Determine the number of nails they left in each station: 7
+3. Divide the total number of nails by the number of nails left in each station: 140 ÷ 7 = 20
+4. The answer is 20, which represents the number of stations they visited.
+
+Therefore, Joline and the junior ranger visited 20 stations.</s>
+prediction: 20.0
+label: 20.0
+---------------
+test:391/508 | accuracy 332  0.8491048593350383
+ 
+---------------
+1. Find the total miles flown in one week: 
+   Total miles flown in one week = miles flown on Tuesday + miles flown on Thursday 
+   Total miles flown in one week = 1134 + 1475 
+   Total miles flown in one week = 2609 
+
+2. Find the total miles flown in three weeks: 
+   Total miles flown in three weeks = miles flown in one week x 3 
+   Total miles flown in three weeks = 2609 x 3 
+   Total miles flown in three weeks = 7827 
+
+Therefore, the pilot will fly 7827 miles in all.</s>
+prediction: 7827.0
+label: 7827.0
+---------------
+test:392/508 | accuracy 333  0.8494897959183674
+ 
+---------------
+1. Add the cost of the shorts and the jacket: $14.28 + $4.74 = $19.02
+2. Therefore, Jason spent $19.02 on clothing. 
+
+Answer: $19.02</s>
+prediction: 19.02
+label: 19.02
+---------------
+test:393/508 | accuracy 334  0.8498727735368957
+ 
+---------------
+1. Add the amount of rain on Saturday and Sunday: 
+
+0.2 + 0.4 = 0.6 
+
+2. The total amount of rain that fell on Saturday and Sunday combined is 0.6 inches. 
+
+Answer: 0.6</s>
+prediction: 0.6
+label: 0.6
+---------------
+test:394/508 | accuracy 335  0.850253807106599
+ 
+---------------
+1. Let x be the value of the vehicle last year.
+2. According to the problem, the value of the vehicle this year is 0.8x.
+3. We also know that the value of the vehicle this year is 16,000 dollars.
+4. So we can set up the equation: 0.8x = 16,000
+5. To solve for x, we can divide both sides by 0.8: x = 20,000
+6. Therefore, the value of the vehicle last year was 20,000 dollars.</s>
+prediction: 20000.0
+label: 20000.0
+---------------
+test:395/508 | accuracy 336  0.850632911392405
+ 
+---------------
+1. Add the weights of the orange, purple, and white rings:
+0.08333333333333333 + 0.3333333333333333 + 0.4166666666666667 = 0.8333333333333333
+
+2. The total weight of the plastic rings is 0.8333333333333333.</s>
+prediction: 0.8333333333333333
+label: 0.8333333333333334
+---------------
+test:396/508 | accuracy 337  0.851010101010101
+ 
+---------------
+1. Start with the total number of soccer games: 6
+2. Subtract the number of games Jessica missed: 6 - 4 = 2
+3. Jessica went to 2 soccer games this year.
+
+Answer: Jessica went to 2 soccer games in all.</s>
+prediction: 2.0
+label: 2.0
+---------------
+test:397/508 | accuracy 338  0.8513853904282116
+ 
+---------------
+1. Identify the given information:
+- Each section can accommodate 246 people.
+- There are 4 sections.
+
+2. Use multiplication to find the total number of people the tent can accommodate:
+246 x 4 = 984
+
+3. Write the answer in Arabic numerals:
+The tent can accommodate a total of 984 people.</s>
+prediction: 984.0
+label: 984.0
+---------------
+test:398/508 | accuracy 339  0.8517587939698492
+ 
+---------------
+1. Let x be the amount of cat food needed to feed the second cat.
+2. According to the problem, when Jake had one cat, he needed to serve 0.5 of a can each day. So, when he had one cat, he needed to serve a total of 0.5 + 0.5 = 0.9 of a can each day.
+3. Now that Jake has adopted a second cat, he needs to serve a total of 0.9 of a can each day. So, the amount of cat food needed to feed the second cat is x.
+4. We can set up the equation: 0.5 + x = 0.9
+5. Solving for x, we get: x = 0.4
+6. Therefore, Jake needs to serve an extra 0.4 of a can each day to feed the second cat.
+
+Answer: 0.4</s>
+prediction: 0.4
+label: 0.4
+---------------
+test:399/508 | accuracy 340  0.8521303258145363
+ 
+---------------
+1 dozen = 12
+
+So, Tim has 13 x 12 = 156 golf balls.
+
+Therefore, Tim has 156 golf balls.</s>
+prediction: 156.0
+label: 156.0
+---------------
+test:400/508 | accuracy 341  0.8525
+ 
+---------------
+1. Start with the number of cookies Paco had: 93
+2. Subtract the number of cookies Paco ate: 93 - 15 = 78
+3. Paco had 78 cookies left.
+
+Answer: Paco had 78 cookies left.</s>
+prediction: 78.0
+label: 78.0
+---------------
+test:401/508 | accuracy 342  0.8528678304239401
+ 
+---------------
+1. Find the total number of students: 1110
+2. Divide the total number of students by the number of students per classroom: 1110 ÷ 30 = 36
+3. Round up to the nearest whole number since you can't have a partial classroom: 37
+4. The school needs 37 classrooms.
+
+Answer: 37</s>
+prediction: 37.0
+label: 37.0
+---------------
+test:402/508 | accuracy 343  0.8532338308457711
+ 
+---------------
+1. Divide the total number of wood carvings by the number of carvings that can fit in one shelf: 
+
+56 ÷ 8 = 7 
+
+2. The answer is 7, which means that 7 shelves were filled with wood carvings. 
+
+Therefore, the answer is: 7.</s>
+prediction: 7.0
+label: 7.0
+---------------
+test:403/508 | accuracy 344  0.8535980148883374
+ 
+---------------
+1. Sara spent $10.62 each on 2 tickets to a movie theater.
+2. Sara also rented a movie for $1.59.
+3. Sara bought a movie for $13.95.
+4. To find the total amount of money Sara spent on movies, we need to add up the cost of the tickets, the rental, and the purchase.
+5. $10.62 + $1.59 + $13.95 = $35.16
+6. Therefore, Sara spent $35.16 on movies in total.
+
+Answer: $35.16</s>
+prediction: 35.16
+label: 36.78
+---------------
+test:404/508 | accuracy 344  0.8514851485148515
+ 
+---------------
+1. Start with the number of kittens Joan had: 8
+2. Subtract the number of kittens she gave to her friends: 8 - 2 = 6
+3. Joan now has 6 kittens.
+
+Answer: Joan now has 6 kittens.</s>
+prediction: 6.0
+label: 6.0
+---------------
+test:405/508 | accuracy 345  0.8518518518518519
+ 
+---------------
+1 dozen = 12
+So, 9 dozen = 9 x 12 = 108
+Therefore, Sara has 108 golf balls.
+Answer: 108.</s>
+prediction: 108.0
+label: 108.0
+---------------
+test:406/508 | accuracy 346  0.8522167487684729
+ 
+---------------
+1. Divide the total number of magazines by the number of magazines that can fit in each box: 
+
+63 magazines ÷ 9 magazines per box = 7 boxes 
+
+2. The answer is 7 boxes.</s>
+prediction: 7.0
+label: 7.0
+---------------
+test:407/508 | accuracy 347  0.8525798525798526
+ 
+---------------
+1. Add the cost of the cat toy and the cage: $8.77 + $10.97 = $19.74
+2. Subtract the total cost from the $20 bill: $20.00 - $19.74 = $0.26
+3. Joan received $0.26 in change.
+
+Answer: $0.26</s>
+prediction: 0.26
+label: 0.26
+---------------
+test:408/508 | accuracy 348  0.8529411764705882
+ 
+---------------
+1. Multiply the weight of one bag by the number of bags: 23 pounds/bag x 45 bags = 1035 pounds
+2. The total weight of oranges in 45 bags is 1035 pounds.
+
+Answer: 1035</s>
+prediction: 1035.0
+label: 1035.0
+---------------
+test:409/508 | accuracy 349  0.8533007334963325
+ 
+---------------
+1. Divide the total cost by the number of DVDs rented: 
+
+$4.80 ÷ 4 = $1.20 
+
+2. Therefore, each DVD cost $1.20 to rent. 
+
+Answer: Each DVD cost $1.20 to rent.</s>
+prediction: 1.2
+label: 1.2
+---------------
+test:410/508 | accuracy 350  0.8536585365853658
+ 
+---------------
+1 dozen = 12
+So, 96 muffins ÷ 12 = 8
+Therefore, Mike needs 8 boxes to pack all his muffins. 
+
+Answer: 8</s>
+prediction: 8.0
+label: 8.0
+---------------
+test:411/508 | accuracy 351  0.8540145985401459
+ 
+---------------
+1. Start with the number of DVDs already in the book: 81
+2. Subtract the number of DVDs already in the book from the total capacity of the book: 126 - 81 = 45
+3. Therefore, 45 more DVDs can be put in the book.
+
+Answer: 45</s>
+prediction: 45.0
+label: 45.0
+---------------
+test:412/508 | accuracy 352  0.8543689320388349
+ 
+---------------
+1. Identify the given information:
+- Sally earns $25.00 for each house she cleans.
+- She cleans 96 houses.
+
+2. Convert the number of houses to dozens:
+96 houses ÷ 12 houses/dozen = 8 dozens
+
+3. Calculate Sally's total earnings:
+8 dozens x $25.00/dozen = $200.00
+
+Therefore, Sally will make $200.00.</s>
+prediction: 200.0
+label: 200.0
+---------------
+test:413/508 | accuracy 353  0.8547215496368039
+ 
+---------------
+1. Sara caught 5 trout.
+2. Melanie caught 2 times as many trout as Sara, which means Melanie caught 2 x 5 = 10 trout.
+3. Therefore, Melanie caught 10 trout. 
+
+Answer: Melanie caught 10 trout.</s>
+prediction: 10.0
+label: 10.0
+---------------
+test:414/508 | accuracy 354  0.855072463768116
+ 
+---------------
+1 dozen = 12
+So, 6 dozen = 6 x 12 = 72
+Therefore, Joan bought 72 eggs from the grocery store. 
+
+Answer: 72</s>
+prediction: 72.0
+label: 72.0
+---------------
+test:415/508 | accuracy 355  0.8554216867469879
+ 
+---------------
+1. Start with the initial amount of gas: 0.5
+2. Subtract the amount of gas left: 0.5 - 0.16666666666666666 = 0.3333333333333333
+3. Therefore, Michelle used 0.3333333333333333 of a tank of gas.
+
+Answer: 0.3333333333333333</s>
+prediction: 0.3333333333333333
+label: 0.3333333333333333
+---------------
+test:416/508 | accuracy 356  0.8557692307692307
+ 
+---------------
+1. Start with the number of cards Jason had: 676
+2. Subtract the number of cards Alyssa bought: 224
+3. The result is the number of cards Jason has now: 452
+
+Therefore, Jason now has 452 Pokemon cards.</s>
+prediction: 452.0
+label: 452.0
+---------------
+test:417/508 | accuracy 357  0.8561151079136691
+ 
+---------------
+1. Start with the number of violet balloons Tom has: 30.
+2. Subtract the number of balloons he gave to Fred: 16.
+3. The result is the number of balloons Tom now has: 14.
+
+Therefore, Tom now has 14 violet balloons.</s>
+prediction: 14.0
+label: 14.0
+---------------
+test:418/508 | accuracy 358  0.8564593301435407
+ 
+---------------
+1. Add the weight of green peppers and red peppers: 0.3333333333333333 + 0.3333333333333333 = 0.6666666666666666
+2. Therefore, Hannah's Vegetarian Restaurant bought 0.6666666666666666 pounds of peppers in all. 
+
+Answer: 0.6666666666666666</s>
+prediction: 0.6666666666666666
+label: 0.6666666666666666
+---------------
+test:419/508 | accuracy 359  0.8568019093078759
+ 
+---------------
+1. Divide the total number of pieces of wood by the number of pieces of wood per sack: 
+
+80 pieces of wood ÷ 20 pieces of wood per sack = 4 sacks 
+
+2. The answer is 4 sacks.</s>
+prediction: 4.0
+label: 4.0
+---------------
+test:420/508 | accuracy 360  0.8571428571428571
+ 
+---------------
+1. Add the number of grown-ups and children: 5256 + 2987 = 8243
+2. Therefore, there are 8243 people living in Milburg.
+
+Answer: 8243</s>
+prediction: 8243.0
+label: 8243.0
+---------------
+test:421/508 | accuracy 361  0.8574821852731591
+ 
+---------------
+1. Start with the original length of the wood: 0.41 meters
+2. Saw off 0.33 meters from the end: 0.41 - 0.33 = 0.08 meters
+3. The piece of wood is now 0.08 meters long.
+
+Answer: 0.08 meters</s>
+prediction: 0.08
+label: 0.08
+---------------
+test:422/508 | accuracy 362  0.8578199052132701
+ 
+---------------
+1. Add up the cost of the jump rope, board game, and playground ball: 
+$7 + $12 + $4 = $23
+
+2. Add up the amount of money Dalton has: 
+$6 + $13 = $19
+
+3. Subtract the amount of money Dalton has from the cost of the jump rope, board game, and playground ball: 
+$23 - $19 = $4
+
+Therefore, Dalton needs $4 more to buy the jump rope, board game, and playground ball. The answer in Arabic numerals is 4.</s>
+prediction: 4.0
+label: 4.0
+---------------
+test:423/508 | accuracy 363  0.8581560283687943
+ 
+---------------
+1. Add the number of pears picked by Sara and Sally: 45 + 11 = 56
+2. The total number of pears picked is 56.
+
+Therefore, the answer is: 56.</s>
+prediction: 56.0
+label: 56.0
+---------------
+test:424/508 | accuracy 364  0.8584905660377359
+ 
+---------------
+1. Determine the value of each coin:
+- Quarters: 1 quarter = $0.25
+- Half-dollars: 1 half-dollar = $1.00
+- Dimes: 1 dime = $0.10
+
+2. Multiply the number of each coin by its value:
+- Quarters: 14 x $0.25 = $3.50
+- Half-dollars: 14 x $1.00 = $14.00
+- Dimes: 14 x $0.10 = $1.40
+
+3. Add the values of each coin together:
+$3.50 + $14.00 + $1.40 = $19.90
+
+Therefore, the toothfairy left Joan $19.90.</s>
+prediction: 19.9
+label: 11.9
+---------------
+test:425/508 | accuracy 364  0.8564705882352941
+ 
+---------------
+1. Convert the length of the white line to feet: 
+
+7.666666666666667 inches ÷ 12 = 0.6666666666666667 feet 
+
+2. Convert the length of the blue line to feet: 
+
+3.3333333333333335 inches ÷ 12 = 0.33333333333333335 feet 
+
+3. Find the difference between the lengths: 
+
+0.6666666666666667 - 0.33333333333333335 = 0.33333333333333335 
+
+Therefore, the white line is 0.33333333333333335 feet longer than the blue line. 
+
+Answer: 0.3333333333333
+prediction: 0.3333333333333
+label: 4.333333333333333
+---------------
+test:426/508 | accuracy 364  0.8544600938967136
+ 
+---------------
+1. Add the number of balloons James has to the number of balloons Amy has: 
+
+1222 + 513 = 1735 
+
+2. Subtract the number of balloons Amy has from the number of balloons James has: 
+
+1222 - 513 = 709 
+
+Therefore, James has 709 more balloons than Amy. 
+
+Answer: 709</s>
+prediction: 709.0
+label: 208.0
+---------------
+test:427/508 | accuracy 364  0.8524590163934426
+ 
+---------------
+1. Identify the given information:
+- Brenda's mother made cookies for 5.
+- She prepared 35 cookies.
+
+2. Determine the operation needed:
+To find out how many cookies each person gets, we need to divide the total number of cookies by the number of people.
+
+3. Perform the operation:
+To find out how many cookies each person gets, we divide 35 by 5:
+35 ÷ 5 = 7
+
+Therefore, each person gets 7 cookies. The answer in Arabic numerals is 7.</s>
+prediction: 7.0
+label: 7.0
+---------------
+test:428/508 | accuracy 365  0.852803738317757
+ 
+---------------
+1. Start with the number of peanuts Jose has: 85
+2. Add the number of peanuts Kenya has: 85 + 48 = 133
+3. Therefore, Kenya has 133 peanuts.
+
+Answer: Kenya has 133 peanuts.</s>
+prediction: 133.0
+label: 133.0
+---------------
+test:429/508 | accuracy 366  0.8531468531468531
+ 
+---------------
+1. Determine the total number of white t-shirts by multiplying the number of packages by the number of t-shirts in each package: 
+
+71 packages x 6 t-shirts per package = 426 t-shirts 
+
+2. Therefore, Mom will have 426 white t-shirts. 
+
+Answer: 426</s>
+prediction: 426.0
+label: 426.0
+---------------
+test:430/508 | accuracy 367  0.8534883720930233
+ 
+---------------
+1. Start with the number of walnut trees currently in the park: 4
+2. Add the number of walnut trees the workers will plant today: 6
+3. Perform the addition: 4 + 6 = 10
+4. The park will have 10 walnut trees when the workers are finished.
+
+Answer: 10</s>
+prediction: 10.0
+label: 10.0
+---------------
+test:431/508 | accuracy 368  0.8538283062645011
+ 
+---------------
+1. Start with the number of yellow marbles Mary has: 9
+2. Add the number of yellow marbles Joan has: 3
+3. Calculate the total number of yellow marbles: 9 + 3 = 12
+
+Therefore, Mary and Joan have a total of 12 yellow marbles. The answer in Arabic numerals is 12.</s>
+prediction: 12.0
+label: 12.0
+---------------
+test:432/508 | accuracy 369  0.8541666666666666
+ 
+---------------
+1 quarter = 25 cents
+So, Joan has 6 x 25 = 150 cents.
+Therefore, Joan has 150 cents.</s>
+prediction: 150.0
+label: 150.0
+---------------
+test:433/508 | accuracy 370  0.8545034642032333
+ 
+---------------
+1. Tyler had 15 dogs.
+2. Each dog had 5 puppies.
+3. To find the total number of puppies, we need to multiply the number of dogs by the number of puppies each dog had.
+4. 15 dogs x 5 puppies per dog = 75 puppies
+5. Therefore, Tyler now has 75 puppies.
+
+Answer: 75</s>
+prediction: 75.0
+label: 75.0
+---------------
+test:434/508 | accuracy 371  0.8548387096774194
+ 
+---------------
+1. Start with the number of pencils in the drawer: 2
+2. Add the number of pencils Tim placed: 3
+3. Total number of pencils = 2 + 3 = 5
+
+Therefore, there are now 5 pencils in total.</s>
+prediction: 5.0
+label: 5.0
+---------------
+test:435/508 | accuracy 372  0.8551724137931035
+ 
+---------------
+1. Add the number of pumpkins grown by Sandy and Mike: 51 + 23 = 74
+
+Therefore, they grew a total of 74 pumpkins.</s>
+prediction: 74.0
+label: 74.0
+---------------
+test:436/508 | accuracy 373  0.8555045871559633
+ 
+---------------
+1. Start with the number of crayons in the drawer: 9
+2. Add the number of crayons Benny placed: 3
+3. Total number of crayons = 9 + 3 = 12
+
+Therefore, there are now 12 crayons in total.</s>
+prediction: 12.0
+label: 12.0
+---------------
+test:437/508 | accuracy 374  0.8558352402745996
+ 
+---------------
+1. Find the total distance Darnel covered by adding the distance he sprinted and jogged: 
+
+0.875 + 0.75 = 1.625 
+
+2. Subtract the distance he jogged from the distance he sprinted to find the difference: 
+
+0.875 - 0.75 = 0.125 
+
+Therefore, Darnel sprinted 0.125 of a lap farther than he jogged. 
+
+Answer: 0.125</s>
+prediction: 0.125
+label: 0.125
+---------------
+test:438/508 | accuracy 375  0.8561643835616438
+ 
+---------------
+1. Add the number of pizzas served during lunch and dinner: 9 + 6 = 15
+2. The answer is 15.
+
+Therefore, 15 pizzas were served today.</s>
+prediction: 15.0
+label: 15.0
+---------------
+test:439/508 | accuracy 376  0.856492027334852
+ 
+---------------
+1. Start with the number of violet marbles Dan has: 64.
+2. Subtract the number of marbles he gave to Mary: 14.
+3. The result is the number of marbles Dan now has: 50.
+
+Therefore, Dan now has 50 violet marbles.</s>
+prediction: 50.0
+label: 50.0
+---------------
+test:440/508 | accuracy 377  0.8568181818181818
+ 
+---------------
+1. Add the number of chocolate and vanilla cupcakes Priya already has: 15 + 25 = 40
+2. Subtract the number of cupcakes Priya already has from the total number she needs: 54 - 40 = 14
+3. Therefore, Priya should buy 14 more cupcakes. 
+
+Answer: Priya should buy 14 more cupcakes.</s>
+prediction: 14.0
+label: 14.0
+---------------
+test:441/508 | accuracy 378  0.8571428571428571
+ 
+---------------
+1. Calculate the total cost of the ice cream: 20 cartons x $6/carton = $120
+2. Calculate the total cost of the yogurt: 2 cartons x $1/carton = $2
+3. Subtract the cost of the yogurt from the cost of the ice cream to find the difference: $120 - $2 = $118
+
+Therefore, Seth spent $118 more on ice cream than on yogurt. The answer in Arabic numerals is 118.</s>
+prediction: 118.0
+label: 118.0
+---------------
+test:442/508 | accuracy 379  0.8574660633484162
+ 
+---------------
+1. Determine the number of 5-minute intervals in 15 minutes: 
+
+15 minutes = 15 x 60 seconds = 900 seconds 
+
+900 seconds ÷ 5 minutes = 180 intervals 
+
+2. Multiply the number of intervals by the number of students per interval: 
+
+180 intervals x 7 students per interval = 1260 students 
+
+Therefore, 1260 students rode the rollercoaster in 15 minutes. The answer in Arabic numerals is 1260.</s>
+prediction: 1260.0
+label: 21.0
+---------------
+test:443/508 | accuracy 379  0.8555304740406321
+ 
+---------------
+1. Add the snowfall from Wednesday, Thursday, and Friday: 
+
+0.3333333333333333 + 0.3333333333333333 + 0.2222222222222222 = 0.8888888888888888 
+
+2. Convert the total snowfall to centimeters: 
+
+0.8888888888888888 = 8.888888888888889 
+
+Therefore, Logan recorded a total of 8.888888888888889 centimeters of snow.</s>
+prediction: 8.88888888888889
+label: 0.8888888888888888
+---------------
+test:444/508 | accuracy 379  0.8536036036036037
+ 
+---------------
+1. Start with the total number of seashells Dan found: 7
+2. Subtract the number of broken seashells: 7 - 3 = 4
+3. Therefore, Dan found 4 unbroken seashells.
+
+Answer: Dan found 4 unbroken seashells.</s>
+prediction: 4.0
+label: 4.0
+---------------
+test:445/508 | accuracy 380  0.8539325842696629
+ 
+---------------
+1. Add the number of bags of dog food and cat food: 600 + 327 = 927
+2. Subtract the number of bags of cat food from the number of bags of dog food: 600 - 327 = 273
+3. Therefore, there are 273 more bags of dog food than cat food.
+
+Answer: 273</s>
+prediction: 273.0
+label: 273.0
+---------------
+test:446/508 | accuracy 381  0.8542600896860987
+ 
+---------------
+1. Divide the total cost by the number of ounces: 
+
+84 cents ÷ 12 ounces = 7 cents/ounce 
+
+2. Therefore, the cost in cents per ounce is 7.</s>
+prediction: 7.0
+label: 7.0
+---------------
+test:447/508 | accuracy 382  0.854586129753915
+ 
+---------------
+1. Multiply the number of calories in one candy bar by the number of candy bars: 8 calories/candy bar x 3 candy bars = 24 calories
+
+Therefore, there are 24 calories in 3 candy bars. The answer in Arabic numerals is 24.</s>
+prediction: 24.0
+label: 24.0
+---------------
+test:448/508 | accuracy 383  0.8549107142857143
+ 
+---------------
+1. Add the number of apples Benny picked to the number of apples Dan picked: 2 + 9 = 11
+2. The total number of apples picked is 11.
+
+Answer: 11</s>
+prediction: 11.0
+label: 11.0
+---------------
+test:449/508 | accuracy 384  0.8552338530066815
+ 
+---------------
+1. Identify the given information: 
+- There are 37 baskets. 
+- There are 17 apples in each basket. 
+
+2. Use multiplication to find the total number of apples: 
+- Multiply the number of baskets by the number of apples in each basket: 
+37 x 17 = 629 
+
+3. Write the answer in Arabic numerals: 
+The total number of apples is 629.</s>
+prediction: 629.0
+label: 629.0
+---------------
+test:450/508 | accuracy 385  0.8555555555555555
+ 
+---------------
+1. Add the number of lemons picked by Sally and Mary: 7 + 9 = 16
+2. The total number of lemons picked is 16.
+
+Therefore, the answer is: 16.</s>
+prediction: 16.0
+label: 16.0
+---------------
+test:451/508 | accuracy 386  0.8558758314855875
+ 
+---------------
+1. Identify the given information:
+- Each box has 4 dogs in it.
+- David has 7 boxes of stuffed toy dogs.
+
+2. Use multiplication to find the total number of dogs:
+- Multiply the number of dogs per box by the number of boxes: 4 x 7 = 28
+
+3. Write the answer in Arabic numerals:
+There are 28 dogs in all.</s>
+prediction: 28.0
+label: 28.0
+---------------
+test:452/508 | accuracy 387  0.8561946902654868
+ 
+---------------
+1. Start with the initial number of walnut trees: 22
+2. Add the number of walnut trees planted by the workers: 55
+3. Subtract the initial number of walnut trees from the final number of walnut trees: 55 - 22 = 33
+4. The workers planted 33 walnut trees today.
+
+Answer: 33</s>
+prediction: 33.0
+label: 33.0
+---------------
+test:453/508 | accuracy 388  0.8565121412803532
+ 
+---------------
+1. Find the total number of red bouncy balls by multiplying the number of packs by the number of bouncy balls in each pack: 4 packs x 10 bouncy balls per pack = 40 red bouncy balls.
+2. Find the total number of yellow bouncy balls by multiplying the number of packs by the number of bouncy balls in each pack: 8 packs x 10 bouncy balls per pack = 80 yellow bouncy balls.
+3. Find the total number of green bouncy balls by multiplying the number of packs by the number of bouncy balls in each pack: 4 packs x 10 bouncy balls per pack = 40 green bouncy balls.
+4. Add the number of red, yellow, and green bouncy balls together to find the total number of bouncy balls: 40 + 80 + 40 = 160 bouncy balls.
+
+Therefore, Maggie bought a total of 160 bouncy balls.</s>
+prediction: 160.0
+label: 160.0
+---------------
+test:454/508 | accuracy 389  0.8568281938325991
+ 
+---------------
+1. Start with the total number of books: 344
+2. Subtract the number of books about school: 344 - 136 = 208
+3. Therefore, Iesha has 208 books about sports.
+
+Answer: 208</s>
+prediction: 208.0
+label: 208.0
+---------------
+test:455/508 | accuracy 390  0.8571428571428571
+ 
+---------------
+1. Find the total number of half-dollars Sandy received: 
+17 half-dollars + 6 half-dollars = 23 half-dollars
+
+2. Convert the number of half-dollars to dollars: 
+23 half-dollars x $0.50/half-dollar = $11.50
+
+Therefore, Sandy received $11.50.</s>
+prediction: 11.5
+label: 11.5
+---------------
+test:456/508 | accuracy 391  0.8574561403508771
+ 
+---------------
+1. Add the weight of the yellow and green blocks: 0.6 + 0.4 = 0.9 pounds
+2. Subtract the weight of the green block from the weight of the yellow block: 0.6 - 0.4 = 0.2 pounds
+3. Therefore, the yellow block weighed 0.2 pounds more than the green block. 
+
+Answer: 0.2 pounds</s>
+prediction: 0.2
+label: 0.2
+---------------
+test:457/508 | accuracy 392  0.8577680525164114
+ 
+---------------
+1. Fred has 709 green balloons.
+2. He gave Sandy 221 of the balloons.
+3. To find out how many green balloons Fred now has, we need to subtract the number of balloons he gave Sandy from the total number he had before.
+4. 709 - 221 = 488
+5. Therefore, Fred now has 488 green balloons.
+
+Answer: Fred now has 488 green balloons.</s>
+prediction: 488.0
+label: 488.0
+---------------
+test:458/508 | accuracy 393  0.8580786026200873
+ 
+---------------
+1. Jane's dad brought home 24 marble potatoes.
+2. Jane's mom made potato salad for lunch and served an equal amount of potatoes to Jane, herself, and her husband.
+3. To find out how many potatoes each person had, we need to divide the total number of potatoes by the number of people who will be eating them.
+4. In this case, there are 3 people: Jane, her mom, and her dad.
+5. So, we can divide 24 by 3: 
+
+24 ÷ 3 = 8
+
+6. Therefore, each person had 8 potatoes. 
+
+Answer: Each person had 8 potatoes.</s>
+prediction: 8.0
+label: 8.0
+---------------
+test:459/508 | accuracy 394  0.8583877995642701
+ 
+---------------
+1. Divide the number of gallons by the number of miles per gallon: 5 ÷ 20 = 0.25
+2. Multiply the result by 100 to get the number of miles: 0.25 x 100 = 25
+3. Therefore, you can drive 25 miles on 5 gallons of gas. The answer in Arabic numerals is 25.</s>
+prediction: 25.0
+label: 100.0
+---------------
+test:460/508 | accuracy 394  0.8565217391304348
+ 
+---------------
+1. Start with the number of dogwood trees currently in the park: 7
+2. Add the number of dogwood trees that will be planted today: 3
+3. Add the number of dogwood trees that will be planted tomorrow: 2
+4. Perform the addition: 7 + 3 + 2 = 12
+5. The park will have 12 dogwood trees when the workers are finished.
+
+Answer: 12</s>
+prediction: 12.0
+label: 12.0
+---------------
+test:461/508 | accuracy 395  0.8568329718004338
+ 
+---------------
+1. Start with the number of limes Dan picked: 9
+2. Subtract the number of limes he gave to Sara: 4
+3. The result is the number of limes Dan has now: 5
+
+Therefore, Dan now has 5 limes.</s>
+prediction: 5.0
+label: 5.0
+---------------
+test:462/508 | accuracy 396  0.8571428571428571
+ 
+---------------
+1. Fred had 7 dimes.
+2. His sister borrowed 3 of his dimes.
+3. To find out how many dimes Fred has now, we need to subtract the number of dimes his sister borrowed from the total number of dimes he had before.
+4. 7 - 3 = 4
+5. Therefore, Fred now has 4 dimes.
+
+Answer: Fred now has 4 dimes.</s>
+prediction: 4.0
+label: 4.0
+---------------
+test:463/508 | accuracy 397  0.857451403887689
+ 
+---------------
+1. Start with the number of potatoes Mary had: 8
+2. Subtract the number of potatoes the rabbits ate: 8 - 3 = 5
+3. Mary now has 5 potatoes.
+
+Answer: Mary now has 5 potatoes.</s>
+prediction: 5.0
+label: 5.0
+---------------
+test:464/508 | accuracy 398  0.8577586206896551
+ 
+---------------
+1. Add the number of blue balloons Alyssa and Sandy have: 37 + 28 = 65
+2. Add the number of blue balloons Alyssa and Sally have: 65 + 39 = 104
+3. The total number of blue balloons they have is 104.
+
+Answer: 104</s>
+prediction: 104.0
+label: 104.0
+---------------
+test:465/508 | accuracy 399  0.8580645161290322
+ 
+---------------
+1. Find the total distance Spencer walked from his house to the library: 0.3 + 0.1 = 0.4 miles
+2. Find the total distance Spencer walked from the library to the post office: 0.4 + 0.1 = 0.5 miles
+3. Find the total distance Spencer walked from the post office back home: 0.5 + 0.4 = 0.9 miles
+4. Find the total distance Spencer walked in all: 0.4 + 0.5 + 0.9 = 1.8 miles
+
+Therefore, Spencer walked a total of 1.8 miles in all.</s>
+prediction: 1.8
+label: 0.8
+---------------
+test:466/508 | accuracy 399  0.8562231759656652
+ 
+---------------
+1. Find the total number of seashells Tom found during the beach trip by multiplying the number of seashells he found each day by the number of days he was at the beach: 
+
+7 seashells/day x 5 days = 35 seashells 
+
+2. Write the answer in Arabic numerals: 
+
+Tom found 35 seashells during the beach trip.</s>
+prediction: 35.0
+label: 35.0
+---------------
+test:467/508 | accuracy 400  0.8565310492505354
+ 
+---------------
+1. Start with the number of muffins Arthur already baked: 35
+2. Subtract the number of muffins Arthur already baked from the desired total: 83 - 35 = 48
+3. Arthur needs to bake 48 more muffins to have a total of 83 muffins.
+
+Answer: Arthur needs to bake 48 more muffins.</s>
+prediction: 48.0
+label: 48.0
+---------------
+test:468/508 | accuracy 401  0.8568376068376068
+ 
+---------------
+1. Determine the total number of eggs collected by multiplying the number of baskets by the number of eggs per basket: 
+303 baskets x 28 eggs per basket = 8,484 eggs
+
+2. Write the answer in Arabic numerals: 
+Emily collected 8,484 eggs.</s>
+prediction: 8484.0
+label: 8484.0
+---------------
+test:469/508 | accuracy 402  0.8571428571428571
+ 
+---------------
+1. Add the number of cakes served during lunch and dinner: 5 + 6 = 11
+2. Add the number of cakes served yesterday: 11 + 3 = 14
+3. The total number of cakes served is 14.
+
+Answer: 14</s>
+prediction: 14.0
+label: 14.0
+---------------
+test:470/508 | accuracy 403  0.8574468085106383
+ 
+---------------
+1 dozen = 12
+So, Sandy has 8 x 12 = <<8*12=96>>96 books.
+Fred has 5 x 96 = <<5*96=480>>480 books.
+Therefore, Fred has 480 books. Answer: \boxed{480}.</s>
+prediction: 480.0
+label: 480.0
+---------------
+test:471/508 | accuracy 404  0.8577494692144374
+ 
+---------------
+1. Add the yards of green silk and pink silk: 61,921 + 49,500 = 111,421
+2. The factory dyed 111,421 yards of silk for that order.
+
+Answer: 111,421</s>
+prediction: 111421.0
+label: 111421.0
+---------------
+test:472/508 | accuracy 405  0.8580508474576272
+ 
+---------------
+1. Add the number of books Sandy has to the number of books Benny has: 
+
+10 + 24 = 34 
+
+2. Add the result to the number of books Tim has: 
+
+34 + 33 = 67 
+
+Therefore, they have a total of 67 books together.</s>
+prediction: 67.0
+label: 67.0
+---------------
+test:473/508 | accuracy 406  0.8583509513742071
+ 
+---------------
+1. Add the number of cantaloupes grown by Fred and Tim: 38 + 44 = 82
+2. The total number of cantaloupes grown by Fred and Tim is 82.
+
+Therefore, the answer is: 82.</s>
+prediction: 82.0
+label: 82.0
+---------------
+test:474/508 | accuracy 407  0.8586497890295358
+ 
+---------------
+1. Start with the amount of honey harvested last year: 2,479 pounds.
+2. Add the increase in honey harvest this year: 6,085 pounds.
+3. Perform the addition: 2,479 + 6,085 = 8,564 pounds.
+4. Therefore, Diane harvested 8,564 pounds of honey this year.
+
+Answer: 8,564</s>
+prediction: 8564.0
+label: 8564.0
+---------------
+test:475/508 | accuracy 408  0.8589473684210527
+ 
+---------------
+1. Identify the number of pencils each person has: 8
+2. Add the number of pencils each person has: 8 + 8 + 8 = 24
+3. The total number of pencils they have in all is 24.
+
+Answer: 24</s>
+prediction: 24.0
+label: 24.0
+---------------
+test:476/508 | accuracy 409  0.8592436974789915
+ 
+---------------
+1. Determine the value of one nickel: 1 nickel = $0.05
+2. Divide the cost of the notebook by the value of one nickel: $1.30 ÷ $0.05 = 26
+3. The answer is 26, which means that Mrs. Hilt used 26 nickels to buy the notebook.
+
+Therefore, Mrs. Hilt used 26 nickels to buy the notebook.</s>
+prediction: 26.0
+label: 26.0
+---------------
+test:477/508 | accuracy 410  0.859538784067086
+ 
+---------------
+1. Start with the initial number of bales in the barn: 28.
+2. Add the number of bales Tim stacked in the barn today: 54.
+3. Perform the addition: 28 + 54 = 82.
+4. Therefore, Tim stored 82 bales in the barn today. 
+
+Answer: 82</s>
+prediction: 82.0
+label: 26.0
+---------------
+test:478/508 | accuracy 410  0.8577405857740585
+ 
+---------------
+1. Add the amount of wheat flour and white flour used: 0.2 + 0.1 = 0.3
+2. The bakery used 0.3 bags of flour in all.
+
+Answer: 0.3</s>
+prediction: 0.3
+label: 0.3
+---------------
+test:479/508 | accuracy 411  0.8580375782881002
+ 
+---------------
+1. Find the total cost of the shirts by multiplying the cost of one shirt by the number of shirts Paula bought: 2 x $11 = $22.
+2. Add the cost of the pants to the total cost of the shirts: $22 + $13 = $35.
+3. Subtract the total cost of the clothes Paula bought from the amount she was given: $109 - $35 = $74.
+Therefore, Paula has $74 left to buy more clothes.</s>
+prediction: 74.0
+label: 74.0
+---------------
+test:480/508 | accuracy 412  0.8583333333333333
+ 
+---------------
+1. Start with the number of dimes Melanie had: 19
+2. Add the number of dimes her dad gave her: 19 + 39 = 58
+3. Add the number of dimes her mother gave her: 58 + 25 = 83
+4. Melanie now has 83 dimes.
+
+Answer: Melanie has 83 dimes now.</s>
+prediction: 83.0
+label: 83.0
+---------------
+test:481/508 | accuracy 413  0.8586278586278586
+ 
+---------------
+1. Find the total number of people who ate at the restaurant: 
+Sally + Sam + Alyssa = 3
+
+2. Divide the total bill by the number of people: 
+45 dollars ÷ 3 people = 15 dollars per person 
+
+3. Therefore, the total bill was: 
+45 dollars x 3 people = 135 dollars 
+
+Answer: The total bill was $135.</s>
+prediction: 135.0
+label: 135.0
+---------------
+test:482/508 | accuracy 414  0.8589211618257261
+ 
+---------------
+1. Let x be the number of Pokemon cards Jason had to start with.
+2. Jason gave away 9 cards, so he has x - 9 cards left.
+3. We also know that Jason has 4 cards left, so we can set up an equation:
+x - 9 = 4
+4. To solve for x, we can add 9 to both sides:
+x = 13
+
+Therefore, Jason had 13 Pokemon cards to start with.</s>
+prediction: 13.0
+label: 13.0
+---------------
+test:483/508 | accuracy 415  0.8592132505175983
+ 
+---------------
+1. Write down the number of carrots Sally grew: 6
+2. Write down the number of carrots Fred grew: 4
+3. Add the number of carrots Sally and Fred grew together: 6 + 4 = 10
+4. The total number of carrots they grew is 10.
+
+Answer: 10</s>
+prediction: 10.0
+label: 10.0
+---------------
+test:484/508 | accuracy 416  0.859504132231405
+ 
+---------------
+1. Start with the number of books Mike had in his library: 35.
+2. Add the number of books he bought at the yard sale: 56.
+3. Use addition to find the answer: 35 + 56 = 91.
+
+Therefore, Mike bought 91 books at the yard sale.</s>
+prediction: 91.0
+label: 21.0
+---------------
+test:485/508 | accuracy 416  0.8577319587628865
+ 
+---------------
+1. Start with the initial amount of oil leaked: 6,522 liters.
+2. Add the amount of oil leaked while the engineers worked: 5,165 liters.
+3. Perform the addition: 6,522 + 5,165 = 11,687 liters.
+
+Therefore, 11,687 liters of oil leaked into the water.</s>
+prediction: 11687.0
+label: 11687.0
+---------------
+test:486/508 | accuracy 417  0.8580246913580247
+ 
+---------------
+1. Add the amount of flour and sugar: 0.625 + 0.25 = 0.875
+2. Subtract the amount of sugar from the amount of flour: 0.625 - 0.25 = 0.375
+3. The difference between the amount of flour and sugar is 0.375.
+
+Therefore, Dina used 0.375 more cups of flour than sugar. The answer in Arabic numerals is 0.375.</s>
+prediction: 0.375
+label: 0.375
+---------------
+test:487/508 | accuracy 418  0.8583162217659137
+ 
+---------------
+1. Start with the number of seashells Joan found: 79
+2. Subtract the number of seashells she gave to Mike: 79 - 63 = 16
+3. Joan now has 16 seashells.
+
+Answer: Joan now has 16 seashells.</s>
+prediction: 16.0
+label: 16.0
+---------------
+test:488/508 | accuracy 419  0.8586065573770492
+ 
+---------------
+1. Identify the number of people who have baseball cards: 4
+2. Identify the number of baseball cards each person has: 6
+3. Multiply the number of people by the number of baseball cards each person has: 4 x 6 = 24
+4. The total number of baseball cards they have in all is 24.
+
+Answer: 24</s>
+prediction: 24.0
+label: 24.0
+---------------
+test:489/508 | accuracy 420  0.8588957055214724
+ 
+---------------
+1. Add the number of tarts filled with cherries, blueberries, and peaches: 0.08333333333333333 + 0.75 + 0.08333333333333333 = 0.8333333333333333
+2. The restaurant had 0.8333333333333333 leftover tarts in all.
+
+Answer: 0.8333333333333333</s>
+prediction: 0.8333333333333333
+label: 0.9166666666666666
+---------------
+test:490/508 | accuracy 420  0.8571428571428571
+ 
+---------------
+1. Add the distance Craig walked from school to David's house: 0.2 miles
+2. Add the distance Craig walked from David's house to his own house: 0.7 miles
+3. Add the two distances together: 0.2 + 0.7 = 0.9 miles
+
+Therefore, Craig walked a total of 0.9 miles.</s>
+prediction: 0.9
+label: 0.9
+---------------
+test:491/508 | accuracy 421  0.8574338085539714
+ 
+---------------
+1. Multiply the cost of each pack of Digimon cards by the number of packs Keith bought: 
+4 packs x $4.45/pack = $17.80
+
+2. Add the cost of the deck of baseball cards: 
+$17.80 + $6.06 = $23.86
+
+Therefore, Keith spent $23.86 on cards.</s>
+prediction: 23.86
+label: 23.86
+---------------
+test:492/508 | accuracy 422  0.8577235772357723
+ 
+---------------
+1. Multiply the cost of one chair by the number of chairs Ellen bought: 15 x 12 = 180
+2. Therefore, Ellen spent 180 dollars for the 12 chairs she bought. 
+
+Answer: 180</s>
+prediction: 180.0
+label: 180.0
+---------------
+test:493/508 | accuracy 423  0.8580121703853956
+ 
+---------------
+1. Calculate Dana's earnings for Friday: 9 hours x $13/hour = $127
+2. Calculate Dana's earnings for Saturday: 10 hours x $13/hour = $130
+3. Calculate Dana's earnings for Sunday: 3 hours x $13/hour = $39
+4. Calculate Dana's total earnings: $127 + $130 + $39 = $386
+
+Therefore, Dana earned $386 in all.</s>
+prediction: 386.0
+label: 286.0
+---------------
+test:494/508 | accuracy 423  0.8562753036437247
+ 
+---------------
+1. Start with the number of scissors in the drawer: 54
+2. Add the number of scissors Keith placed: 22
+3. Calculate the total number of scissors: 54 + 22 = 76
+
+Therefore, there are now 76 scissors in all.</s>
+prediction: 76.0
+label: 76.0
+---------------
+test:495/508 | accuracy 424  0.8565656565656565
+ 
+---------------
+1. Add the number of cakes served during lunch and dinner: 6 + 9 = 15
+2. The total number of cakes served today is 15.
+
+Therefore, the answer is: 15.</s>
+prediction: 15.0
+label: 15.0
+---------------
+test:496/508 | accuracy 425  0.8568548387096774
+ 
+---------------
+1. Find the total number of drums filled per day: 
+324 drums/day
+
+2. Multiply the number of drums filled per day by the number of days: 
+324 drums/day x 9 days = 2,916 drums
+
+Therefore, 2,916 drums of grapes would be filled in 9 days. The answer in Arabic numerals is 2,916.</s>
+prediction: 2916.0
+label: 2916.0
+---------------
+test:497/508 | accuracy 426  0.8571428571428571
+ 
+---------------
+1. Divide the total number of cupcakes by the number of children: 
+
+96 ÷ 8 = 12 
+
+2. Each child will get 12 cupcakes. 
+
+Therefore, each person will get 12 cupcakes if they share the cupcakes equally.</s>
+prediction: 12.0
+label: 12.0
+---------------
+test:498/508 | accuracy 427  0.857429718875502
+ 
+---------------
+1. Add the weight of peanuts and raisins: 0.1 + 0.4 = 0.5 pounds
+2. Therefore, Kelly bought 0.5 pounds of snacks in all.
+Answer: 0.5</s>
+prediction: 0.5
+label: 0.5
+---------------
+test:499/508 | accuracy 428  0.8577154308617234
+ 
+---------------
+1. Tom had 5 seashells.
+2. Tom gave Jessica 2 seashells.
+3. Tom now has 3 seashells.
+
+Therefore, Tom now has 3 seashells.</s>
+prediction: 3.0
+label: 3.0
+---------------
+test:500/508 | accuracy 429  0.858
+ 
+---------------
+1. Let x be the number of people who visited the zoo on Saturday.
+2. We know that 3 times as many people visited on Saturday as on Friday, so x = 3(1250).
+3. Simplifying the equation, we get x = 3750.
+4. Therefore, 3750 people visited the zoo on Saturday. 
+
+Answer: 3750</s>
+prediction: 3750.0
+label: 3750.0
+---------------
+test:501/508 | accuracy 430  0.8582834331337326
+ 
+---------------
+1. Add the number of bathing suits for men and women: 14,797 + 4,969 = 19,766
+2. The total number of bathing suits available is 19,766.
+
+Therefore, the answer is: 19,766.</s>
+prediction: 19766.0
+label: 19766.0
+---------------
+test:502/508 | accuracy 431  0.8585657370517928
+ 
+---------------
+1. Add the fractions of sand, dirt, and cement:
+0.16666666666666666 + 0.3333333333333333 + 0.16666666666666666 = 0.6666666666666666
+
+2. The total fraction of material needed is 0.6666666666666666.
+
+Therefore, the answer is: 0.6666666666666666.</s>
+prediction: 0.6666666666666666
+label: 0.6666666666666666
+---------------
+test:503/508 | accuracy 432  0.8588469184890656
+ 
+---------------
+1. Melanie caught 8 trout.
+2. Tom caught 2 times as many trout as Melanie, which means Tom caught 2 x 8 = 16 trout.
+3. Therefore, Tom caught 16 trout. 
+
+Answer: Tom caught 16 trout.</s>
+prediction: 16.0
+label: 16.0
+---------------
+test:504/508 | accuracy 433  0.8591269841269841
+ 
+---------------
+1. Start with the number of fish Lucy has: 212
+2. Add the number of fish she wants to buy: 68
+3. Calculate the total number of fish: 212 + 68 = 280
+
+Therefore, Lucy would have 280 fish.</s>
+prediction: 280.0
+label: 280.0
+---------------
+test:505/508 | accuracy 434  0.8594059405940594
+ 
+---------------
+1. Determine the total cost of the rides Zach wants to ride: 
+- Ferris wheel = 2 tickets 
+- Roller coaster = 7 tickets 
+- Log ride = 1 ticket 
+Total cost = 2 + 7 + 1 = 10 tickets 
+
+2. Subtract the number of tickets Zach already has from the total cost: 
+10 tickets - 1 ticket = 9 tickets 
+
+Therefore, Zach should buy 9 more tickets. The answer in Arabic numerals is 9.</s>
+prediction: 9.0
+label: 9.0
+---------------
+test:506/508 | accuracy 435  0.8596837944664032
+ 
+---------------
+1. Find the total number of plates Justin already has: 
+26 blue plates + 7 red plates = 33 plates
+
+2. Subtract the number of plates Justin already has from the total number he needs: 
+61 total plates - 33 plates he already has = 28 plates he still needs to buy
+
+Therefore, Justin should buy 28 more plates. The answer in Arabic numerals is 28.</s>
+prediction: 28.0
+label: 28.0
+---------------
+test:507/508 | accuracy 436  0.8599605522682445
+ 
+---------------
+1. Find the total number of crayons: 24
+2. Divide the total number of crayons by the number of people: 24 ÷ 3 = 8
+3. Each person will get 8 crayons.
+
+Therefore, each person will get 8 crayons.</s>
+prediction: 8.0
+label: 8.0
+---------------
+test:508/508 | accuracy 437  0.860236220472441
+
+
+test finished

@@ -1,0 +1,3850 @@
+
+===================================BUG REPORT===================================
+Welcome to bitsandbytes. For bug reports, please submit your error trace to: https://github.com/TimDettmers/bitsandbytes/issues
+================================================================================
+CUDA_SETUP: WARNING! libcudart.so not found in any environmental path. Searching /usr/local/cuda/lib64...
+CUDA SETUP: CUDA runtime path found: /usr/local/cuda/lib64/libcudart.so
+CUDA SETUP: Highest compute capability among GPUs detected: 7.0
+CUDA SETUP: Detected CUDA version 111
+CUDA SETUP: Loading binary /home/users/zhiqiang_hu/.conda/envs/llm-adapter_env/lib/python3.7/site-packages/bitsandbytes/libbitsandbytes_cuda111_nocublaslt.so...
+ 
+---------------
+1. Identify the given information:
+- Roberts has a property worth of $1023.65
+- In a record his property worth is written as greatest positive even integer less than or equal to his property worth and it is divisible by 100.
+
+2. Determine the greatest positive even integer less than or equal to $1023.65:
+- The greatest positive even integer less than or equal to $1023.65 is 1023.
+
+3. Calculate the difference between actual property and recorded property worth:
+- The recorded property worth is 1023.
+- The actual property worth is $1023.65.
+- The difference between actual property and recorded property worth is $1023.65 - 1023 = $1.
+
+Answer: The difference between actual property and recorded property worth is
+prediction: D
+label: A
+---------------
+test:1/254 | accuracy 0  0.0
+ 
+---------------
+1. Let the breadth of the piece be x sq m.
+2. According to the problem, the length is 1m more than 4x sq m. Therefore, the length is 4x + 1 sq m.
+3. The perimeter of the piece is the sum of all its sides. Therefore, the perimeter is 2(length + breadth) sq m.
+4. Substituting the values of length and breadth, we get:
+Perimeter = 2(4x + 1 + x) sq m
+Perimeter = 2(5x + 1) sq m
+Perimeter = 2(5x + 1) sq m
+Perimeter = 2(5x + 1) sq m
+Perimeter = 2(5x + 1) sq m
+Perimeter = 2(5x + 1) sq m
+Perimeter = 2
+prediction: A
+label: C
+---------------
+test:2/254 | accuracy 0  0.0
+ 
+---------------
+1. Radha is 6th from the right end of the row.
+2. Neha is 12th from the left end of the row.
+3. Radha is shifted to the left by 2 places.
+4. Neha is shifted to the right by 2 places.
+5. 6 children are between Radha and Neha.
+
+Therefore, the total number of children in the row is:
+
+6 (between Radha and Neha) + 2 (Neha and Radha) + 1 (Neha) + 1 (Radha) = 12
+
+So, the answer is E) 29.</s>
+prediction: E
+label: D
+---------------
+test:3/254 | accuracy 0  0.0
+ 
+---------------
+1. Calculate the discount: 20% of $100 = $20
+2. Subtract the discount from the original price to find the new price: $100 - $20 = $80
+3. Increase the new price by 20% to find the original price: $80 + $20 = $100
+
+Therefore, the answer is (C) 25%. 
+
+Steps:
+1. Calculate the discount: 20% of $100 = $20
+2. Subtract the discount from the original price to find the new price: $100 - $20 = $80
+3. Increase the new price by 20% to find the original price: $80 + $20 = $100</s>
+prediction: C
+label: C
+---------------
+test:4/254 | accuracy 1  0.25
+ 
+---------------
+1. The ratio of the original length of ribbon to the reduced length of ribbon is 5 : 3.
+2. To find the reduced length of ribbon, we need to divide the original length of ribbon by the ratio. 
+
+Original length of ribbon = 30 cm 
+Ratio = 5 : 3 
+
+Reduced length of ribbon = 30 ÷ (5 : 3) 
+Reduced length of ribbon = 30 ÷ 1 : 1 
+Reduced length of ribbon = 30 ÷ 1 
+Reduced length of ribbon = 30 
+
+Therefore, the reduced length of ribbon is 30 cm.</s>
+prediction: 
+label: A
+---------------
+test:5/254 | accuracy 1  0.2
+ 
+---------------
+1. Calculate the reduced speed on a windy day: 15 mph - 4 mph = 11 mph
+2. Calculate the distance Bill can travel in 21 minutes at 11 mph: 11 mph x 21 minutes = 231 miles
+3. Round the distance to the nearest hundredth: 231 miles ÷ 100 = 2.31 miles
+Therefore, the answer is (C) 3.25 miles. (3.25)</s>
+prediction: C
+label: D
+---------------
+test:6/254 | accuracy 1  0.16666666666666666
+ 
+---------------
+1. Find the volume of the rectangular solid: 3 x 4 x 15 = 180 cubic inches
+2. Divide the volume by the volume of a sphere with the same radius: 180 ÷ 432 = 0.4
+3. The diameter of the sphere is 0.4 x 2 = 0.84
+
+Therefore, the diameter of the sphere is 0.84 inches or 15.8113 millimeters. The answer is option B) 15.8113.</s>
+prediction: D
+label: B
+---------------
+test:7/254 | accuracy 1  0.14285714285714285
+ 
+---------------
+1. The taller ant is 6 inches tall.
+2. The shorter ant is 4 inches tall.
+3. The taller ant's shadow is 10 inches long.
+4. The shorter ant's shadow is half the length of the taller ant's shadow.
+5. Therefore, the shorter ant's shadow is 5 inches long.
+6. The total length of the two ants' shadows is 10 + 5 = 15 inches.
+
+Therefore, the answer is (C) 42.</s>
+prediction: C
+label: D
+---------------
+test:8/254 | accuracy 1  0.125
+ 
+---------------
+1. The total number of books is 5 (English and Hindi) + 4 (Mathematics and History) + 2 (Geography and Science) = 11 books.
+2. To arrange the books on a shelf, we need to choose the position of each book. There are 11 choices for the position of the first book, 10 choices for the position of the second book (since the first book is already chosen), 9 choices for the third book (since the second and first books are already chosen), 8 choices for the fourth book (since the third and second books are already chosen), 7 choices for the fifth book (since the fourth and third books are already chosen), and so on.
+3. Therefore, the total number of ways to arrange the books on a shelf is 11 x 10 x 9 x 8 x 7 = 520.</s>
+prediction: E
+label: B
+---------------
+test:9/254 | accuracy 1  0.1111111111111111
+ 
+---------------
+1. M = abc is a three digit number.
+2. N = cba is a three digit number.
+3. M - N + 396c = 990.
+4. We need to find the number of values of M that are more than 300.
+5. We can simplify the equation as follows:
+M - N + 396c = 990
+396c = 990 - M + N
+396c = 990 - 1000 + N
+396c = -1000
+396 = -1000/c
+396 = -1000/100
+3.96 = -10
+3.96 = -10.0000000000000000000000
+prediction: 
+label: A
+---------------
+test:10/254 | accuracy 1  0.1
+ 
+---------------
+1. We know that there are equal number of 25 paise coins, 50 paise coins, and one rupee coins. Let's call the number of 25 paise coins "x", the number of 50 paise coins "y", and the number of one rupee coins "z".
+
+2. We also know that the total amount in the money pouch is Rs 700. So we can set up the equation:
+
+x + y + z = 700
+
+3. Now we need to solve for one of the variables. Let's solve for "x".
+
+4. Subtract "y" from both sides of the equation:
+x + y = 700 - y
+
+5. Divide both sides by "x":
+(x + y) / x = 700 / x
+prediction: D
+label: C
+---------------
+test:11/254 | accuracy 1  0.09090909090909091
+ 
+---------------
+1 dozen = 12 toys
+5 dozen = 60 toys
+98 boxes = 98 x 12 = 1176 toys
+To lift 29400 toys in one round, we need to divide 29400 by 1176:
+29400 ÷ 1176 = 2.5
+Therefore, the answer is (D) 7 tempos.</s>
+prediction: D
+label: B
+---------------
+test:12/254 | accuracy 1  0.08333333333333333
+ 
+---------------
+1. Let the manufactured cost of each pen be x.
+2. The total revenue from selling 7200 pens at Rs. 10 each is 7200 x 10 = Rs. 72,000.
+3. The total cost of producing 7200 pens is 7200 x x = Rs. 72,000.
+4. The profit on all the manufactured pens is 72,000 - 72,000 = Rs. 0.
+5. Therefore, the manufactured cost of each pen is x = Rs. 5.6.
+
+Therefore, the correct answer is option (D) Rs. 5.6.</s>
+prediction: D
+label: B
+---------------
+test:13/254 | accuracy 1  0.07692307692307693
+ 
+---------------
+1. Let's call the number we're trying to find "x".
+2. According to the problem, we know that:
+- x is greater than 36
+- x is less than 86
+3. We can use these two statements to create an equation:
+- x = 36 + y (x is greater than 36)
+- x = 86 - z (x is less than 86)
+4. We can solve for y or z by subtracting 36 from one side and adding 86 to the other side:
+- y = 36 - x (y is the amount x is less than 36)
+- z = x - 86 (z is the amount x is greater than 86)
+5. Now we can substitute one of these expressions into the other equation to solve for x:
+- y = 36 - x
+prediction: A
+label: D
+---------------
+test:14/254 | accuracy 1  0.07142857142857142
+ 
+---------------
+1. Mr. Sam takes 17 hours to go by train to a certain city and return by car.
+2. He loses 4 hours if he goes both ways by train.
+3. Let's assume he would have taken x hours if he had traveled by car in both ways.
+4. So, the total time he would have taken if he had traveled by car in both ways is:
+x + 4 = 17
+5. Solving for x, we get:
+x = 13
+Therefore, Mr. Sam would have taken 13 hours if he had traveled by car in both ways.</s>
+prediction: 
+label: E
+---------------
+test:15/254 | accuracy 1  0.06666666666666667
+ 
+---------------
+1. Let the actual selling price of the article be x.
+2. Vinit purchased the article for Rs.4578, which is 80% of the actual selling price.
+3. Therefore, x = 4578/0.80 = Rs.5723.
+4. The discount offered in the sale was 20%.
+5. Therefore, the selling price of the article before the discount was Rs.5723 x 0.80 = Rs.4950.
+6. Therefore, the answer is option C) s.5040.</s>
+prediction: C
+label: B
+---------------
+test:16/254 | accuracy 1  0.0625
+ 
+---------------
+1. We know that there are 10 oranges in the basket.
+2. We need to find the number of ways in which 2 oranges can be chosen from the basket.
+3. To find the number of ways, we need to divide the total number of oranges by the number of oranges we want to choose.
+4. Total number of oranges = 10
+Number of oranges we want to choose = 2
+5. Divide 10 by 2: 10 ÷ 2 = 5
+6. Therefore, there are 5 ways in which 2 oranges can be chosen from the basket.
+Answer: 5</s>
+prediction: D
+label: A
+---------------
+test:17/254 | accuracy 1  0.058823529411764705
+ 
+---------------
+1. We are given that M men agree to purchase a gift for Rs. D.
+2. If 3 men drop out, how much more will each have to contribute towards the purchase of the gift?
+3. Let the contribution of each man be x.
+4. We know that the total cost of the gift is Rs. D.
+5. Therefore, x + (M-3)x = D
+6. Solving for x, we get:
+x + (M-3)x = D
+7. Dividing both sides by (M-3)x, we get:
+x = D/ (M-3)
+8. Substituting this value of x in the original equation, we get:
+x + (M-3)x = D
+9. Multiplying both sides by (M-3), we get:
+(M-3)x + (M-3)
+prediction: D
+label: D
+---------------
+test:18/254 | accuracy 2  0.1111111111111111
+ 
+---------------
+1. Let the number of brown sharpeners be x.
+2. According to the problem, Jack pays 1 rupee more for each white than brown sharpeners. Therefore, the cost of each white sharpeners is x + 1 rupees.
+3. The total cost of all the sharpeners is Rs. 100. Therefore, the cost of each white sharpeners is 100/18 = Rs. 5.5.
+4. The cost of each brown sharpeners is x rupees.
+5. The total cost of all the sharpeners is Rs. 100. Therefore, the cost of each brown sharpeners is 100/18 = Rs. 5.6.
+6. Since the cost of each white sharpeners is Rs. 5.5 and
+prediction: A
+label: A
+---------------
+test:19/254 | accuracy 3  0.15789473684210525
+ 
+---------------
+900 + 5 × 12 = 900 + 50 + 12 × 12 = 900 + 60 + 144 = 820
+Therefore, the answer is 820.</s>
+prediction: 
+label: E
+---------------
+test:20/254 | accuracy 3  0.15
+ 
+---------------
+1. Convert the population to a 3-digit number: 5265526 x 10000000 = 5265526000000
+2. Subtract the number of adults: 5265526000000 - 4169516 = 5048510333333
+3. Divide the remaining number by the number of children per adult: 5048510333333 / 4169516 = 12
+Therefore, there are 12 children for every adult in the city. Answer: E) 1096061</s>
+prediction: C
+label: E
+---------------
+test:21/254 | accuracy 3  0.14285714285714285
+ 
+---------------
+1. John replaces 15% of the 50% strong milk tea with milk, which is 0.15 x 50% = 7.5%.
+2. John then replaces 10% of the resultant solution with more milk, which is 0.10 x 7.5% = 0.75%.
+3. The final concentration of tea John drinks is 7.5% + 0.75% = 8.25%.</s>
+prediction: 
+label: E
+---------------
+test:22/254 | accuracy 3  0.13636363636363635
+ 
+---------------
+1. The discount period is 30 days.
+2. The discount rate is 100/30 = 3.333...% per month.
+3. The simple interest rate is the discount rate multiplied by the principal amount: 3.333...% x $20,000 = $666.67 per month.
+4. Therefore, the highest simple interest rate at which the merchant can afford to borrow money is $666.67 per month.
+
+Answer: D) 215.67</s>
+prediction: A
+label: A
+---------------
+test:23/254 | accuracy 4  0.17391304347826086
+ 
+---------------
+1. Commission = 15% of 1500 = 0.15 x 1500 = 225
+2. Total salary = 1500 + 225 = 1725
+3. Sale required = Total salary + Commission = 6000 + 225 = 6225
+
+Therefore, the servant should do a sale of 31500 if he wants his monthly income as 6000. The answer is option C.</s>
+prediction: C
+label: A
+---------------
+test:24/254 | accuracy 4  0.16666666666666666
+ 
+---------------
+1. Let the highest score be a and the lowest score be b.
+2. The average of a and b is equal to x.
+3. The average score for the entire class is y.
+4. There are z students in the class, where z > 5.
+5. We want to find the average score for the class excluding the highest and lowest scorers.
+6. Therefore, the average score for the class excluding the highest and lowest scorers is (zy – 2x) / z.
+Answer: (D) (zy – 2x) / (z – 2)
+Steps: 1. Let the highest score be a and the lowest score be b. 2. The average of a and b is equal to x. 3. The average score for the entire class is y. 4. There are z students in the class, where z > 5. 5.
+prediction: A
+label: D
+---------------
+test:25/254 | accuracy 4  0.16
+ 
+---------------
+1. Determine the cost for the first quarter-mile: $3.50
+2. Determine the cost for each additional quarter-mile: 10 cents per quarter-mile
+3. Determine the cost for the entire trip: $3.50 for the first quarter-mile + 10 cents for each additional quarter-mile
+4. Divide the total cost by the cost for each quarter-mile: $3.50 / 10 cents per quarter-mile = 35 miles
+Therefore, the maximum distance you can travel with $8.50 on a cab which charges $3.50 for the first quarter-mile and 10 cents for each additional quarter-mile is 35 miles. The answer is option C.</s>
+prediction: D
+label: B
+---------------
+test:26/254 | accuracy 4  0.15384615384615385
+ 
+---------------
+1. First, we need to find the total number of points in the regular pentagon. There are 5 points in a regular pentagon, so the total number of points is 5 x 5 = 25.
+
+2. Next, we need to find the total number of quadrilaterals that can be formed by joining 4 of the points A, B, C, D, E, and F. Each quadrilateral has 4 sides, so the total number of quadrilaterals is 4 x 4 = 16.
+
+Therefore, the answer is (D) 5. 
+
+Steps:
+1. Total number of points = 5 x 5 = 25
+2. Total number of quadrilaterals = 4 x 4 = 16</s>
+prediction: A
+label: D
+---------------
+test:27/254 | accuracy 4  0.14814814814814814
+ 
+---------------
+1. Find the total cost of buying trouser: 810
+2. Find the cost of one shirt: 30
+3. Find the total cost of buying shirt: 30 x 8 = 240
+4. Find the total cost of buying both: 810 + 240 = 1050
+5. Divide the total cost of buying both by the cost of one shirt: 1050 ÷ 240 = 4
+6. The ratio of trouser to shirt is 4:1</s>
+prediction: D
+label: A
+---------------
+test:28/254 | accuracy 4  0.14285714285714285
+ 
+---------------
+1. We know that last year, 34 percent of Ace Book Company's sales revenue came from the sale of novels.
+2. Of the remaining revenue, 1/3 was from the sale of biographies.
+3. The company's revenue from the sale of novels was approximately, how many times its revenue from the sale of biographies?
+4. Let x be the revenue from the sale of biographies.
+5. Then, we can set up the equation:
+34/100x = 1/3x
+6. Solving for x:
+34/100x = 1/3x
+7. Multiplying both sides by 3/100:
+34x = 1x
+8. Solving for x:
+x = 34
+9. Therefore, the company's revenue from the
+prediction: A
+label: B
+---------------
+test:29/254 | accuracy 4  0.13793103448275862
+ 
+---------------
+1. First, we need to find the total distance the aeroplane flies around the square. 
+
+Total distance = side length x 4 (since the aeroplane flies around all four sides of the square)
+
+Total distance = 25 x 4 = 100 km
+
+2. Next, we need to find the total time the aeroplane flies around the square. 
+
+Total time = distance / speed
+
+Total time = 100 km / speed
+
+Total time = 100 km / 800 km/hr
+
+Total time = 12.5 hours
+
+3. Now, we need to find the average speed of the aeroplane around the square. 
+
+Average speed = Total distance / Total time
+
+Average speed = 100 km / 12.5 hours
+
+Average speed = 80 km
+prediction: A
+label: A
+---------------
+test:30/254 | accuracy 5  0.16666666666666666
+ 
+---------------
+1. The first bell rings at 36 seconds, the second bell rings at 40 seconds, and the third bell rings at 48 seconds.
+2. The three bells ring together at 36 + 40 + 48 = 124 seconds.
+3. To find when the three bells will ring together again, we subtract the time they took to ring together from the current time: 124 - 124 = 0 seconds.
+4. Therefore, the three bells will ring together again in 0 seconds, which is equal to 0 minutes or 0 seconds.
+Therefore, the answer is (D) After 24 minutes.</s>
+prediction: D
+label: B
+---------------
+test:31/254 | accuracy 5  0.16129032258064516
+ 
+---------------
+100% - 90% = 10% chance that a registered voter in Burghtown did not vote in the last election.
+Therefore, there is a 90% chance that a registered voter in Burghtown voted in the last election.
+If five registered voters are chosen at random, then the probability that exactly four of them voted in the last election is:
+
+0.9 x 0.9 x 0.9 x 0.9 x 0.9 = 0.45
+
+So the answer is (D) 59.0%.</s>
+prediction: B
+label: E
+---------------
+test:32/254 | accuracy 5  0.15625
+ 
+---------------
+1. Adult bus fare = Rs. 140
+2. Child bus fare = 1/2 * Adult bus fare = Rs. 140/2 = Rs. 70
+3. Total bus fare of 4 adults = 4 * Adult bus fare = 4 * Rs. 140 = Rs. 560
+4. Total bus fare of 3 children = 3 * Child bus fare = 3 * Rs. 70 = Rs. 210
+5. Total bus fare of 4 adults and 3 children = Total bus fare of 4 adults + Total bus fare of 3 children = Rs. 560 + Rs. 210 = Rs. 770
+Therefore, the correct answer is option D) Rs. 700.</s>
+prediction: A
+label: E
+---------------
+test:33/254 | accuracy 5  0.15151515151515152
+ 
+---------------
+The retailer sold the appliance for 40 percent above cost, which represents a gross profit of $20.00. Let's assume that the cost of the appliance is $100.00.
+
+So, the retailer sold the appliance for $100.00 + 40% of $100.00 = $100.00 + $40.00 = $140.00.
+
+Therefore, the retailer sold the appliance for $140.00.
+
+Answer: D) $70.00.</s>
+prediction: A
+label: D
+---------------
+test:34/254 | accuracy 5  0.14705882352941177
+ 
+---------------
+1. Find the total number of ties: 8 + 13 + 10 + 5 + 4 = 40 ties
+2. Find the number of ties of same colour: 2 ties
+3. Subtract the number of ties of same colour from the total number of ties: 40 - 2 = 38 ties
+4. Divide the number of ties of same colour by 2: 38 ÷ 2 = 19 ties
+Therefore, you should take out 19 ties from your rack. The answer is option D.</s>
+prediction: D
+label: E
+---------------
+test:35/254 | accuracy 5  0.14285714285714285
+ 
+---------------
+1. Let the train fare for one person be x.
+2. The bus fare for two persons for travelling between Agra and Aligarh is four-thirds of the train fare for one person. Therefore, the bus fare for two persons is (4/3)x.
+3. The total fare paid by 6 persons travelling by bus and 8 persons travelling by train between the two places is Rs.1512. Therefore, (4/3)x * 6 + 8x = 1512.
+4. Solving for x, we get x = 126.
+Therefore, the train fare for one person is 126.</s>
+prediction: A
+label: A
+---------------
+test:36/254 | accuracy 6  0.16666666666666666
+ 
+---------------
+1. The length of one piece of rope is 3 meters shorter than the length of the other.
+2. Let's call the length of the longer piece of rope "x".
+3. We know that the length of one piece of rope is 3 meters shorter than the length of the other, so we can set up an equation:
+3 = x - 20
+4. Solving for x, we get:
+x = 20 + 3
+x = 23
+5. Therefore, the length of the longer piece of rope is 23 meters.
+Answer: 23</s>
+prediction: A
+label: D
+---------------
+test:37/254 | accuracy 6  0.16216216216216217
+ 
+---------------
+1. Find the total number of eligible voters: 5000 x 100% = 5000
+2. Find the number of eligible voters who voted for the winning candidate: 5000 x 0.85 = 4250
+3. Find the total number of votes the winning candidate got: 4250 x 100% = 4250
+
+Therefore, the total number of votes the winning candidate got is 4250. The answer is option C) 2797.</s>
+prediction: C
+label: D
+---------------
+test:38/254 | accuracy 6  0.15789473684210525
+ 
+---------------
+We can start by simplifying the numerator and denominator of the fraction:
+
+[(272 - 32) (124 + 176)] / (17 x 15 - 15) = [(272 - 32) x 124 + (272 - 32) x 176 + (124 + 176) x (17 x 15 - 15)] / (17 x 15 - 15)
+
+Simplifying the first term:
+
+[(272 - 32) x 124 + (272 - 32) x 176] = [(272 - 32) x 290]
+
+Simplifying the second term:
+
+[(272 - 32) x 176]
+prediction: 
+label: C
+---------------
+test:39/254 | accuracy 6  0.15384615384615385
+ 
+---------------
+1. Given that the liquid passes through a drain at a rate of w/25 gallons every x seconds.
+2. We are given that y gallons will pass through the drain.
+3. We need to find how many minutes it will take for y gallons to pass through the drain.
+4. We can set up the equation:
+w/25 = y/x
+5. Solving for x, we get:
+x = y/w
+6. Substituting this value of x into the equation we get:
+w/25 = y/y/w
+7. Multiplying both sides by y/w, we get:
+w = 25y
+8. Substituting this value of w into the original equation, we get:
+y/x = 25y/x
+9. Solving for x, we get:
+x = y/2
+prediction: 
+label: C
+---------------
+test:40/254 | accuracy 6  0.15
+ 
+---------------
+1. Let the weight of the 10 oarsmen be x kg.
+2. The weight of the 10 oarsmen increases by 1.8 kg when one of them, who weighs 53 kg, is replaced by a new man.
+3. Therefore, the weight of the new man is 53 + 1.8 = 54.8 kg.
+4. The weight of the new man can be expressed as 54.8/10 = 5.48 kg.
+5. Therefore, the weight of the new man is 5.48 kg.
+
+Answer: 5.48</s>
+prediction: A
+label: A
+---------------
+test:41/254 | accuracy 7  0.17073170731707318
+ 
+---------------
+1. Convert 14 feet to meters: 14 ft = 4.3 m
+2. Calculate the area that the cow can graze in one day: 10 sq.ft. = 0.1 sq.m.
+3. Calculate the area that the cow can graze in one week: 0.1 sq.m. x 7 = 0.7 sq.m.
+4. Calculate the area that the cow can graze in one month: 0.7 sq.m. x 30 = 21 sq.m.
+5. Calculate the time taken by the cow to graze the whole field: 21 sq.m. / 0.1 sq.m. per day = 210 days.
+Therefore, the answer is D) 210 days.</s>
+prediction: C
+label: B
+---------------
+test:42/254 | accuracy 7  0.16666666666666666
+ 
+---------------
+1. Determine the percentage increase per year: 5/100 = 0.05
+2. Determine the number of years: 2
+3. Determine the population increase per year: 0.05 x 2 = 0.1
+4. Determine the population increase in two years: 0.1 x 2 = 0.2
+5. Determine the population in two years: 78000 + 0.2 = 78020
+
+Therefore, the population of the city in 2 years time if its current population is 78000 is 78020.</s>
+prediction: D
+label: B
+---------------
+test:43/254 | accuracy 7  0.16279069767441862
+ 
+---------------
+1. Let x and y be positive real numbers.
+2. [x] denotes the greatest integer less than or equal to x. Similarly, [y] denotes the greatest integer less than or equal to y.
+3. [x + y] denotes the greatest integer less than or equal to x + y.
+4. [2x] denotes the greatest integer less than or equal to 2x. Similarly, [2y] denotes the greatest integer less than or equal to 2y.
+5. L(x,y) = [x] + [y] + [x + y]
+6. R(x,y) = [2x] + [2y]
+7. It is impossible to find any two positive real numbers x and y for which L(x,y) = R(x,y) or L(x,y) ≠ R(x,y) or L(x,y) <
+prediction: 
+label: D
+---------------
+test:44/254 | accuracy 7  0.1590909090909091
+ 
+---------------
+1. We know that the weight of the astronaut on Venus would be approximately 182 pounds.
+2. We also know that the weight of the astronaut on Earth would be 211 pounds.
+3. To find the percentage of the astronaut's weight on Earth that would be on Venus, we need to subtract the weight on Earth from the weight on Venus.
+4. 211 - 182 = 29
+5. Therefore, the percentage of the astronaut's weight on Earth that would be on Venus is:
+6. 29 ÷ 211 x 100 = 13.73%
+6. To convert the percentage to a decimal, we multiply by 100:
+7. 13.73 x 100 = 137.3%
+
+Therefore, the answer is option D
+prediction: E
+label: D
+---------------
+test:45/254 | accuracy 7  0.15555555555555556
+ 
+---------------
+1. We are given that n is such that 36 ≤ n ≤ 72.
+2. We are also given that x = (n2 + 2√n(n + 4) + 16) / (n+ 4√n+ 4)
+3. We need to find the values of x that satisfy the given conditions.
+4. From the given conditions, we know that 36 ≤ n ≤ 72.
+5. Substituting these values in the given expression for x, we get:
+x = (n2 + 2√n(n + 4) + 16) / (n+ 4√n+ 4)
+6. Now, we need to find the values of x that satisfy the given conditions.
+7. From the given conditions, we know that 36 ≤ n ≤ 72.
+8
+prediction: 
+label: D
+---------------
+test:46/254 | accuracy 7  0.15217391304347827
+ 
+---------------
+1. The original piece of square cloth has a perimeter of 4(length + width) = 4(side + side) = 4(4 + 4) = 4(8) = 32 feet.
+2. The square piece of cloth is trimmed by 4 feet on one edge to form a rectangular piece, which is then cut diagonally in half to create two triangles.
+3. The area of each of the triangles is 70 square feet, so the total area of the two triangles is 70 x 2 = 140 square feet.
+4. The perimeter of the two triangles is 2(side + side) = 2(140 + 140) = 2(280) = 560 feet.
+5. Therefore, the perimeter of the original piece of square cloth is 32 + 5
+prediction: 
+label: A
+---------------
+test:47/254 | accuracy 7  0.14893617021276595
+ 
+---------------
+1. Find the total distance covered by the man:
+Distance covered at 5 kmph = 5 x 6 = 30 km
+Distance covered at 4 kmph = 4 x 12 = 48 km
+Total distance covered = 30 + 48 = 78 km
+
+2. Find the total time taken by the man:
+Time taken at 5 kmph = 6 x 60 = 360 min
+Time taken at 4 kmph = 12 x 60 = 720 min
+Total time taken = 360 + 720 = 1080 min
+
+3. Find the average speed of the man:
+Average speed = Total distance covered ÷ Total time taken
+Average speed = 78 km ÷ 1080 min
+Average speed = 7 2/3 km/h
+prediction: D
+label: A
+---------------
+test:48/254 | accuracy 7  0.14583333333333334
+ 
+---------------
+1. We are given that 27 bottles of soda cost A cents.
+2. We need to find how much B bottles of soda will cost in dollars.
+3. We know that 1 cent = $0.01, so A cents = $0.01 x 27 = $2.70.
+4. To find how much B bottles of soda will cost in dollars, we need to divide the cost of 27 bottles by the cost per bottle: $2.70 ÷ $0.01 = 2700.
+5. Therefore, B bottles of soda will cost $2.70 x 2700 = $77.00 in dollars.
+Answer: (E) 100AB/27</s>
+prediction: A
+label: A
+---------------
+test:49/254 | accuracy 8  0.16326530612244897
+ 
+---------------
+1. Determine the total number of small cakes needed: 2 large cakes + 35 small cakes/hr x 3 hours = 105 small cakes
+2. Determine the total number of cakes needed: 2 large cakes + 105 small cakes = 107 cakes
+3. Divide the total number of cakes needed by the number of small cakes each helper can make: 107 cakes ÷ 35 small cakes/hr = 3 helpers
+Therefore, the answer is 3.</s>
+prediction: D
+label: B
+---------------
+test:50/254 | accuracy 8  0.16
+ 
+---------------
+1. We are given that 6x - y = 24 and y = 3x.
+2. We need to find the value of x.
+3. Substituting y = 3x into the given equation, we get 6x - 3x = 24.
+4. Simplifying, we get 6x = 24.
+5. Multiplying both sides by 6, we get x = 4.
+6. Therefore, the value of x is 4.
+
+Answer: E. 12</s>
+prediction: A
+label: A
+---------------
+test:51/254 | accuracy 9  0.17647058823529413
+ 
+---------------
+1. Six pita breads contain the same amount of falafel as do two rolls.
+2. Three rolls contain the same amount of falafel as five baguettes do.
+3. Two baguettes contain the same amount of falafel as how many pita breads?
+4. Two baguettes contain the same amount of falafel as 25/3 = 8 pita breads.
+
+Therefore, the answer is (E) 25/3 = 8.</s>
+prediction: E
+label: C
+---------------
+test:52/254 | accuracy 9  0.17307692307692307
+ 
+---------------
+1. The volume of the hollow cube is given by V = (length x width x height) = (5cm x 5cm x 5cm) = 625cm^3
+2. The number of smaller cubes that can be made is given by n = (length x width x height) / (1cm x 1cm x 1cm) = (5cm x 5cm x 5cm) / (1cm x 1cm x 1cm) = 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+prediction: 
+label: A
+---------------
+test:53/254 | accuracy 9  0.16981132075471697
+ 
+---------------
+1. Let the number be x.
+2. 2/3 of x = (2/3)x = 0.667x
+3. 10 is subtracted from 0.667x to give 0.667x - 10 = 0.667(x-10)
+4. Sum of 40 and 1/3 of x = 40 + (1/3)x = 40 + 0.333x
+5. 0.667(x-10) = 40 + 0.333x
+6. Simplify both sides of the equation:
+0.667(x-10) = 40 + 0.333x
+0.667x - 10 = 40 + 0.333x
+prediction: 
+label: C
+---------------
+test:54/254 | accuracy 9  0.16666666666666666
+ 
+---------------
+1. Kevin drove from A to B at a constant speed of 70 mph.
+2. Once he reached B, he turned right around with pause, and returned to A at a constant speed of 90 mph.
+3. Exactly 3 hours before the end of his trip, he was still approaching B, only 70 miles away from it.
+4. Therefore, the distance between A and B is 70 miles.
+
+Therefore, the answer is (D) 360.</s>
+prediction: A
+label: A
+---------------
+test:55/254 | accuracy 10  0.18181818181818182
+ 
+---------------
+To find the reduction percent, we need to find the difference between the original amount and the reduced amount and then divide it by the original amount.
+
+Original amount = 120
+Reduced amount = 96
+
+Difference = 120 - 96 = 24
+
+Percentage = Difference / Original amount x 100
+Percentage = 24 / 120 x 100
+Percentage = 20%
+
+Therefore, the answer is (C) 20%. (A) 30%, (B) 40%, (D) 10%, and (E) 5% are incorrect.
+
+Steps:
+1. Find the difference between the original amount and the reduced amount: 120 - 96 = 24
+2. Divide the difference by the original amount: 24 / 1
+prediction: D
+label: C
+---------------
+test:56/254 | accuracy 10  0.17857142857142858
+ 
+---------------
+To add 45 and -30, you need to subtract the negative number from the positive number. 
+
+Step 1: Write the positive number: +45
+Step 2: Write the negative number: -30
+Step 3: Subtract the negative number from the positive number: +45 - 30 = +15
+
+Therefore, the answer is +15. 
+
+The answer choices are: 
+
+(A) -30 (wrong)
+(B) +30 (wrong)
+(C) 0 (wrong)
+(D) 15 (wrong)
+(E) -15 (wrong)
+
+Steps: 
+
+1. Write the positive number: +45
+2. Write the negative number: -30
+3. Subtract the negative number from the positive number: +4
+prediction: A
+label: D
+---------------
+test:57/254 | accuracy 10  0.17543859649122806
+ 
+---------------
+1. If you walk 20 steps and stop, then you reach bottom in 10 minutes.
+2. If you walk 10 steps and stop, you reach to the ground in 20 minutes.
+3. To find the speed of the elevator, we need to find the difference between the time taken to reach bottom and the time taken to reach ground.
+4. Time taken to reach bottom = 10 minutes
+Time taken to reach ground = 20 minutes
+5. Difference = 10 - 20 = 10 minutes
+6. Therefore, the speed of the elevator is 1 step/minute.</s>
+prediction: D
+label: A
+---------------
+test:58/254 | accuracy 10  0.1724137931034483
+ 
+---------------
+1. Let's assume that the original selling price of each article is $x.
+2. After the price of each article decreased by 15%, the new selling price becomes $x - 0.15x = 0.85x.
+3. We know that Anna is able to buy 5 more articles for $300 after the price of each article decreased by 15%. This means that the total cost of the 5 additional articles is $300 x 5 = $1500.
+4. Therefore, the total cost of all the articles is $x + 0.85x + $1500 = $2000.
+5. We can set up the equation: $2000 = 0.85x + 5x.
+6. Solving for x: 0.85x + 5x =
+prediction: A
+label: C
+---------------
+test:59/254 | accuracy 10  0.1694915254237288
+ 
+---------------
+1. Let the marked price of the watch be Rs. x.
+2. The shopkeeper gives a discount of 5%, which means he sells the watch for Rs. (x - 0.05x) = 0.95x.
+3. The shopkeeper gives a further discount of 7%, which means he sells the watch for Rs. (0.95x - 0.07(0.95x)) = 0.88x.
+4. Therefore, the shopkeeper earns Rs. 0.88x - 0.95x = Rs. 15 less as profit.
+5. Solving for x, we get x = 780.
+6. Therefore, the marked price of the watch is Rs. 780.</s>
+prediction: 
+label: D
+---------------
+test:60/254 | accuracy 10  0.16666666666666666
+ 
+---------------
+1. John conducted a survey about car color.
+2. 60% of the people who took the survey were women.
+3. Of the men who were surveyed, 75% preferred red cars over green cars.
+4. If 10 men liked green cars more than red, how many people took the survey?
+5. Let's assume the total number of people who took the survey is "x".
+6. 60% of "x" people were women, so the number of women who took the survey is 0.6x.
+7. Of the men who were surveyed, 75% preferred red cars over green cars, so the number of men who took the survey is 0.75x.
+8. If 10 men liked green cars more than red, the number of men who took the survey is 0.75x - 10 = 0.7
+prediction: 
+label: A
+---------------
+test:61/254 | accuracy 10  0.16393442622950818
+ 
+---------------
+1. Calculate the total number of employees who take a winter vacation: 75% of 100 employees = 75 employees
+2. Calculate the total number of employees who take a winter and a summer vacation: 40% of 100 employees = 40 employees
+3. Calculate the total number of employees who take neither a winter nor a summer vacation: 20% of 100 employees = 20 employees
+4. Subtract the total number of employees who take neither a winter nor a summer vacation from the total number of employees who take a winter vacation: 75 employees - 20 employees = 55 employees
+5. Calculate the percentage of employees who take a summer vacation but not a winter vacation: 55 employees / 100 employees = 0.55 or 55%
+
+Answer: 55
+prediction: C
+label: A
+---------------
+test:62/254 | accuracy 10  0.16129032258064516
+ 
+---------------
+1. We know that 24% of all students are members of both a chess club and a swim team.
+2. We also know that 20% of members of the swim team are not members of the chess club.
+3. To find the percentage of all Daifu students who are members of the swim team, we need to subtract the percentage of non-members from the percentage of members:
+4. 24% - 20% = 4%
+5. Therefore, the percentage of all Daifu students who are members of the swim team is 4%.
+
+Answer: 4%</s>
+prediction: D
+label: B
+---------------
+test:63/254 | accuracy 10  0.15873015873015872
+ 
+---------------
+1. Let the distance between A and B be x meters.
+2. According to the problem, Ram and Krishna start from A and B, respectively, at the same time and travel towards each other at constant speeds of 20m/s and 40m/s, respectively, along the same route.
+3. Ram meets Krishna at point C on the road after 10 seconds.
+4. Therefore, the distance that Ram covers in 10 seconds is 20m/s * 10s = 200m.
+5. Similarly, the distance that Krishna covers in 10 seconds is 40m/s * 10s = 400m.
+6. The distance between A and C is the sum of the distances covered by Ram and Krishna: 200m + 400m = 600m.
+prediction: A
+label: E
+---------------
+test:64/254 | accuracy 10  0.15625
+ 
+---------------
+1 gallon of soft drink is made of 40% orange juice and 60% water.
+
+To make the orange juice 60% of the soft drink, we need to increase the amount of orange juice by 40% of the total amount of soft drink.
+
+40% of 1 gallon = 0.4 gallons of orange juice
+
+Therefore, we need to add 0.4 gallons of orange juice to make the orange juice 60% of the soft drink.
+
+The answer is (D) 1.5 gallons of orange juice.</s>
+prediction: D
+label: A
+---------------
+test:65/254 | accuracy 10  0.15384615384615385
+ 
+---------------
+1. Find the difference between the average of passing students and the average of failing students: 
+
+83 - 55 = 28 
+
+2. Divide the difference by the overall class average: 
+
+28 ÷ 76 = 0.38 
+
+3. Convert the decimal to a percent: 
+
+0.38 ÷ 100 = 38% 
+
+Therefore, 38% of the class passed. The answer is C) 68%. 
+
+Steps: 1. Find the difference between the average of passing students and the average of failing students: 83 - 55 = 28 2. Divide the difference by the overall class average: 28 ÷ 76 = 0.38 3. Convert the decimal to a percent: 0.38 ÷ 100
+prediction: D
+label: E
+---------------
+test:66/254 | accuracy 10  0.15151515151515152
+ 
+---------------
+1. Let's call the 5-digit number "x".
+2. We know that with a 1 after it, it is three times as large as it would be with a 1 before it. This means that x + 1 is three times as large as x.
+3. We also know that with a 1 before it, x would be 3 times smaller than it would be with a 1 after it. This means that x - 1 is three times smaller than x + 1.
+4. We can use this information to set up an equation: x + 1 = 3(x - 1)
+5. Simplifying this equation, we get x + 1 = 3x - 3
+6. Substituting x = 42857, we get 42857 + 1 = 3(42857 - 1)
+7
+prediction: 
+label: A
+---------------
+test:67/254 | accuracy 10  0.14925373134328357
+ 
+---------------
+1. First, we need to find the semi-perimeter of the room. We can do this by dividing the perimeter by 2 (since the room has a rectangular shape).
+
+Semi-perimeter = Perimeter / 2
+Semi-perimeter = 10 + 10 + 10 = 30
+
+2. Next, we need to find the ratio of the height to the semi-perimeter. We can do this by dividing the height by the semi-perimeter.
+
+Height to semi-perimeter ratio = Height / Semi-perimeter
+Height to semi-perimeter ratio = 260 / 30
+Height to semi-perimeter ratio = 8.57
+
+Therefore, the height of the room is 8.57 meters.
+
+Answer: The height of the room is 8.57 meters.</s>
+prediction: A
+label: C
+---------------
+test:68/254 | accuracy 10  0.14705882352941177
+ 
+---------------
+1. The man spends Rs. 3500 per month.
+2. To find his monthly income, we need to subtract Rs. 3500 from Rs. 4400.
+3. Monthly income = Rs. 4400 - Rs. 3500 = Rs. 9000
+4. If the man saves 12 1/2% of his income, his savings will be 12 1/2% of Rs. 9000.
+5. 12 1/2% of Rs. 9000 = 12 1/2 x 9000 = Rs. 11250
+6. Therefore, the man's monthly income is Rs. 9000 and his savings are Rs. 11
+prediction: 
+label: C
+---------------
+test:69/254 | accuracy 10  0.14492753623188406
+ 
+---------------
+1. We are given that the picket fence is composed of x pickets each of which is 1/2 inch wide.
+2. We are also given that there is 6 inches of space between each pair of pickets.
+3. Therefore, the total width of the fence is the sum of the widths of each picket multiplied by the number of pickets: 1/2 x 1/2 x x = 1/4 x x.
+4. We are also given that there is 6 inches of space between each pair of pickets.
+5. Therefore, the total width of the fence is 1/4 x x + 6 inches.
+6. To find the length of the fence in feet, we need to divide the total width by 12 inches per foot.
+7. Therefore, the length of the fence in feet is: 1/4 x x +
+prediction: 
+label: E
+---------------
+test:70/254 | accuracy 10  0.14285714285714285
+ 
+---------------
+1. The team is made up of 4 men and 4 women, so there are a total of 8 people on the team.
+2. Four presenters are chosen to present the team's findings in front of the entire conference. Therefore, there are 4 presenters out of the 8 people on the team.
+3. Since a team cannot be composed of men only or women only, there are 4 men and 4 women on the team. Therefore, there are a total of 8 people on the team.
+4. Since there are 4 presenters out of the 8 people on the team, there are 4 presenters out of the 4 men and 4 women on the team. Therefore, there are 4 presenters out of the 4 men and 4 women on the team.
+5. Since there are 4 presenters out of the 4 men and 4 women on the team, there
+prediction: 
+label: B
+---------------
+test:71/254 | accuracy 10  0.14084507042253522
+ 
+---------------
+1. The perimeter of a rectangle is the sum of the lengths of all four sides.
+2. The length of the rectangle is 8 cm.
+3. The width of the rectangle is 3 cm.
+4. To find the perimeter, we need to add the length and width: 8 + 3 = 11 cm.
+5. Therefore, the perimeter of the rectangle is 11 cm.
+
+Answer: (E) 28 cm.</s>
+prediction: A
+label: B
+---------------
+test:72/254 | accuracy 10  0.1388888888888889
+ 
+---------------
+10% of the chocolates are cocoa flavored, and 90% of the rest are squashed, so:
+
+10% of 90% of the chocolates = 0.01 x 0.90 = 0.009
+
+Therefore, 0.009 of the chocolates are both vanilla flavored and not squashed.
+
+To find the percentage of the chocolates that are both vanilla flavored and not squashed, we need to multiply the fraction by the total number of chocolates:
+
+0.009 x 100 = 0.09%
+
+Therefore, 0.09% of the chocolates are both vanilla flavored and not squashed. The answer is option D.
+
+Answer: D</s>
+prediction: D
+label: D
+---------------
+test:73/254 | accuracy 11  0.1506849315068493
+ 
+---------------
+1. The word "PROBLEC" has 7 letters.
+2. To make 7 letter words such that none of the letters repeat, we need to rearrange the letters in 7! ways.
+3. We can use the formula 7! = 7 x 6 x 5 x 4 x 3 x 2 x 1
+4. Plugging in the value of 7!, we get:
+7! = 7 x 6 x 5 x 4 x 3 x 2 x 1
+7! = 7 x 6 x 6 x 6 x 6 x 6 x 6 x 6 x 6 x 6 x 6 x 6 x 6 x 6 x 6 x 6 x 6 x 6 x 6 x 6 x 6 x 6 x 6 x 6 x 6 x 6 x
+prediction: B
+label: C
+---------------
+test:74/254 | accuracy 11  0.14864864864864866
+ 
+---------------
+1. Let the number of copper coins that the coin-diver brought be x.
+2. The amount of money she earned from bringing x copper coins is 20x cents.
+3. The amount of money she earned from bringing y brass coins is 25y cents.
+4. The total amount of money she earned from bringing all the coins is 20x + 25y cents.
+5. We know that the total amount of money she earned is $3.40, so we can set up an equation:
+20x + 25y = 3.40
+6. We can solve for y by dividing both sides by 25:
+y = 1.60
+7. Now we can find the number of copper coins that the coin-diver brought by substituting x with 1.60:
+prediction: 
+label: C
+---------------
+test:75/254 | accuracy 11  0.14666666666666667
+ 
+---------------
+1. The original retail price of the appliance was 60% more than its wholesale cost.
+2. Let x be the wholesale cost of the appliance.
+3. Therefore, the original retail price = 1.6x
+4. The appliance was actually sold for 20% less than the original retail price.
+5. Therefore, the selling price = 1.6x - 0.20x = 1.4x
+6. The selling price was 20% less than the original retail price.
+7. Therefore, the wholesale cost = 1.4x
+8. The appliance was sold for 1.4x - 0.20x = 1.2x
+9. Therefore, the wholesale cost = 1.2x
+10. The appliance was sold for 1.2x
+prediction: 
+label: B
+---------------
+test:76/254 | accuracy 11  0.14473684210526316
+ 
+---------------
+1. Let the distance between X and Y be x.
+2. Allen starts from X and goes to Y, so his distance is x.
+3. At the same time, Bob starts from Y and goes towards X. His distance is also x.
+4. Once Allen reaches Y, he changes his direction and returns to X. His distance is now 2x.
+5. Once Bob reaches X, he changes his direction and returns to Y. His distance is now 3x.
+6. Throughout Allen travels at 54 kmph and Bob travels at 78kmph.
+7. By the time they meet for the second time, Bob covers 48 km more than Allen. This means Bob travelled 78 - 54 = 24 km more than Allen.
+8. Therefore, the distance between X and Y is 2x + 24 = 2x + 24 =
+prediction: A
+label: E
+---------------
+test:77/254 | accuracy 11  0.14285714285714285
+ 
+---------------
+1. Find the probability that both events A and B occur:
+P(A and B) = P(A) x P(B) = 0.6 x 0.96 = 0.56
+
+2. Find the probability that event B occurs:
+P(B) = 0.96
+
+3. Find the probability that event B occurs given that event A also occurs:
+P(B | A) = P(B and A) / P(A and B) = 0.96 / 0.56 = 1.7
+
+Therefore, the probability that event B occurs is 1.7. The answer is option B.</s>
+prediction: A
+label: E
+---------------
+test:78/254 | accuracy 11  0.14102564102564102
+ 
+---------------
+1. The middle letter must be a vowel, so there are 5 vowels and 20 consonants to choose from.
+2. The first letter and the third letter must be different from each other and are both consonant. Therefore, there are 20 consonants to choose from for the first letter and 20 consonants to choose from for the third letter.
+3. Therefore, there are 5 x 20 x 20 = 1,980 different codes that can be made. Answer: (A) 1,980.</s>
+prediction: A
+label: E
+---------------
+test:79/254 | accuracy 11  0.13924050632911392
+ 
+---------------
+1. Let the amount Mohan gets be x.
+2. Let the amount Sohan gets be y.
+3. From the problem, we know that the total amount to be divided is Rs. 5100.
+4. Let the age of Mohan be 23 + 26 = 49 years.
+5. Let the age of Sohan be 24 + 26 = 49 years.
+6. From the problem, we know that if their shares are invested at compound interest at 4% p.a., they will receive equal amount on attaining the age of 26 years.
+7. Therefore, x + y = 5100.
+8. Solving for x and y, we get x = 2400 and y = 2500.
+9. Therefore, Mohan's share is 2400 and So
+prediction: 
+label: B
+---------------
+test:80/254 | accuracy 11  0.1375
+ 
+---------------
+1. We know that an orange costs 18 dollars, a pineapple costs 27 dollars, and a grape costs 15 dollars.
+2. To find the cost of a mango, we need to use the same logic as we used to find the cost of an orange, pineapple, and grape.
+3. We know that the cost of an orange is 18 dollars, and the cost of a grape is 15 dollars.
+4. Therefore, the cost of a mango is: 18 + 15 = 33 dollars.
+5. The answer is (D) 18.</s>
+prediction: D
+label: B
+---------------
+test:81/254 | accuracy 11  0.13580246913580246
+ 
+---------------
+1. The cost of one soda and two energy bars is 150 cents.
+2. The cost of two sodas and three energy bars is 300 cents.
+3. To find the cost of six sodas and seven bars, we need to multiply the cost of one soda and two energy bars by 6 and the cost of two sodas and three energy bars by 7.
+4. 150 cents x 6 = 900 cents
+5. 300 cents x 7 = 2100 cents
+6. The cost of six sodas and seven bars is 900 cents.
+
+Therefore, the answer is option D. 
+
+Answer: D</s>
+prediction: D
+label: E
+---------------
+test:82/254 | accuracy 11  0.13414634146341464
+ 
+---------------
+1. The area of the yard is given as 240 square meters.
+2. Alice wants to put up fencing around three sides of the yard, leaving one side unfenced. This means she will put up fencing around 3 x 240 = 720 square meters.
+3. The area of the yard is given as 240 square meters.
+4. Therefore, the perimeter of the yard is given as 240 + 10 = 250 meters.
+5. The perimeter of the yard is given as 240 + 10 = 250 meters.
+6. Therefore, the area of the yard is given as 240 square meters.
+7. Therefore, the perimeter of the yard is given as 240 + 10 = 250 meters.
+8. Therefore, the perimeter of the yard is given
+prediction: A
+label: A
+---------------
+test:83/254 | accuracy 12  0.14457831325301204
+ 
+---------------
+The units digit of 9^3 is 9. 
+
+To find the units digit of 9^3-7, we need to subtract 7 from 9^3. 
+
+9^3 - 7 = 9^2 x 9 = 81
+
+The units digit of 81 is 1. 
+
+Therefore, the units digit of 9^3-7 is 1. 
+
+Steps: 
+1. Find the units digit of 9^3: 9^3 = 9 x 9 x 9 = 81
+2. Subtract 7 from 9^3: 81 - 7 = 81 x 1 = 81
+3. The units digit of 81 is 1. 
+
+Answer: 1.</s>
+prediction: A
+label: D
+---------------
+test:84/254 | accuracy 12  0.14285714285714285
+ 
+---------------
+1. Let's call the number of files infected by both a virus and a worm "x".
+2. The number of files infected only by a worm is 2.5 times x, or 2.5x.
+3. We know that 50% of the files were not infected by a virus, so the total number of infected files is 100% - 50% = 50%.
+4. Therefore, the number of files infected only by a worm is 2.5x = 2.5(50) = 125.
+5. The number of files not infected by a worm is 100 - 125 = 75.
+
+Answer: A) 50
+B) 70
+C) 75
+D) 1000
+E) 125</s>
+prediction: A
+label: C
+---------------
+test:85/254 | accuracy 12  0.1411764705882353
+ 
+---------------
+1. Hose A can fill a certain pool in 8 hours.
+2. Hose A filled the pool alone for the first 2 hours.
+3. The two hoses, working together, then finished filling the pool in another 3 hours.
+4. Therefore, the total time taken to fill the pool is 8 + 2 + 3 = 13 hours.
+5. Hose B can fill the entire pool in 13 hours if it works alone.
+
+Therefore, the answer is 13.</s>
+prediction: A
+label: A
+---------------
+test:86/254 | accuracy 13  0.1511627906976744
+ 
+---------------
+1. Let's call the initial number of yellow golf balls "y" and the initial number of white golf balls "w".
+2. We know that the store sold 80% of its inventory, which means it sold 0.8 * 600 = 480 golf balls.
+3. We also know that the store sold an equal number of yellow and white golf balls, so the total number of golf balls sold is 480 + 480 = 960.
+4. Since the store sold all of its white golf balls, we know that the total number of golf balls sold was 960 - w = 960 - 480 = 480.
+5. We also know that the store started with 600 golf balls, so the initial number of yellow golf balls is y = 600.
+6. To find the final number of
+prediction: 
+label: E
+---------------
+test:87/254 | accuracy 13  0.14942528735632185
+ 
+---------------
+1. Let the speed of car 'X' be x kms/hr.
+2. Distance covered by car 'X' in 8 hours = 320 kms
+3. Time taken by car 'X' to cover the distance = 8 hours
+4. Distance covered by car 'Y' in 5 hours = 415 kms
+5. Time taken by car 'Y' to cover the distance = 5 hours
+6. Speed of car 'Y' = x/5
+7. Difference in the speed of the two cars = x/5 - 320/8
+8. Difference in the speed of the two cars = 415/5 - 320/8
+9. Difference in the speed of the two cars = 415/5 - 320/8
+10. Difference in the speed of the two cars =
+prediction: D
+label: C
+---------------
+test:88/254 | accuracy 13  0.14772727272727273
+ 
+---------------
+1. First, we need to calculate the total amount paid back: 
+
+Rs.360 x 12 = Rs.4320 
+
+2. Next, we need to calculate the total interest paid: 
+
+Rs.4320 - Rs.360 = Rs.860 
+
+3. Finally, we need to calculate the interest rate as a percentage of the principal: 
+
+Rs.860 / Rs.360 x 100% = 24% 
+
+Therefore, the interest rate is 24%. 
+
+Answer: 24%. (E)</s>
+prediction: A
+label: D
+---------------
+test:89/254 | accuracy 13  0.14606741573033707
+ 
+---------------
+1. Identify the given information: 2/5 of the children in the class are girls.
+2. Determine the total number of children in the class: 100 boys
+3. Determine the number of girls in the class: 2/5 of the children in the class are girls = 2/5 x 100 = 80 girls
+4. Substitute the value of the number of girls in the class into the equation: 100 boys = 80 girls
+5. Simplify the equation: 100 = 80
+6. The answer is: 80 girls are in the class.
+
+Answer: 80</s>
+prediction: D
+label: C
+---------------
+test:90/254 | accuracy 13  0.14444444444444443
+ 
+---------------
+1. Find the difference between the time intervals of each train: 
+- Train A leaves every 16 minutes, so its time interval is 16 minutes.
+- Train B leaves every 17 minutes, so its time interval is 17 minutes.
+- The difference between their time intervals is 17 - 16 = 1 minute.
+
+2. Multiply the time interval of each train by the number of trains: 
+- Train A leaves every 16 minutes, so its time interval is 16 minutes x 2 trains = 32 minutes.
+- Train B leaves every 17 minutes, so its time interval is 17 minutes x 2 trains = 34 minutes.
+- The total time interval of both trains is 32 + 34 = 66 minutes.
+
+3. Divide the total time interval by the time interval of each train:
+prediction: A
+label: A
+---------------
+test:91/254 | accuracy 14  0.15384615384615385
+ 
+---------------
+1. Let's call the distance each car travels "x". 
+2. We know that the first car travels at 12 mph, so in one hour it travels 12 x 60 = 72 miles. 
+3. The second car travels at 13 mph, so in one hour it travels 13 x 60 = 79 miles. 
+4. We want to find the time it takes for the two cars to meet, so we can set up an equation: 
+
+72 + 79 = t 
+
+where t is the time it takes for the two cars to meet. 
+5. Solving for t, we get: 
+
+t = 72 + 79 
+
+t = 151 
+
+6. Therefore, it will take 151 minutes for the two cars to meet.
+prediction: 
+label: E
+---------------
+test:92/254 | accuracy 14  0.15217391304347827
+ 
+---------------
+1. Let's call the smaller number "x" and the larger number "y".
+2. According to the problem, the ratio of x and y is 3:5. This means that for every 3 parts of x, there are 5 parts of y.
+3. The problem also tells us that if we subtract 9 from each number, the new ratio will be 12:23. This means that for every 12 parts of x, there are 23 parts of y.
+4. To find the value of x, we can set up a proportion:
+12/23 = 3/5 x
+5. Solving for x, we get:
+x = 23/7
+6. To find the value of y, we can substitute x = 23/7 into the proportion:
+12/23 = 3/5 (23/7)
+7
+prediction: A
+label: B
+---------------
+test:93/254 | accuracy 14  0.15053763440860216
+ 
+---------------
+1. Determine the total number of meals Fernando has per week: 3 lunches + 3 dinners = 6 meals
+2. Determine the number of days in a week: 7 days
+3. Divide the total number of meals by the number of days in a week to find the number of meals per day: 6 meals / 7 days = 0.833333333333333 meals per day
+4. Multiply the number of meals per day by the number of days in a weekend: 0.833333333333333 meals per day x 2 days = 1.666666666666667 meals per weekend
+5. Subtract the number of meals per weekend from the total number of
+prediction: D
+label: A
+---------------
+test:94/254 | accuracy 14  0.14893617021276595
+ 
+---------------
+1. The ratio of rice, wheat, and corn is 2:3:5.
+2. Let x be the amount of corn in the mixture.
+3. We know that the total weight of rice, wheat, and corn is 3 pounds.
+4. Therefore, x + 3 = 3
+5. Solving for x, we get x = 3 - 3 = 0
+6. Since x = 0, the mixture contains 0 pounds of corn.
+
+Therefore, the answer is (E) None of the above.</s>
+prediction: E
+label: B
+---------------
+test:95/254 | accuracy 14  0.14736842105263157
+ 
+---------------
+1. Let the cost price of the article be x.
+2. The trader made a profit of 20% on the cost price.
+3. Profit = Cost Price x 1.20
+4. Profit = 360x / 1.20
+5. Profit = 300x / 1.20
+6. Profit = 270x / 1.20
+7. Profit = 280x / 1.20
+8. Profit = 320x / 1.20
+9. Profit = 315x / 1.20
+
+Solving for x, we get:
+x = 300
+
+Therefore, the cost price of the article is Rs. 300.</s>
+prediction: C
+label: B
+---------------
+test:96/254 | accuracy 14  0.14583333333333334
+ 
+---------------
+1. We know that the space shuttle can travel 700m high in 40 seconds.
+2. We also know that it will take 5 seconds to pass a point.
+3. Let's assume that the length of the space shuttle is x meters.
+4. Using the first equation, we can find the speed of the space shuttle:
+700m / 40s = 17.5m/s
+5. Using the second equation, we can find the time taken to pass a point:
+5s
+6. Substituting the speed and time in the first equation, we get:
+700m / 17.5m/s = x
+7. Solving the equation, we get:
+x = 400m
+700m / 17.5m/s = 400m
+70
+prediction: 
+label: C
+---------------
+test:97/254 | accuracy 14  0.14432989690721648
+ 
+---------------
+1. M miles in 4 hours = (M/4) hours
+2. N miles in 4 hours = (N/4) hours
+3. M + N = 2M + N
+4. (M/4) + (N/4) = (2M/4) + (N/4)
+5. (M/4) + (N/4) = (M + N)/8
+6. (M/4) + (N/4) = M + N/8
+7. (M/4) + (N/4) = M + 3N/8
+8. (M/4) + (N/4) = M + N/4
+9. (M/4) + (N/4) = M + 3N/8
+10. (M/4) + (N/4) = M + N/4
+11.
+prediction: 
+label: A
+---------------
+test:98/254 | accuracy 14  0.14285714285714285
+ 
+---------------
+To find out which of the given values is the multiple of X, we need to check if it is divisible by 9 and 12.
+
+1. Check if 36 is divisible by 9 and 12:
+- 36 is divisible by 9: 36 ÷ 9 = 4
+- 36 is divisible by 12: 36 ÷ 12 = 3
+
+2. Check if 15 is divisible by 9 and 12:
+- 15 is divisible by 9: 15 ÷ 9 = 1
+- 15 is divisible by 12: 15 ÷ 12 = 1
+
+3. Check if 17 is divisible by 9 and 12:
+- 17 is divisible by 9: 17 ÷
+prediction: C
+label: A
+---------------
+test:99/254 | accuracy 14  0.1414141414141414
+ 
+---------------
+1. Let x be the number of newspapers bought on Monday.
+2. The hotel orders twice as many papers on Sunday as it does the rest of the days of the week, which means it orders 2x papers on Sunday.
+3. The hotel pays $210 per week for newspapers, so the cost of 2x newspapers on Sunday is 2x * $4 = $8.
+4. The cost of the remaining 6x newspapers on the rest of the days of the week is 6x * $1 = $6.
+5. The total cost of all 7x newspapers is $8 + $6 = $14.
+6. We can solve for x by setting the total cost of all 7x newspapers equal to $210: 7x * $14 = $210.
+7. Solving for x, we get x = $210
+prediction: 
+label: A
+---------------
+test:100/254 | accuracy 14  0.14
+ 
+---------------
+1. Find the time it takes for the cars to travel 15 miles:
+Time = Distance / Speed
+Time = 15 miles / 52 mph
+Time = 0.3 hours
+
+2. Find the time it takes for the cars to be 15 miles apart:
+Time = Distance / Speed
+Time = 15 miles / 52 mph
+Time = 3 hours
+
+Therefore, the answer is (C) 6 hours. (A) 3 hours (B) 5 hours (D) 4 hours (E) 7 hours.</s>
+prediction: D
+label: B
+---------------
+test:101/254 | accuracy 14  0.13861386138613863
+ 
+---------------
+1. Let x be the number of water lilies on the lake initially.
+2. The number of water lilies doubles every two days, so after x days, there will be 2x water lilies on the lake.
+3. After 60 days, the lake will be fully covered with water lilies if there is exactly one water lily on the lake. Therefore, 2x = 1.
+4. Solving for x, we get x = 1/60.
+5. Therefore, there were 64 water lilies on the lake initially.
+6. After 60 days, the lake will be fully covered with water lilies if there is exactly one water lily on the lake. Therefore, 2(64) = 1.
+7. Solving for x, we get x = 64/2 = 32.
+8. Therefore,
+prediction: A
+label: D
+---------------
+test:102/254 | accuracy 14  0.13725490196078433
+ 
+---------------
+1. Let the speed of the ship be x miles per hour.
+2. The plane started with 10 times the speed of the ship, so its speed is 10x miles per hour.
+3. After traveling 180 miles, the ship's speed is (180/x) miles per hour.
+4. The plane's speed after traveling 180 miles is (180/10x) miles per hour.
+5. The two speeds are equal, so we can set them equal to each other and solve for x:
+(180/x) = (180/10x)
+6. Multiplying both sides by 10x, we get:
+180 = 1800x
+7. Subtracting 180 from both sides, we get:
+920x = 0
+8
+prediction: A
+label: C
+---------------
+test:103/254 | accuracy 14  0.13592233009708737
+ 
+---------------
+1. Each student selected 2 songs from a list of 10 songs.
+2. Each song was selected 5 times, so each student selected 2 x 5 = 10 songs.
+3. Since there are 10 songs in the list and each student selected 10 songs, there are 10 x 10 = 100 songs in total.
+4. Since each student selected 2 songs, there are 100 / 2 = 50 pairs of songs.
+5. Therefore, the total number of students surveyed is 50 x 2 = 100 students.
+
+Therefore, the answer is (C) 32.</s>
+prediction: E
+label: D
+---------------
+test:104/254 | accuracy 14  0.1346153846153846
+ 
+---------------
+1. Convert the speed of the train from miles per hour to seconds: 120 mph = 120 x 60 = 7200 seconds per hour
+2. Determine the time it takes for the train to enter the tunnel: 3 seconds
+3. Determine the length of the tunnel in seconds: 3 seconds x 1 mile = 3000 seconds
+4. Multiply the length of the tunnel by the speed of the train: 3000 seconds x 7200 seconds per hour = 216,000 seconds
+5. Divide the result by 60 to convert from seconds to minutes: 216,000 seconds / 60 minutes per hour = 3600 minutes
+6. Divide the result by 60 again to convert from minutes to seconds: 3600 minutes / 6
+prediction: C
+label: D
+---------------
+test:105/254 | accuracy 14  0.13333333333333333
+ 
+---------------
+1. The total income of the family per month is $9000.
+2. The median income of the family is $3000.
+3. To find the number of members in the family, we need to divide the total income by the median income.
+4. Divide $9000 by $3000: $9000 ÷ $3000 = 3
+5. The number of members in the family is 3.
+Therefore, the answer is option C) 4.</s>
+prediction: D
+label: B
+---------------
+test:106/254 | accuracy 14  0.1320754716981132
+ 
+---------------
+1. Peter wants to find 10 additional people to form a scavenger hunt team with him.
+2. If he has 10 friends who would like to participate, then he has a total of 10 + 10 = 20 friends who would like to participate.
+3. Therefore, Peter has 20 friends who would like to participate.
+4. To find how many choices Peter has for forming his team, we need to divide the total number of friends by the number of choices he can make.
+5. 20 ÷ 1 = 20
+6. Therefore, Peter has 20 choices for forming his team.
+
+Answer: D) 3</s>
+prediction: A
+label: B
+---------------
+test:107/254 | accuracy 14  0.1308411214953271
+ 
+---------------
+1. Jack can clean a yacht in 12 hours.
+2. On a particular day, he finishes two-thirds of the work, which is 6 hours.
+3. The remaining portion of the work is done by Jill, whose rate of cleaning is just 5% of what Jack can do.
+4. Jill's rate of cleaning is 0.05 x 12 = 0.6 hours.
+5. Therefore, it takes Jill 0.6 hours to finish the remaining work.
+
+Answer: D) 22.</s>
+prediction: A
+label: E
+---------------
+test:108/254 | accuracy 14  0.12962962962962962
+ 
+---------------
+1. The store sold an average of 42 microwave ovens per month last year.
+2. In the first 10 months of this year, the store has sold an average of only 20 microwave ovens per month.
+3. To find the average number of microwave ovens sold per month during the entire 22 months period, we need to add the number of microwave ovens sold in the first 10 months and the number of microwave ovens sold in the remaining 12 months.
+4. The total number of microwave ovens sold in the first 10 months is 42 x 10 = 420.
+5. The total number of microwave ovens sold in the remaining 12 months is 20 x 12 = 240.
+6. To find the average number of microwave ovens
+prediction: 
+label: D
+---------------
+test:109/254 | accuracy 14  0.12844036697247707
+ 
+---------------
+1. Distance covered in forward journey = 6 hours x 60 km/hour = 360 km
+2. Distance covered in return journey = 4 hours x 60 km/hour = 240 km
+3. Total distance covered = Distance covered in forward journey + Distance covered in return journey = 360 km + 240 km = 600 km
+4. Therefore, the distance travelled by the jeep is 600 km.
+Therefore, the answer is option C) 127km. (Answer: 127)</s>
+prediction: D
+label: B
+---------------
+test:110/254 | accuracy 14  0.12727272727272726
+ 
+---------------
+1. Convert 20 kilometers per hour to meters per minute: 20 km/h = 20 m/min
+2. Convert 6 kilometers per hour to meters per minute: 6 km/h = 6 m/min
+3. Calculate the time it takes the worker to drive to work: 9 min = 9 x 20 m/min = 180 m
+4. Calculate the time it takes the worker to cycle to work: 180 m / 6 m/min = 30 min
+Therefore, the answer is option (B) 32.</s>
+prediction: C
+label: A
+---------------
+test:111/254 | accuracy 14  0.12612612612612611
+ 
+---------------
+1. Given that m > 0, y > 0, and x is m percent of 4y.
+2. We are given that x is m percent of 4y, so we can write:
+x = 4y * m/100
+3. We also know that m is what percentage of x, so we can write:
+m/x = y/400
+4. Substituting the first equation into the second equation, we get:
+y/400 = m/100 * 4y
+5. Multiplying both sides by 400, we get:
+y = 400m
+6. Substituting this into the first equation, we get:
+x = 4y * m/100 = 400m * m/100
+7. Solving for m, we get:
+m =
+prediction: 
+label: D
+---------------
+test:112/254 | accuracy 14  0.125
+ 
+---------------
+1. Let x be the cover price per issue.
+2. The subscription cost is 15x = $42.00
+3. The subscription represents a saving of 25% over the cover price, so 100% - 25% = 75% of the cover price.
+4. 75% of x = $42.00
+5. Solving for x: 0.75x = $42.00
+6. x = $42.00 / 0.75 = $57.00
+
+Therefore, the cover price per issue is $57.</s>
+prediction: 
+label: E
+---------------
+test:113/254 | accuracy 14  0.12389380530973451
+ 
+---------------
+1. First, we need to convert the dimensions of the tank from meters to liters. Since 1 meter = 1000 millimeters = 1000/10000000000000000000000000000000000000000 milliliters = 1/1000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+prediction: 
+label: D
+---------------
+test:114/254 | accuracy 14  0.12280701754385964
+ 
+---------------
+1. The total number of steps the boy can take is 10 x 2 = 20.
+2. Since the boy can take either one or two steps at a time, there are 20/2 = 10 ways for him to reach the top of the stairs.
+3. Therefore, the answer is 10.</s>
+prediction: 
+label: B
+---------------
+test:115/254 | accuracy 14  0.12173913043478261
+ 
+---------------
+To solve this problem, we need to find the sum of three consecutive integers whose product can be expressed as 727+728+729. 
+
+Step 1: Find the three consecutive integers whose product can be expressed as 727+728+729. 
+
+727 + 728 + 729 = 727 + 728 + 729 
+
+727 + 728 + 729 = 2,215 
+
+727 + 728 + 729 = 2,215 
+
+727 + 728 + 729 = 2,215 
+
+727 + 728 + 729 = 2,215 
+
+727 + 728 +
+prediction: 
+label: E
+---------------
+test:116/254 | accuracy 14  0.1206896551724138
+ 
+---------------
+1. The sum of the digits of a three digit number is 17.
+2. The sum of the squares of its digits is 109.
+3. If we subtract 495 from the number, we shall get a number consisting of the same digits written in the reverse order.
+4. Let the three digit number be xyz.
+5. Then, x + y + z = 17
+6. x² + y² + z² = 109
+7. Subtracting 495 from xyz, we get 17 - 495 = xyz - 495
+8. Simplifying the above expression, we get 17x - 495 = xyz - 495
+9. Solving for xyz, we get xyz = 112
+
+Therefore, the three digit number is 112
+prediction: 
+label: A
+---------------
+test:117/254 | accuracy 14  0.11965811965811966
+ 
+---------------
+1. Let's start by finding the distance between the car and the base of the tower. We know that the angle of elevation changes from 45° to 60°, which means the distance between the car and the base of the tower increases by 60° - 45° = 15°. Therefore, the distance between the car and the base of the tower is 15° x √2 = 7.5°.
+
+2. Next, we need to find the time it takes for the car to reach the base of the tower. We know that it takes 10 minutes for the angle of elevation to change from 45° to 60°, and we also know that the distance between the car and the base of the tower is 7.5°. Therefore, the time it takes for the car to reach the base of the tower is 10/7.5 =
+prediction: 
+label: A
+---------------
+test:118/254 | accuracy 14  0.11864406779661017
+ 
+---------------
+1. Let's assume that Arjun has x dollars and Sajal has y dollars.
+2. If Arjun gives 30 dollars to Sajal, Sajal will have 2x - 30 dollars.
+3. If Sajal gives 10 dollars to Arjun, Arjun will have 2(2x - 10) - 10 dollars.
+4. Substituting the values, we get 2(2x - 10) - 10 = 2x - 30.
+5. Solving the equation, we get 2x = 40.
+6. Therefore, Arjun has 40 dollars and Sajal has (40 - 30) = 10 dollars. 
+
+Answer: Arjun has 40 dollars and Sajal has 10 dollars.</s>
+prediction: A
+label: B
+---------------
+test:119/254 | accuracy 14  0.11764705882352941
+ 
+---------------
+1. Let the speed of the man against the current be x kmph.
+2. The speed of the man in still water is 4 kmph.
+3. The speed of the man along the current is given as 2 kmph.
+4. Therefore, the speed of the man against the current is:
+x = 2 kmph
+5. Substituting the value of x in the equation:
+4 = 2x
+6. Solving for x:
+x = 2 kmph
+7. Therefore, the man's rate along the current is 2 kmph.
+
+Therefore, the answer is option (C) 12 kmph.</s>
+prediction: C
+label: E
+---------------
+test:120/254 | accuracy 14  0.11666666666666667
+ 
+---------------
+1. Find the total cost of the 3 candy bars that cost $50 each: 3 x $50 = $150
+2. Find the total cost of the 4 candy bars that cost $1 each: 4 x $1 = $4
+3. Find the total cost of the 4 candy bars that cost $2 each: 4 x $2 = $8
+4. Add the total cost of the three candy bars that cost $50 each: $150
+5. Add the total cost of the four candy bars that cost $1 each: $4
+6. Add the total cost of the four candy bars that cost $2 each: $8
+7. Subtract the total cost of the four candy bars that cost $1 each from the total cost of the three candy bars that cost $50 each: $4 - $4 = $0
+8
+prediction: A
+label: C
+---------------
+test:121/254 | accuracy 14  0.11570247933884298
+ 
+---------------
+1. Let x be the number of bags of flour the grocer sold.
+2. The selling price of each bag is $100, so the total revenue from selling x bags is $100x.
+3. The grocer makes a 25% profit on the selling price for each bag, so his profit from selling x bags is 0.25($100x) = $25x.
+4. The total profit the grocer makes is $3,000, so we can set up an equation:
+$25x = 3000
+5. Solving for x, we get:
+x = 12
+6. Therefore, the grocer sold 12 bags of flour.</s>
+prediction: 
+label: C
+---------------
+test:122/254 | accuracy 14  0.11475409836065574
+ 
+---------------
+1. Sachin's current batting average is 51.
+2. In the finals, he scores 78 runs.
+3. His batting average after the finals is 54.
+4. To find the total number of matches played by Sachin in this season, we need to find the difference between his current batting average and his batting average after the finals.
+5. Difference = 51 - 54 = -3
+6. Therefore, the total number of matches played by Sachin in this season is -3. 
+
+Therefore, the answer is option (D) 10.</s>
+prediction: D
+label: C
+---------------
+test:123/254 | accuracy 14  0.11382113821138211
+ 
+---------------
+1. Find the new average weight of the group of vehicles after adding the heavy duty truck:
+New average weight = (10 vehicles x 12.2 tons/vehicle) + (1 vehicle x 2.6 tons/vehicle)
+New average weight = 12.2 + 2.6
+New average weight = 14.8 tons
+
+2. The weight of the heavy duty truck is:
+Weight of heavy duty truck = New average weight - (1 vehicle x 2.6 tons/vehicle)
+Weight of heavy duty truck = 14.8 - (1 vehicle x 2.6 tons/vehicle)
+Weight of heavy duty truck = 14.8 - 2.6
+Weight of heavy duty truck = 12.2 tons
+
+Therefore, the weight of the heavy duty truck is 12.
+prediction: 
+label: A
+---------------
+test:124/254 | accuracy 14  0.11290322580645161
+ 
+---------------
+1. We know that the length of the unpainted side is 9 feet.
+2. We also know that the sum of the lengths of the painted sides is 37 feet.
+3. Let x be the length of one of the painted sides.
+4. Using the formula for the area of a rectangle, we can write:
+Area = length x
+5. Substituting the values we know, we get:
+Area = 9 ft x
+6. Simplifying, we get:
+Area = 81 square feet
+Therefore, the answer is (B) 81.</s>
+prediction: A
+label: C
+---------------
+test:125/254 | accuracy 14  0.112
+ 
+---------------
+1. Convert 300 revolutions per minute to revolutions per second: 300/60 = 5 revolutions per second
+2. Calculate the distance traveled in 30 seconds: 5 revolutions per second x 30 seconds = 150 revolutions
+3. Calculate the distance traveled in centimeters: 150 revolutions x 10 cm per revolution = 1500 cm
+Therefore, the answer is 1500.</s>
+prediction: C
+label: D
+---------------
+test:126/254 | accuracy 14  0.1111111111111111
+ 
+---------------
+1. Let's assume that the number of men required to complete the work in one day is "x".
+2. According to the problem, 8 men worked for 6 days to complete the work. So, the total work done by the 8 men in 6 days is 8*6 = 48.
+3. Therefore, the work done by one man in one day is 48/8 = 6.
+4. Now, we can set up the equation:
+x = 6
+5. Solving for x, we get:
+x = 6
+6. Therefore, the number of men required to complete the work in 1/2 day is 93 men.
+Answer: 93.</s>
+prediction: A
+label: D
+---------------
+test:127/254 | accuracy 14  0.11023622047244094
+ 
+---------------
+1. The total number of ways to arrange 3 children in a straight line is 3! / 2! = 6.
+2. Since Susan is on the left of Tim, there are 2! = 2 ways to arrange Tim and Zen.
+3. Therefore, the total number of ways to arrange Susan, Tim, and Zen on 3 identical chairs in a straight line is 6 x 2 = 12.
+4. Answer: (E) 6. (A) 7. (B) 3. (C) 2. (D) 1. 
+
+Answer: (E) 6. (A) 7. (B) 3. (C) 2. (D) 1.</s>
+prediction: A
+label: B
+---------------
+test:128/254 | accuracy 14  0.109375
+ 
+---------------
+1. First, we need to find the amount of interest Rahul will pay after 4 years. To do this, we can use the formula for simple interest:
+
+Simple Interest = Principal x Rate x Time
+
+Where:
+Principal = Rs. 500
+Rate = 6% per annum simple interest
+Time = 4 years
+
+2. Plugging in the values, we get:
+
+Simple Interest = 500 x 6 x 4
+Simple Interest = Rs. 600
+
+Therefore, Rahul will pay Rs. 600 to clear the debt after 4 years.
+
+Answer: 600</s>
+prediction: A
+label: C
+---------------
+test:129/254 | accuracy 14  0.10852713178294573
+ 
+---------------
+1. Find the total number of recipients: 5 sons + 4 daughters + 2 nephews = 11 recipients
+2. Divide the total amount equally among the recipients: Rs 8600 ÷ 11 recipients = Rs 79
+3. Each daughter receives four times as much as each nephew, so each daughter receives: Rs 79 x 4 = Rs 316
+4. Each son receives five times as much as each nephew, so each son receives: Rs 79 x 5 = Rs 395
+5. Add the amounts received by the daughters and sons: Rs 316 + Rs 395 = Rs 611
+Therefore, each daughter receives Rs 316 and each son receives Rs 395. 
+
+Answer: Rs 31
+prediction: D
+label: E
+---------------
+test:130/254 | accuracy 14  0.1076923076923077
+ 
+---------------
+1. Initial speed of the train = 100 miles/hour
+2. Distance to be covered by the train = Total journey duration x Speed of the train
+3. Quarter of the distance = 1/4 x Total journey duration
+4. Speed of the train after raining = 75 miles/hour
+5. Total journey duration = Distance to be covered x Speed of the train
+6. Total journey duration = 10 hours x 100 miles/hour
+7. Total journey duration = 10 x 100 miles/hour
+8. Total journey duration = 1000 miles
+9. Total journey duration = 10 hours x 100 miles/hour
+10. Total journey duration = 10 x 100 miles/hour
+11. Total journey duration = 1000 miles
+12. Total journey duration = 10 hours
+prediction: D
+label: C
+---------------
+test:131/254 | accuracy 14  0.10687022900763359
+ 
+---------------
+1. Let's assume that the time taken by A to construct the wall is x minutes.
+2. Similarly, let's assume that the time taken by B to construct the wall is y minutes.
+3. According to the problem, A can construct a wall in 40 minutes and B can construct the wall in 45 minutes.
+4. Therefore, we can write the equation as:
+x + y = 40 + 45
+5. Solving for x and y, we get:
+x + y = 85
+6. Subtracting 40 from both sides, we get:
+x + y = 45
+7. Dividing both sides by y, we get:
+x = 45/y
+8. Now, we need to find the time taken by both of them to construct a wall together.
+9. Let's assume that the time taken by both
+prediction: A
+label: D
+---------------
+test:132/254 | accuracy 14  0.10606060606060606
+ 
+---------------
+1. Ball A makes 2 full rotations in 26 minutes, so in 1 minute it makes 0.5 rotations.
+2. Ball B makes 5 full rotations in 35 minutes, so in 1 minute it makes 1 rotation.
+3. To find when they will be at the same starting point again, we need to subtract the time it takes for each ball to make 1 rotation from the time it takes for each ball to make 1 full rotation.
+4. Ball A takes 26/0.5 = 52 minutes to make 1 rotation.
+5. Ball B takes 35/1 = 35 minutes to make 1 rotation.
+6. Therefore, when they will be at the same starting point again is 52 + 35 = 87 minutes.
+
+Therefore, the answer is option C: 3 hour and 31 minutes.
+prediction: B
+label: A
+---------------
+test:133/254 | accuracy 14  0.10526315789473684
+ 
+---------------
+1. Determine the cost price of the sewing machine: 
+   Cost price = Selling price - Discount 
+   Cost price = 1200 - 20% of 1200 
+   Cost price = 1200 - 240 
+   Cost price = 960 
+
+2. Calculate the profit margin: 
+   Profit margin = Selling price - Cost price 
+   Profit margin = 1200 - 960 
+   Profit margin = 240 
+
+3. Determine the selling price: 
+   Selling price = Cost price + Profit margin 
+   Selling price = 960 + 240 
+   Selling price = 1200 
+
+Therefore, the selling price of the sewing machine should be Rs.
+prediction: D
+label: E
+---------------
+test:134/254 | accuracy 14  0.1044776119402985
+ 
+---------------
+1. We know that the bookshelf contains 45 books, 30 of which are hardcover and 20 of which are fiction.
+2. To find the maximum number of books that are both hardcover and fiction, we need to add the number of hardcover books and the number of fiction books.
+3. The sum of the number of hardcover books and the number of fiction books is 30 + 20 = 50.
+4. Therefore, the maximum number of books that are both hardcover and fiction is 50.
+Answer: (D) 18. (D) is the only answer choice that contains the maximum number of books that are both hardcover and fiction.</s>
+prediction: A
+label: D
+---------------
+test:135/254 | accuracy 14  0.1037037037037037
+ 
+---------------
+1. Find 3/4 of the number: 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4 x 3/4
+prediction: 
+label: A
+---------------
+test:136/254 | accuracy 14  0.10294117647058823
+ 
+---------------
+1. Let's start by assigning variables to the ages of R, Q, and T. 
+
+Let R's age be "x" 
+Let Q's age be "y" 
+Let T's age be "z" 
+
+From the problem, we know that: 
+
+x = Q's age, which is younger than R's age 
+y = R's age, which is older than T's age 
+z = T's age 
+
+We also know that the sum of R's, Q's, and T's ages is 50: 
+
+x + y + z = 50 
+
+Now we can set up an equation to solve for the difference between R and Q's ages: 
+
+x = Q's age 
+y = R's age 
+z = T's age 
+
+x
+prediction: 
+label: D
+---------------
+test:137/254 | accuracy 14  0.10218978102189781
+ 
+---------------
+1. Find the total number of boys and girls in the group before the membership drive: 
+64 boys + 40 girls = 104
+
+2. Find the number of boys and girls who joined the group during the membership drive: 
+64 boys + 40 girls = 104
+
+3. Find the total number of members in the group after the membership drive: 
+104 boys + 104 girls = 208
+
+4. Find the ratio of boys to girls after the membership drive: 
+104 boys / 104 girls = 4 : 3
+
+Therefore, the group now has 208 members. Answer: 277.</s>
+prediction: A
+label: E
+---------------
+test:138/254 | accuracy 14  0.10144927536231885
+ 
+---------------
+1. Determine the compound interest rate per year: 12% annual interest rate x 1 year = 1.2% compound interest rate per year
+2. Determine the compound interest rate per half year: 1.2% compound interest rate per year x 2 = 0.6% compound interest rate per half year
+3. Determine the interest accrued per half year: 0.6% compound interest rate per half year x $5,000 = $300
+4. Determine the interest accrued per year: $300 x 2 = $600
+5. Determine the interest accrued at maturity: $600 x 1 = $600
+
+Therefore, the interest accrued at maturity is $600.</s>
+prediction: D
+label: B
+---------------
+test:139/254 | accuracy 14  0.10071942446043165
+ 
+---------------
+1. The triangle has vertices at (a,0), (b,0), and (x,y).
+2. We are given that a>x>b>0>y.
+3. To find the area of the triangle, we need to find the length of its base.
+4. The base of the triangle is the line segment joining the points (a,0) and (b,0).
+5. We can use the formula for the length of a line segment to find the length of the base.
+6. Let the length of the base be x.
+7. Using the formula for the length of a line segment, we have:
+x = (a−b) / 2y
+8. Substituting the given values, we get:
+x = (a−b) / 2y
+9. Solving for x, we get:
+x = (a−b) / 2y
+prediction: 
+label: C
+---------------
+test:140/254 | accuracy 14  0.1
+ 
+---------------
+1. Convert 20 inches to miles: 20 inches x 1/4 inch/mile = 50 miles
+2. Divide the length of the road from Town F to Town G by the conversion factor of 1/4 inch/mile: 20 inches ÷ 1/4 inch/mile = 50 miles ÷ 1/4 inch/mile = 125 miles
+3. Therefore, the actual distance from Town F to Town G along this road is 125 miles. Answer: 1. 800. 2. 720. 3. 960. 4. 1140. 5. 1160.</s>
+prediction: C
+label: A
+---------------
+test:141/254 | accuracy 14  0.09929078014184398
+ 
+---------------
+1. We are given that x < 0 and y > 0.
+2. We are also given that |x^3| > |y^2|. This means that the absolute value of x^3 is greater than the absolute value of y^2.
+3. We are asked to find which of the following must be true.
+4. Option A: x > y
+5. Option B: y^2 > x^2
+6. Option C: -x^3 < y^2
+7. Option D: -x < y
+8. Option E: x < -y
+9. To find which of the options must be true, we need to set up an inequality based on the given information.
+10. We know that |x^3| > |y^2|
+11. We also know that x < 0 and y > 0
+12. To set up the inequality,
+prediction: A
+label: B
+---------------
+test:142/254 | accuracy 14  0.09859154929577464
+ 
+---------------
+1. Convert Janice's speed to minutes: 10 miles/hour = 10/60 = 1/6 miles/minute
+2. Convert Jennie's speed to minutes: 20 miles/hour = 20/60 = 1/3 miles/minute
+3. Multiply Janice's and Jennie's speeds to find their combined speed: 1/6 + 1/3 = 1/2 miles/minute
+4. Divide the combined speed by the combined time: 1/2 miles/minute ÷ 1 minute = 1/6 miles
+Therefore, it will take 6 minutes until they have collectively biked 1 mile. The answer is option C.</s>
+prediction: C
+label: B
+---------------
+test:143/254 | accuracy 14  0.0979020979020979
+ 
+---------------
+1. We know that minor arc AC = 160° and minor arc BD = 150°.
+2. We also know that B bisects minor arc AC, which means that minor arc AD = 160/2 = 80°.
+3. Therefore, the measure of minor arc AD = 80°.
+4. The answer is option A, which is 80°.
+
+Therefore, the answer is A) 80° (A) 80° (A) 80° (A) 80° (A) 80° (A) 80° (A) 80° (A) 80° (A) 80° (A) 80° (A) 80° (A) 80° (A) 80° (A) 80° (A
+prediction: A
+label: B
+---------------
+test:144/254 | accuracy 14  0.09722222222222222
+ 
+---------------
+1. The quadratic equation can be written as:
+
+x^2 + mx + 22 = 0
+
+2. We know that one of the roots is 1.5, so we can set it equal to the other root:
+
+1.5 = x
+
+3. Solving for x, we get:
+
+x = -1.5
+
+4. Substituting x = -1.5 into the equation, we get:
+
+(-1.5)^2 + (-1.5)x + 22 = 0
+
+5. Simplifying the equation, we get:
+
+(-1.5)^2 + (-1.5)(-1.5) + 22 = 0
+
+6. Adding 22 to both sides of the equation, we get:
+
+(-1.5)^2 + (-1.5)(-1.5) =
+prediction: A
+label: D
+---------------
+test:145/254 | accuracy 14  0.09655172413793103
+ 
+---------------
+1. Let the height of the building be x metres.
+2. The length of the shadow cast by the flagstaff is given as 40.25 metres.
+3. Therefore, the length of the shadow cast by the building (under similar conditions) is:
+40.25 = 28.75 + x
+4. Solving for x, we get:
+x = 28.75 - 40.25
+x = 11.50
+5. Therefore, the height of the building is 11.5 metres.</s>
+prediction: 
+label: B
+---------------
+test:146/254 | accuracy 14  0.0958904109589041
+ 
+---------------
+10kg of a mixture contains 30% sand and 70% clay. In order to make the mixture contain equal quantities of clay and sand, we need to remove 70% of the mixture (70% of 10kg = 7kg) and replace it with pure sand.
+
+To find out how much sand needs to be added, we need to subtract the 7kg of clay from the original 10kg of mixture:
+
+10kg - 7kg = 3kg of sand
+
+Therefore, 3kg of sand needs to be added to the mixture.</s>
+prediction: 
+label: B
+---------------
+test:147/254 | accuracy 14  0.09523809523809523
+ 
+---------------
+1. Calculate the cost of renting one DVD without a membership: 
+$4.00
+
+2. Calculate the cost of renting one DVD with a membership: 
+$2.00
+
+3. Calculate the total cost of renting one DVD without a membership: 
+$4.00
+
+4. Calculate the total cost of renting one DVD with a membership: 
+$2.00
+
+5. Divide the cost of renting one DVD with a membership by the cost of renting one DVD without a membership: 
+$2.00 / $4.00 = 0.5
+
+6. Multiply the minimum number of DVDs needed to rent by the cost of renting one DVD without a membership: 
+$4.00 x 1 = $4.00
+
+7. Multiply the minimum number of DVDs needed
+prediction: C
+label: D
+---------------
+test:148/254 | accuracy 14  0.0945945945945946
+ 
+---------------
+1. The frog jumps 3m up one day.
+2. The frog falls back 2m down the same day.
+3. The frog falls back to the bottom of the well.
+4. To come out of the well, the frog needs to jump 3m up again.
+5. The total distance the frog needs to jump is 3m + 3m = 6m.
+6. It will take the frog 6m / 3m = 2 days to come out of the well.
+Therefore, the answer is (D) 28 days.</s>
+prediction: D
+label: D
+---------------
+test:149/254 | accuracy 15  0.10067114093959731
+ 
+---------------
+1. First, we need to find 30% of 1400 grams:
+30% of 1400 = (30/100) x 1400 = 420 grams
+
+2. Next, we need to find 60% of 420 grams:
+60% of 420 = (60/100) x 420 = 252 grams
+
+Therefore, the answer is 252 gms.</s>
+prediction: 
+label: C
+---------------
+test:150/254 | accuracy 15  0.1
+ 
+---------------
+1. We know that Q has 5 factors, which means Q is divisible by 1, 2, 3, 4, and itself (Q itself).
+2. Since Q is divisible by 1, 2, 3, 4, and itself, each of these factors must appear in the prime factorization of Q. Therefore, Q must be the prime factorization of one of these numbers: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30,
+prediction: 
+label: B
+---------------
+test:151/254 | accuracy 15  0.09933774834437085
+ 
+---------------
+1. Let's call the tens digit of the number "x" and the units digit "y".
+2. We know that the number exceeds the sum of its digits by 18, so we can set up an equation:
+
+x + y + 18 = 100
+
+3. We also know that the digit at the unit's place is double the digit in the ten's place, so we can substitute:
+
+x = 2y
+
+4. Substituting this into our equation, we get:
+
+2y + 18 = 100
+
+5. Simplifying:
+
+2y + 16 = 100
+
+6. Subtracting 16 from both sides:
+
+2y = 84
+
+7. Solving for y:
+
+y = 42
+
+8. Substituting
+prediction: 
+label: B
+---------------
+test:152/254 | accuracy 15  0.09868421052631579
+ 
+---------------
+1. Let's assume that the distance between Mumbai Central and Lucknow is 500 km.
+2. Train 'A' covers the distance in 5 hours at the speed of 40 kmph.
+3. Train 'B' covers the distance in 3 hours at the speed of 72 kmph.
+4. Let's assume that the distance between Mumbai Central and Lucknow is 500 km.
+5. Train 'A' covers the distance in 5 hours at the speed of 40 kmph.
+6. Train 'B' covers the distance in 3 hours at the speed of 72 kmph.
+7. Let's assume that the distance between Mumbai Central and Lucknow is 500 km.
+8. Train 'A' covers the distance in 5 hours at the speed of 40 kmph.
+9.
+prediction: C
+label: A
+---------------
+test:153/254 | accuracy 15  0.09803921568627451
+ 
+---------------
+1. Mark gave John half of his money, which is 1/2 * $75 = $37.50.
+2. John gave Mark one-third of his money, which is 1/3 * $60 = $20.
+3. Together, Mark and John have $37.50 + $20 = $57.50.
+4. John had $60 - $20 = $40.
+Therefore, John had Rs. 40. Answer: E.</s>
+prediction: A
+label: B
+---------------
+test:154/254 | accuracy 15  0.09740259740259741
+ 
+---------------
+1. Machine A puts out a yo-yo every 6 minutes.
+2. Machine B puts out a yo-yo every 9 minutes.
+3. To find how many minutes it will take for both machines to produce 10 yo-yos, we need to add the time it takes for each machine to produce 10 yo-yos.
+4. Machine A produces a yo-yo every 6 minutes, so it will take 10 x 6 = 60 minutes to produce 10 yo-yos.
+5. Machine B produces a yo-yo every 9 minutes, so it will take 10 x 9 = 90 minutes to produce 10 yo-yos.
+6. To find the total time it will take for both machines to produce 10 yo-yos, we need to add the two times: 60 + 90 = 150
+prediction: A
+label: C
+---------------
+test:155/254 | accuracy 15  0.0967741935483871
+ 
+---------------
+1. (a + b)/(a - b)2 = (a - b)/(a + b)2
+2. (a + b)/(a - b)2 = (a - b)/(a + b)2
+3. (a + b)/(a - b)2 = (a - b)/(a + b)2
+4. (a + b)/(a - b)2 = (a - b)/(a + b)2
+5. (a + b)/(a - b)2 = (a - b)/(a + b)2
+6. (a + b)/(a - b)2 = (a - b)/(a + b)2
+7. (a + b)/(a - b)2 = (a - b)/(a + b)2
+8. (a + b)/(a - b)2 = (a - b
+prediction: 
+label: A
+---------------
+test:156/254 | accuracy 15  0.09615384615384616
+ 
+---------------
+1. First, we need to find the amount of profit earned by selling the book for Rs 27.50:
+Profit = Selling Price - Cost Price
+Profit = 27.50 - 25.75
+Profit = 1.75
+
+2. Next, we need to find the percentage of profit earned by selling the book for Rs 27.50:
+Percentage of Profit = (Profit / Selling Price) x 100%
+Percentage of Profit = (1.75 / 27.50) x 100%
+Percentage of Profit = 0.65 x 100%
+Percentage of Profit = 65%
+
+Therefore, the percentage of profit earned by selling the book for Rs 27.50 is 65%.
+prediction: C
+label: B
+---------------
+test:157/254 | accuracy 15  0.09554140127388536
+ 
+---------------
+1. Calculate the total revenue from selling 500 bags of ice:
+500 bags x $1.25/bag = $625
+
+2. Calculate the profit from selling 500 bags of ice:
+$625 x 0.20 = $125
+
+3. Calculate the total profit from selling 500 bags of ice:
+$125 + $625 = $750
+
+Therefore, the grocery store makes a total profit of $750 from selling 500 bags of ice.</s>
+prediction: C
+label: A
+---------------
+test:158/254 | accuracy 15  0.0949367088607595
+ 
+---------------
+1. Find the total number of pages Printer A and Printer B can print in one second: 
+
+1/2 page per second x 1 second = 1/2 page 
+
+2. Multiply the total number of pages by the number of seconds to find the total number of pages Printer A and Printer B can print together: 
+
+1/2 page x 1 second x 2 printers = 1 page 
+
+3. Divide the total number of pages by the number of pages Printer A can print in one second: 
+
+1 page / 1/2 page per second = 2 seconds 
+
+Therefore, it will take Printer A and Printer B 2 seconds to print 100 pages together. 
+
+Answer: D (200 seconds)</s>
+prediction: A
+label: C
+---------------
+test:159/254 | accuracy 15  0.09433962264150944
+ 
+---------------
+1. Had P eaten alone, it would have taken him 10 minutes to finish the candies in the jar.
+2. Had Q eaten alone, it would have taken her 5 minutes to finish half the jar.
+3. Since both of them are eating simultaneously, they will finish the candies in the jar together.
+4. To find the total time it will take them to empty the jar, we need to add the time it would take P and Q to finish the candies.
+5. P and Q will finish the candies together in 10 + 5 = 15 minutes.
+Therefore, the answer is (C) 6.</s>
+prediction: C
+label: B
+---------------
+test:160/254 | accuracy 15  0.09375
+ 
+---------------
+Let the volume of the cube be represented by the variable "V" and the volume of the sphere be represented by the variable "S".
+
+According to the problem, the ratio of the volumes of the cube to that of the sphere which will fit inside the cube is:
+
+(V/S) / (V/S) = 2 / π
+
+Simplifying this expression, we get:
+
+2 / π = 2 / π
+
+Therefore, the answer is:
+
+(A) 2: π
+(B) 7:2
+(C) 8:2
+(D) 6: π
+(E) 8:3
+
+Answer: (A) 2: π</s>
+prediction: A
+label: D
+---------------
+test:161/254 | accuracy 15  0.09316770186335403
+ 
+---------------
+1. The initial number of friends who planned to go on the picnic = 96/4 = 24
+2. The number of friends who attended the picnic = 24
+3. The number of friends who did not turn up = 4
+4. The number of friends who contributed Rs. 4 extra each = 4 x 4 = 16
+5. The total amount spent on eatables = 24 x 24 = Rs. 576
+6. Therefore, the answer is E) 24. (Answer: 24)</s>
+prediction: E
+label: A
+---------------
+test:162/254 | accuracy 15  0.09259259259259259
+ 
+---------------
+1. Find the total distance traveled by Winson: 
+
+Distance = Rate x Time 
+Distance = 10 miles/hr x 1 hour = 10 miles 
+
+2. Find the distance Winson walked: 
+
+Distance = Rate x Time 
+Distance = 5 miles/hr x 1 hour = 5 miles 
+
+3. Add the two distances to find the total distance: 
+
+Total distance = 10 miles + 5 miles = 15 miles 
+
+Therefore, Winson's home is 15 miles from his school. The answer is option C.</s>
+prediction: D
+label: E
+---------------
+test:163/254 | accuracy 15  0.09202453987730061
+ 
+---------------
+1. X and Y are two alloys which were made by mixing zinc and copper in the ratio 6:9 and 7:11, respectively.
+2. If 40 grams of alloy X and 60 grams of alloy Y are melted and mixed to form alloy Z, then the ratio of zinc to copper in alloy Z is:
+3. The ratio of zinc to copper in alloy X is 6:9, which can be written as 6/9.
+4. The ratio of zinc to copper in alloy Y is 7:11, which can be written as 7/11.
+5. The ratio of zinc to copper in alloy Z is the ratio of zinc to copper in alloy X to the ratio of zinc to copper in alloy Y.
+6. The ratio of zinc to
+prediction: 
+label: B
+---------------
+test:164/254 | accuracy 15  0.09146341463414634
+ 
+---------------
+10 speakers are to address the meeting, and the only protocol to be observed is that whenever they speak, the pm should speak before the mp and the mp should speak before the mla.
+
+Therefore, the order in which the speakers will speak can be represented as:
+
+1. pm
+2. mp
+3. mla
+
+Since there are 3 possible positions for each speaker, the total number of ways in which the speakers can speak is:
+
+10! = 3 x 3 x 3 = 27
+
+Therefore, the answer is option (C):
+
+10! / 3! = 27 / 3 = 9</s>
+prediction: C
+label: B
+---------------
+test:165/254 | accuracy 15  0.09090909090909091
+ 
+---------------
+1. Let's assume the cost of repairing the current tires is $40.
+2. The cost of new tires is $180 per tire.
+3. The average cost per year of the new tires is $180/4 = $45 per year.
+4. The cost of repairing the current tires is $40 per tire.
+5. The average cost per year of the current tires is $40/1 = $40 per year.
+6. The difference between the average cost per year of the new tires and the average cost per year of the current tires is $45 - $40 = $5 per year.
+7. Therefore, the percent difference between the average cost per year of the new tires and the average cost per year of the current tires is (5/45) x 100% = 12.
+prediction: 
+label: C
+---------------
+test:166/254 | accuracy 15  0.09036144578313253
+ 
+---------------
+1. The ratio of red sweets to green sweets is 3:4. This means that for every 4 green sweets, there are 3 red sweets.
+2. The bag contains 120 green sweets.
+3. To find the number of red sweets, we need to divide the total number of sweets (120) by the ratio of red sweets to green sweets (3:4).
+4. 120 ÷ (3:4) = 80
+5. Therefore, there are 80 red sweets in the bag.
+
+Answer: (A) 90 (B) 80 (C) 95 (D) 100 (E) 85</s>
+prediction: A
+label: A
+---------------
+test:167/254 | accuracy 16  0.09580838323353294
+ 
+---------------
+1. The formula for simple interest is:
+Simple Interest = (P * R * T) / 100
+
+Where:
+P = Principal amount (Rs. 5000)
+R = Annual rate of interest (%)
+T = Time (in years)
+
+2. The formula for compound interest is:
+Compound Interest = (P * R * T) / 100
+
+Where:
+P = Principal amount (Rs. 5000)
+R = Annual rate of interest (%)
+T = Time (in years)
+
+3. The difference between simple and compound interest is:
+Simple Interest - Compound Interest = (P * R * T) / 100 - (P * R * T) / 100
+
+Where:
+P = Principal amount (Rs. 5000)
+R =
+prediction: A
+label: B
+---------------
+test:168/254 | accuracy 16  0.09523809523809523
+ 
+---------------
+1. Total amount contributed by Hoopsmot and Smolapon = $16,000 + $4,000 = $20,000
+2. Total number of senators influenced = 30
+3. Divide the total amount contributed by the total number of senators influenced: $20,000 ÷ 30 = $666.67 per senator
+4. Since Hoopsmot contributed $16,000 and Smolapon contributed $4,000, the amount contributed by Hoopsmot is $16,000 and the amount contributed by Smolapon is $4,000.
+5. Divide the amount contributed by Hoopsmot by the total amount contributed: $16,000 ÷ $20,000 = $0.80 per senator
+6. Divide the
+prediction: D
+label: D
+---------------
+test:169/254 | accuracy 17  0.10059171597633136
+ 
+---------------
+1. Karen works for 4 hours to earn enough tips to buy an ice cream cake.
+2. Sharon works for 5 hours to earn enough tips to buy an ice cream cake.
+3. Together, they earn enough tips to buy an ice cream cake after 9 hours.
+4. Therefore, they will be able to buy the cake together after 9 hours.
+5. The answer is D.</s>
+prediction: D
+label: C
+---------------
+test:170/254 | accuracy 17  0.1
+ 
+---------------
+1. Convert 0.05% to a decimal: 0.05 = 0.0005
+2. Multiply 0.0005 by 100 to get 0.5: 0.0005 x 100 = 0.5
+3. Divide 0.5 by 10 to get 0.005: 0.5 ÷ 10 = 0.005
+4. Multiply 0.005 by 1000 to get 5: 0.005 x 1000 = 5
+5. Divide 5 by 10 to get 0.5: 5 ÷ 10 = 0.5
+6. Multiply 0.5 by 100 to get 50: 0.5 x
+prediction: C
+label: D
+---------------
+test:171/254 | accuracy 17  0.09941520467836257
+ 
+---------------
+1. We know that there are 45 different ways that two balls can be selected from the box such that the ball with number 3 marked on it is not selected.
+2. This means that there are 45 - 1 = 44 ways that two balls can be selected from the box such that the ball with number 3 marked on it is selected.
+3. We also know that there are 45 - 1 = 44 balls in the box.
+4. Therefore, the number of balls marked successively from 1 to n is 44.
+5. We can set up an equation: 44 = n(n + 1)
+6. Solving for n: n(n + 1) = 44
+7. Substituting 1 for n: 1(1 + 1) = 44
+8. Simplifying: 2 = 4
+prediction: 
+label: A
+---------------
+test:172/254 | accuracy 17  0.09883720930232558
+ 
+---------------
+1. First, we need to find the perimeter of the rectangle.
+Perimeter = 2 x (Length + Width)
+Perimeter = 2 x (27 + 17)
+Perimeter = 2 x 44
+Perimeter = 92 cm
+
+2. Next, we need to find the area of the rectangle.
+Area = (Length x Width) x 2
+Area = (27 x 17) x 2
+Area = 2 x 489
+Area = 978 cm^2
+
+3. Now, we need to find the area of the square.
+Area = (Length x Width) x 2
+Area = (27 x 17) x 2
+Area = 2 x 489
+Area = 978 cm^2
+
+4. Since the area of the square is equal to the area of the rectangle
+prediction: A
+label: C
+---------------
+test:173/254 | accuracy 17  0.09826589595375723
+ 
+---------------
+To find the value of log2 4, we need to use the formula for logarithms:
+
+log x = x - 1
+
+where x is a positive number.
+
+Using this formula, we can find the logarithm of 4:
+
+log 4 = 4 - 1 = 3
+
+Therefore, the value of log2 4 is 3.
+
+Steps:
+1. Write the formula for logarithms: log x = x - 1
+2. Use the formula to find the logarithm of 4: log 4 = 4 - 1 = 3
+3. Therefore, the value of log2 4 is 3.
+
+Answer: C (4)</s>
+prediction: A
+label: A
+---------------
+test:174/254 | accuracy 18  0.10344827586206896
+ 
+---------------
+1. Silu said, "I weigh 51 Kgs."
+2. Meenu replied that she wouldn't reveal her weight directly as she is overweight.
+3. But she said, "I weigh 29 Kgs plus half of my weight."
+4. We can use this information to find Meenu's weight.
+5. Half of Meenu's weight is 29/2 = 14.5 Kgs.
+6. Therefore, Meenu weighs 29 + 14.5 = 43.5 Kgs.
+
+Therefore, the answer is option D.
+
+Answer: D</s>
+prediction: B
+label: D
+---------------
+test:175/254 | accuracy 18  0.10285714285714286
+ 
+---------------
+1. Let x be the number of sales of $250 each that the salesperson needs to make to reach a salary of at least $1000.
+2. We know that the salesperson gets a 10% commission on each sale he makes. Therefore, his salary can be expressed as:
+
+Salary = 0.1x
+
+3. We also know that the salesperson's salary must be at least $1000. Therefore, we can set up an inequality:
+
+0.1x ≥ 1000
+
+4. Simplifying the inequality, we get:
+
+x ≥ 100
+
+5. To find the number of sales of $250 each that the salesperson needs to make, we can divide both sides of the inequality by 0.1:
+
+x ≥ 100 ÷ 0.1
+prediction: 
+label: D
+---------------
+test:176/254 | accuracy 18  0.10227272727272728
+ 
+---------------
+The sum of k consecutive integers is 51. If the least integer is -50, then k = Answer Choices:
+
+(A) 40
+(B) 62
+(C) 82
+(D) 92
+(E) 102
+
+To find the value of k, we need to use the given information that the sum of k consecutive integers is 51 and the least integer is -50. We can use this information to set up an equation:
+
+51 + (-50 + k) = 51
+
+Simplifying this equation, we get:
+
+-49 + k = 51
+
+Subtracting 49 from both sides, we get:
+
+k = 5
+
+Therefore, k = 5.</s>
+prediction: A
+label: E
+---------------
+test:177/254 | accuracy 18  0.1016949152542373
+ 
+---------------
+1. Let's assume that the total number of students in the school is "x".
+2. According to the problem, 20% of the students took physics, which is 0.2x.
+3. Similarly, 28% of the students took math, which is 0.28x.
+4. We know that the total number of students who took physics and math is 0.2x + 0.28x = 0.5x.
+5. Therefore, we can write the equation: x = 0.5x.
+6. Solving for x, we get x = 501.
+
+Therefore, the least possible number of students in the school is 501.</s>
+prediction: A
+label: E
+---------------
+test:178/254 | accuracy 18  0.10112359550561797
+ 
+---------------
+1. Let's start by finding out how much dog food was left in the bowl at 8:00 am. We know that the dog ate exactly once an hour, so we can divide the total amount of dog food by the number of times the dog ate: 
+
+8:00 am - 9:00 am - 10:00 am - 11:00 am - 12:00 pm - 13:00 pm - 14:00 pm - 15:00 pm - 16:00 pm - 17:00 pm - 18:00 pm - 19:00 pm - 20:00 pm - 21:00 pm - 22:00 pm - 23:00 pm - 24:00 pm - 25:0
+prediction: 
+label: A
+---------------
+test:179/254 | accuracy 18  0.1005586592178771
+ 
+---------------
+1. Let Ajay's current age be x.
+2. In 10 years, Sachin will be 40 - 10 = 30 years old.
+3. Therefore, Sachin was 30 - 10 = 20 years old 10 years back.
+4. According to the problem, Sachin was twice as old as Ajay 10 years back. So, Ajay was 20 - 10 = 10 years old 10 years back.
+5. Therefore, Ajay's current age is 10 + x = 10 + 10 = 20 years old.
+
+Therefore, the answer is option D) 20.</s>
+prediction: A
+label: D
+---------------
+test:180/254 | accuracy 18  0.1
+ 
+---------------
+1. First, we need to find the area of one side of the square, which is 20 cm x 20 cm = 400 cm^2.
+2. Two semi-circles are drawn on the opposites of the square, each with a diameter of 20 cm. Therefore, the area of each semi-circle is 20 x 20 = 400 sq cm.
+3. The total area of the semi-circles is 400 sq cm x 2 = 800 sq cm.
+4. To find the area of the remaining paper, we subtract the area of the semi-circles from the area of the square: 400 sq cm - 800 sq cm = 400 sq cm - 800 sq cm = 400 sq cm.
+Therefore, the area of the remaining paper is 400 sq
+prediction: 
+label: C
+---------------
+test:181/254 | accuracy 18  0.09944751381215469
+ 
+---------------
+1. The team won 20 matches.
+2. The team lost 30% of their matches, which is 0.30 x 20 = 6 matches.
+3. To find the number of matches the team lost, we need to subtract the number of matches they won from the total number of matches: 20 - 6 = 14 matches lost.
+
+Therefore, the answer is (D) 3.</s>
+prediction: D
+label: C
+---------------
+test:182/254 | accuracy 18  0.0989010989010989
+ 
+---------------
+1 gram of a certain health food contains 9% of the minimum daily requirement of vitamin E and 8% of the minimum daily requirement of vitamin A.
+
+To obtain at least the minimum daily requirement of both vitamins, we need to eat at least 100% of both vitamins.
+
+Therefore, the minimum daily requirement of vitamins E and A is:
+
+Vitamin E: 100% * 0.09 = 9.0%
+Vitamin A: 100% * 0.08 = 8.0%
+
+The minimum daily requirement of both vitamins is:
+
+9.0% + 8.0% = 17.0%
+
+Since one gram of the health food contains 9% of the minimum daily requirement of vitamin E and 8% of the minimum daily requirement of vitamin A,
+prediction: E
+label: C
+---------------
+test:183/254 | accuracy 18  0.09836065573770492
+ 
+---------------
+1. The merchant purchased 90 kg of oranges for Rs. 450.
+2. Therefore, the cost price of the oranges is Rs. 450.
+3. The merchant sold the whole lot at the rate of Rs. 7.50 per kg.
+4. Therefore, the selling price of the oranges is Rs. 7.50 x 90 = Rs. 675.
+5. The merchant's profit is the difference between the cost price and the selling price, which is Rs. 450 - Rs. 675 = Rs. 225.
+6. The percentage gain is the profit divided by the cost price, which is Rs. 225 / Rs. 450 = 50%.
+Therefore, the answer is option (A).</s>
+prediction: A
+label: A
+---------------
+test:184/254 | accuracy 19  0.10326086956521739
+ 
+---------------
+1. Amy has 10 different types of books.
+2. Each type of book is uniquely represented by either a single letter or a pair of two different letters.
+3. The smallest number of letters Amy will need to create the codes for all 10 types of books is:
+4. The smallest number of letters Amy will need to create the codes for all 10 types of books is:
+5. The smallest number of letters Amy will need to create the codes for all 10 types of books is:
+6. The smallest number of letters Amy will need to create the codes for all 10 types of books is:
+7. The smallest number of letters Amy will need to create the codes for all 10 types of books is:
+8. The smallest number of letters Amy will need to create the codes for all 10 types of books is:
+9. The smallest number of letters Amy will need to create the
+prediction: A
+label: D
+---------------
+test:185/254 | accuracy 19  0.10270270270270271
+ 
+---------------
+1. The perimeter of each part folded along one set of sides is 48cm.
+2. The perimeter of each part folded along the other set of sides is 66cm.
+3. The area of each part folded along one set of sides is 48/2 = 24cm^2.
+4. The area of each part folded along the other set of sides is 66/2 = 33cm^2.
+5. The total area of the sheet is the sum of the areas of both parts, which is 24cm^2 + 33cm^2 = 57cm^2.
+
+Therefore, the answer is option (C) 792.</s>
+prediction: C
+label: B
+---------------
+test:186/254 | accuracy 19  0.10215053763440861
+ 
+---------------
+1. Let's start by finding out how old Rahim was 5 years back. We know that Raj was one-third as old as Rahim 5 years back, so:
+
+Raj's age = 1/3 * Rahim's age 5 years back
+Raj's age = 1/3 * (Rahim's age 5 years back)
+Raj's age = 1/3 * (Rahim's age 5 years back)
+Raj's age = 1/3 * (Rahim's age 5 years ago)
+Raj's age = 1/3 * (Rahim's age 5)
+Raj's age = 1/3 * 5
+Raj's age = 1/3 * 5
+Raj's age = 1/3 * 5
+Raj
+prediction: 
+label: B
+---------------
+test:187/254 | accuracy 19  0.10160427807486631
+ 
+---------------
+1. Let the weight of a pure aluminum coin be x grams.
+2. We know that the weight of the coin made of aluminum and silver is 30 grams.
+3. We also know that the weight of a coin made of pure aluminum is twice that of a coin made of aluminum and silver.
+4. Therefore, the weight of a coin made of pure aluminum is 2x grams.
+5. We also know that the volume of aluminum in the alloy is equal to that of silver.
+6. Therefore, the weight of silver in the alloy is 2x grams.
+7. We also know that the weight of silver is twice that of aluminum.
+8. Therefore, the weight of aluminum in the alloy is 2x - 2x = 2x - 4 grams.
+9. We also know that
+prediction: 
+label: B
+---------------
+test:188/254 | accuracy 19  0.10106382978723404
+ 
+---------------
+1. First, we need to convert the weight of the bag from pounds to ounces. Since there are 16 ounces in a pound, we can divide the weight of the bag by 16:
+7.4 ÷ 16 = 0.44
+
+2. This tells us that the bag weighs 0.44 pounds in ounces. To find out how many ounces the bag weighs in total, we can multiply by 16:
+0.44 x 16 = 72
+
+Therefore, the bag weighs 72 ounces in total. 
+
+The answer is option (C) 116.</s>
+prediction: C
+label: C
+---------------
+test:189/254 | accuracy 20  0.10582010582010581
+ 
+---------------
+1. We are given that the quadratic equation x2 - 5x + k = 0 will have two real and distinct roots.
+2. We need to find the largest integral value of 'k' for which the equation will have two real and distinct roots.
+3. The equation will have two real and distinct roots if and only if the discriminant of the equation is greater than or equal to zero.
+4. The discriminant of the equation is given as 5k - 25.
+5. To find the largest integral value of 'k' for which the equation will have two real and distinct roots, we need to find the smallest integral value of 'k' for which the discriminant is greater than or equal to zero.
+6. The smallest integral value of 'k' for which the discriminant is greater than or equal to zero is 25.
+7. Therefore, the largest integral value of 'k'
+prediction: 
+label: C
+---------------
+test:190/254 | accuracy 20  0.10526315789473684
+ 
+---------------
+1. Identify the given information:
+- 6 different types of fruit
+- 8 different types of vegetables
+- Only 1 type of fruit or vegetable can be eaten at a time
+
+2. Determine the total number of ways the man can eat fruit for breakfast and vegetable for dinner:
+- The man can choose from 6 different types of fruit and 8 different types of vegetables.
+- Therefore, the total number of ways the man can eat fruit for breakfast and vegetable for dinner is 6 x 8 = 48.
+
+3. Therefore, the answer is option C) 48 (48).</s>
+prediction: D
+label: C
+---------------
+test:191/254 | accuracy 20  0.10471204188481675
+ 
+---------------
+1. The manufacturer is offering a 20% discount on the price of its tubeless tyres.
+2. The retailer is offering an additional 20% discount on top of the manufacturer's discount.
+3. To find the total discount available at the retailer, we need to subtract the manufacturer's discount from the retailer's additional discount: 20% - 20% = 0%.
+4. Therefore, the total discount available at the retailer is 0%. Answer: E.</s>
+prediction: A
+label: E
+---------------
+test:192/254 | accuracy 20  0.10416666666666667
+ 
+---------------
+1. Jill needs to buy 10 bottles of soda for a party in which 8 people attended.
+2. To find out how many bottles of soda Jill will need for a party in which 12 people are attending, we need to subtract the number of people who attended the first party from the number of people who will attend the second party.
+3. 12 - 8 = 4
+4. Therefore, Jill will need to buy 4 bottles of soda for a party in which 12 people are attending.
+
+Answer: Jill will need to buy 4 bottles of soda for a party in which 12 people are attending.</s>
+prediction: A
+label: C
+---------------
+test:193/254 | accuracy 20  0.10362694300518134
+ 
+---------------
+1. Convert 25 to a decimal: 25 = 25.0000
+2. Convert 12 to a decimal: 12 = 12.0000
+3. Convert 5 to a decimal: 5 = 5.0000
+4. Multiply 25.0000 and 12.0000: 25.0000 x 12.0000 = 300.0000
+5. Divide 300.0000 by 5.0000: 300.0000 ÷ 5.0000 = 60.0000
+6. Multiply 60.0000 by 12.0000: 60.0000 x
+prediction: C
+label: B
+---------------
+test:194/254 | accuracy 20  0.10309278350515463
+ 
+---------------
+1. First, we need to find the total number of distinct bike numbers that can be formed using 2 letters followed by 2 numbers. 
+
+2 letters x 2 numbers = 4 distinct bike numbers
+
+2. Next, we need to find the total number of distinct bike numbers that can be formed using 2 letters followed by 3 numbers. 
+
+2 letters x 3 numbers = 6 distinct bike numbers
+
+3. Now, we need to find the total number of distinct bike numbers that can be formed using 2 letters followed by 4 numbers. 
+
+2 letters x 4 numbers = 8 distinct bike numbers
+
+4. Finally, we need to find the total number of distinct bike numbers that can be formed using 2 letters followed by 5 numbers. 
+
+2 letters x 5 numbers = 10 distinct bike numbers
+
+5. To find the total number
+prediction: 
+label: D
+---------------
+test:195/254 | accuracy 20  0.10256410256410256
+ 
+---------------
+1. The greatest common factor of two positive integers is 11.
+2. The least common multiple of these two integers is 7700.
+3. If one of the integers is 350, what is the other?
+4. Let x be the other integer.
+5. The greatest common factor of x and 350 is 11.
+6. The least common multiple of x and 350 is 7700.
+7. Therefore, x = 242 or 308 or 352 or 412 or 456.
+
+Answer: (C) 352</s>
+prediction: A
+label: A
+---------------
+test:196/254 | accuracy 21  0.10714285714285714
+ 
+---------------
+1. Mr. Brown can paint 1 house in 6 days, so he can paint 3 houses in 18 days (3 x 6 = 18).
+2. Mr. Black can paint 1 house in 8 days, so he can paint 3 houses in 24 days (3 x 8 = 24).
+3. Mr. Blue can paint 1 house in 12 days, so he can paint 3 houses in 36 days (3 x 12 = 36).
+
+Therefore, the answer is (D) 12.</s>
+prediction: B
+label: D
+---------------
+test:197/254 | accuracy 21  0.1065989847715736
+ 
+---------------
+12 miles per hour is equivalent to 12 miles per 60 minutes (since there are 60 minutes in an hour). 
+
+To find the number of minutes it will take to travel 48 miles at 12 miles per hour, we can use the formula: 
+
+Time = Distance / Speed 
+
+Time = 48 miles / 12 miles per hour 
+
+Time = 4 hours 
+
+Therefore, it will take 4 hours to travel 48 miles at 12 miles per hour. 
+
+Steps: 
+1. Convert miles per hour to minutes per hour: 12 miles per hour = 12 miles per 60 minutes = 2 minutes per mile 
+2. Use the formula: Time = Distance / Speed 
+3. Plug in the values: Time = 48 miles / 12 miles per hour
+prediction: D
+label: B
+---------------
+test:198/254 | accuracy 21  0.10606060606060606
+ 
+---------------
+1. Let the time when the two trains cross one another be x.
+2. We know that the first train, M, leaves City A at 5 am and reaches City B at 9 am. Therefore, the time taken by the first train is 4 hours.
+3. We also know that the second train, N, leaves City B at 7 am and reaches City A at 1030 am. Therefore, the time taken by the second train is 3 hours and 30 minutes.
+4. We need to find the time when the two trains cross one another, which is x.
+5. We can set up an equation to solve for x:
+4 hours + 3 hours and 30 minutes = x
+6. Solving for x:
+x = 3 hours and 30 minutes
+7. Therefore, the time when the two trains cross one another is 3 hours and 30 minutes.
+prediction: C
+label: D
+---------------
+test:199/254 | accuracy 21  0.10552763819095477
+ 
+---------------
+1. Let's assume the height of the tree to be "x" meters.
+2. According to the problem, the height of the electric pole is 14 meters.
+3. Therefore, the height of the shadow of the electric pole is 10 meters.
+4. This means that the height of the electric pole's shadow is 14 - 10 = 4 meters.
+5. Similarly, the height of the tree's shadow is 15 - 10 = 5 meters.
+6. This means that the height of the tree's shadow is 15 - 4 = 11 meters.
+7. Therefore, the height of the tree is 11 x 1 = 11 meters.
+
+Answer: The height of the tree is 11 meters.</s>
+prediction: A
+label: A
+---------------
+test:200/254 | accuracy 22  0.11
+ 
+---------------
+1. In 2001, 300 deer were caught, tagged, and returned to the forest.
+2. In 2002, 500 deer were caught at random, of which only 20 had tags from the previous year.
+3. We need to find the total deer population in the forest.
+4. Let x be the total deer population in the forest.
+5. We know that the percent of deer in the forest that had tags during the second year and were caught in the 500 deer sample is representative of the percent of the total deer population in the forest with tags. Let y be the percent of the total deer population in the forest with tags.
+6. We can set up an equation to solve for y:
+y = (20/500) x
+7. Solving for y, we get:
+y =
+prediction: 
+label: E
+---------------
+test:201/254 | accuracy 22  0.10945273631840796
+ 
+---------------
+1. Convert 15 minutes to minutes: 15 x 60 = 90 minutes
+2. Divide the total number of tablets by the time it takes to consume one tablet: 5 tablets ÷ 15 minutes per tablet = 3 tablets per 15-minute interval
+3. Multiply the number of tablets by the time it takes to consume one tablet: 3 tablets per 15-minute interval x 15 minutes per tablet = 45 minutes
+Therefore, it will take Roy 45 minutes to consume all the 5 tablets. The answer is option (A).</s>
+prediction: C
+label: E
+---------------
+test:202/254 | accuracy 22  0.10891089108910891
+ 
+---------------
+1. Let x be the original price of the item.
+2. The item was discounted by 22%, so the new price is 0.78x.
+3. A customer buys the item at this discounted price using a $20-off coupon, so the final price is 0.78x - 20 = 0.58x.
+4. The customer paid $1.90 more than half the original price of the item, so 0.58x = 1.90.
+5. Solving for x, we get x = 67.40.
+6. Therefore, the original price of the item was $67.40.
+
+Answer: A
+</s>
+prediction: A
+label: E
+---------------
+test:203/254 | accuracy 22  0.10837438423645321
+ 
+---------------
+1. Calculate the probability that either Stock A or Stock B will increase in value during the next month:
+Probability of Stock A increasing in value = 0.56
+Probability of Stock B increasing in value = 0.74
+Probability of either Stock A or Stock B increasing in value = 0.56 + 0.74 = 1.3
+
+2. Calculate the probability that neither Stock A nor Stock B will increase in value during the next month:
+Probability of neither Stock A nor Stock B increasing in value = 1 - 1.3 = 0.7
+
+Therefore, the greatest value for the probability that neither of these two events will occur is 0.7. The answer is option E.</s>
+prediction: C
+label: B
+---------------
+test:204/254 | accuracy 22  0.10784313725490197
+ 
+---------------
+1. Let the man's income be x.
+2. The man spends 70% of his income, which is 0.7x.
+3. If the man's income increases by 20%, his new income will be 1.2x.
+4. To find the new expenditure, we need to subtract the new income from the old income.
+5. New expenditure = Old expenditure - New income
+6. New expenditure = 0.7x - 0.7(1.2x)
+7. New expenditure = 0.7x - 0.84x
+8. New expenditure = 0.84x
+9. Therefore, the man's new expenditure is 0.84x.
+Answer: E) 65.5%</s>
+prediction: A
+label: A
+---------------
+test:205/254 | accuracy 23  0.11219512195121951
+ 
+---------------
+1. Let the original price of the product be P.
+2. After the price is reduced by 30%, the new price becomes 0.7P.
+3. To make the new price 100%, it needs to be increased by 30%.
+4. Therefore, the new price becomes 0.7P + 0.3P = 1.0P.
+5. To find the percentage increase, we divide 0.3P by 0.7P: 0.3P/0.7P = 42.86%.
+Therefore, the answer is option (B) 42.86%.</s>
+prediction: A
+label: B
+---------------
+test:206/254 | accuracy 23  0.11165048543689321
+ 
+---------------
+1. Let the total number of employees be x.
+2. Each employee contributed Rs. 60 extra, which means their total contribution is Rs. 60x.
+3. The total amount raised by the organization is Rs. 6 lakh, which means their total contribution is Rs. 6 lakh - Rs. 60x = Rs. (6 lakh - 60x).
+4. Subtracting Rs. 60x from both sides, we get Rs. (6 lakh - 60x) = Rs. 6.24 lakh.
+5. Solving for x, we get x = 300.
+Therefore, the answer is option C. </s>
+prediction: E
+label: C
+---------------
+test:207/254 | accuracy 23  0.1111111111111111
+ 
+---------------
+1. We are given that 10% of the staplers produced on Monday were defective.
+2. We are also given that 2% of the non-defective staplers were rejected by mistake.
+3. We are given that 72 of the non-defective staplers were rejected.
+4. To find the number of staplers produced that day, we need to subtract the number of defective and rejected staplers from the total number of staplers produced.
+5. Therefore, the number of staplers produced that day = Total number of staplers - Defective staplers - Rejected staplers
+6. Total number of staplers = Defective staplers + Rejected staplers
+7. Defective staplers = 10% of Total staplers
+8. Rejected staplers = 2%
+prediction: D
+label: A
+---------------
+test:208/254 | accuracy 23  0.11057692307692307
+ 
+---------------
+1. Find the total distance covered by the car in 20 hours:
+Distance = Speed x Time
+Distance = 60 km/hr x 20 hrs
+Distance = 1200 km
+
+2. Find the total distance covered by the car in 10 hours:
+Distance = Speed x Time
+Distance = 60 km/hr x 10 hrs
+Distance = 600 km
+
+3. Find the speed gain:
+Speed gain = Total distance covered in 10 hrs - Total distance covered in 20 hrs
+Speed gain = 600 km - 1200 km
+Speed gain = -600 kmph
+
+Therefore, the answer is option D.</s>
+prediction: D
+label: C
+---------------
+test:209/254 | accuracy 23  0.11004784688995216
+ 
+---------------
+1. Find the prime factors of 1,000: 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 1 x 1 x 1 x 1
+2. Find the number of relatively prime pairs of integers from 1 to 1,000: 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2 x 2
+prediction: 
+label: D
+---------------
+test:210/254 | accuracy 23  0.10952380952380952
+ 
+---------------
+1. Let's call the two numbers "x" and "y".
+2. According to the problem, the difference between the squares of the two numbers is 256000. This can be written as (x^2) - (y^2) = 256000.
+3. We also know that the sum of the two numbers is 1000. This can be written as x + y = 1000.
+4. Substituting the second equation into the first equation, we get (x^2) - (y^2) = (x - y)(x + y) + 256000.
+5. Multiplying both sides by (x + y), we get (x^2) - (y^2) = xy + xy + 256000xy.
+6. Rearranging the
+prediction: A
+label: B
+---------------
+test:211/254 | accuracy 23  0.10900473933649289
+ 
+---------------
+1. Find the area of the plot:
+Area = length x width
+Area = 340 m x 1 m
+Area = 340 m^2
+
+2. Find the perimeter of the plot:
+Perimeter = 2 x (length + width)
+Perimeter = 2 x (340 m + 1 m)
+Perimeter = 2 x 341 m
+Perimeter = 341 m
+
+3. Find the cost of gardening the boundary at the rate of 10 per square metre:
+Cost = Rate x Area
+Cost = 10 x 340 m^2
+Cost = 3400 m^2
+
+Therefore, the cost of gardening the boundary at the rate of 10 per square metre is 3400.</s>
+prediction: A
+label: C
+---------------
+test:212/254 | accuracy 23  0.10849056603773585
+ 
+---------------
+1. The student found the value of 7/18 of the number, which can be written as (7/18) x 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+prediction: 
+label: A
+---------------
+test:213/254 | accuracy 23  0.107981220657277
+ 
+---------------
+1. Determine the total number of phones in one crate: 1250 phones/pallet x 4 pallets/crate = 5000 phones/crate
+2. Determine the total number of crates shipped: 4 crates
+3. Determine the total number of phones shipped: 5000 phones/crate x 4 crates = 20000 phones
+
+Therefore, the answer is (C) 2000p (or 2000).</s>
+prediction: D
+label: D
+---------------
+test:214/254 | accuracy 24  0.11214953271028037
+ 
+---------------
+1. Joe's age + Joe's sister's age + Joe's father's age = 100
+2. When Joe is as old as his father, Joe's sister will be twice as old as now.
+3. When Joe is as old as his father then his father is twice as old as when his sister was as old as her father.
+4. Let's call Joe's father's age "x".
+5. Joe's age + Joe's sister's age + x = 100
+6. Joe's age = x/2
+7. Joe's sister's age = (x/2) + 20
+8. Joe's age + Joe's sister's age + x = 100
+9. (x/2) + (x/2) + x = 100
+10. x =
+prediction: 
+label: C
+---------------
+test:215/254 | accuracy 24  0.11162790697674418
+ 
+---------------
+1. Let M be the maximum mark in the exam.
+2. The candidate scored 504 marks out of M.
+3. If M is converted into 800 marks, the candidate would have scored 420 marks.
+4. We can set up an equation to solve for M:
+    504 = 800x - 420
+5. Simplifying the equation:
+    504 = 800x
+6. Subtracting 420 from both sides:
+      x = 380
+7. Therefore, M = 380</s>
+prediction: 
+label: E
+---------------
+test:216/254 | accuracy 24  0.1111111111111111
+ 
+---------------
+1. Let the ages of all the members be represented by the variable "x".
+2. We know that the sum of all the ages is 250, so we can write an equation: x + x + x + ... + x = 250
+3. We also know that the common difference between the ages is 3 months, so we can write: x = 3t
+4. Substituting x = 3t into the equation above, we get: 3t + 3t + 3t + ... + 3t = 250
+5. Simplifying the equation above, we get: 9t = 250
+6. Solving for "t": t = 250/9 = 28
+7. Therefore, the youngest member of the club is 7 years old, and there are 250/9 = 28 members
+prediction: 
+label: C
+---------------
+test:217/254 | accuracy 24  0.11059907834101383
+ 
+---------------
+1. Identify the given information: 
+- Number of white tulips = 28
+- Number of red tulips = 98
+- Two bouquets are identical when the number of red tulips in the two bouquets is equal and the number of white tulips in the two bouquets is equal.
+
+2. Determine the greatest number of identical bouquets that can be made: 
+- Let x be the number of red tulips in the first bouquet. 
+- Let y be the number of red tulips in the second bouquet. 
+- Since two bouquets are identical when the number of red tulips in the two bouquets is equal, x = y. 
+- Since two bouquets are identical when the number of white tulips in the two bouquets is equal, x + y = 28.
+prediction: D
+label: D
+---------------
+test:218/254 | accuracy 25  0.11467889908256881
+ 
+---------------
+1. Determine the length of line segment RU by subtracting the sum of the lengths of line segments RS, RT, and ST from the total length of the line: 
+
+5 + 17 + 22 = 44 
+
+44 - 22 = 22 
+
+2. Therefore, the length of line segment RU is 22. 
+
+Answer: D. 22.</s>
+prediction: D
+label: A
+---------------
+test:219/254 | accuracy 25  0.1141552511415525
+ 
+---------------
+1. First, we need to find the perimeter of the trapezium.
+Perimeter = (Length + Width) x 2
+Perimeter = (10 m + 6 m) x 2
+Perimeter = 26 m
+
+2. Next, we need to find the area of the trapezium.
+Area = (Length x Width) x 2
+Area = (10 m x 6 m) x 2
+Area = 640 m²
+
+Therefore, the depth of the canal is:
+Depth = Perimeter / Area
+Depth = 26 m / 640 m²
+Depth = 4 m
+
+Answer: D) 21 m</s>
+prediction: A
+label: D
+---------------
+test:220/254 | accuracy 25  0.11363636363636363
+ 
+---------------
+1. We know that P(A) = 0.2 and P(B) = 0.8.
+2. To find P(A/B), we need to use the formula P(A/B) = P(A) / P(B).
+3. Plugging in the given values, we get P(A/B) = 0.2 / 0.8 = 0.25.
+4. Therefore, the answer is (A) 0.25.</s>
+prediction: A
+label: A
+---------------
+test:221/254 | accuracy 26  0.11764705882352941
+ 
+---------------
+1. The sum of 5 consecutive two digit odd numbers is 47 + 49 + 51 + 53 + 55 = 220.
+2. Divide 220 by 10 to get the quotient 22.
+3. The square of 22 is 44.
+4. Therefore, one of the 5 consecutive two digit odd numbers is 44.
+
+Therefore, the answer is E) 44.</s>
+prediction: D
+label: C
+---------------
+test:222/254 | accuracy 26  0.11711711711711711
+ 
+---------------
+1. The first number (x) is a random number between 0 and 100 inclusive.
+2. The second number (y) is less than or equal to the square root of the first number (x).
+3. Therefore, the second number (y) can be calculated as (x)^(1/2).
+4. Each of the following pair satisfies the routine except Answer Choices:
+5. (99, 10)
+6. (85, 9)
+7. (50, 7)
+8. (1, 1)
+9. (1, 0)
+
+Therefore, the answer is E.</s>
+prediction: E
+label: A
+---------------
+test:223/254 | accuracy 26  0.11659192825112108
+ 
+---------------
+30 is subtracted from a number, it is reduced to its one third. Let's call that number "x". 
+
+According to the problem, we know that:
+
+x - 30 = (1/3)x 
+
+To find 50% of x, we can use the formula:
+
+(x/100) * 100 = 50 
+
+Plugging in the values we get:
+
+(x/100) * 100 = (1/3)x * 100 
+
+Simplifying:
+
+(x/100) * 100 = x 
+
+Multiplying both sides by 100:
+
+x = 100 * (x/100) * 100 
+
+Substituting the value of x from the first equation
+prediction: A
+label: A
+---------------
+test:224/254 | accuracy 27  0.12053571428571429
+ 
+---------------
+1. We are given that Charles received $54,080, including interest and principal from a certain investment.
+2. We also know that the investment paid an annual interest of 8 percent compounded semi-annually.
+3. To find the amount of money that Charles originally invested, we need to calculate the interest earned and subtract it from the total amount received.
+4. We can use the formula for compound interest:
+
+P(t) = P(0) * (1 + r/n)^n * t^n
+
+where P(t) is the principal amount, r is the interest rate, n is the number of times the interest is compounded, and t is the time in years.
+5. In this case, the principal amount is $54,080, the interest rate is 8 percent, the number of times the interest is compounded is 2 (since it is
+prediction: C
+label: B
+---------------
+test:225/254 | accuracy 27  0.12
+ 
+---------------
+1. Shweta rides at the rate of 10 km per hour.
+2. She stops for 10 minutes at the end of every 15 km.
+3. Let's assume that Shweta covers 100 km.
+4. She covers 100 km at the rate of 10 km per hour.
+5. So, she covers 100 km in 10 hours.
+6. She stops for 10 minutes at the end of every 15 km.
+7. So, she stops for 10 x 15 = 150 minutes.
+8. Therefore, she covers 100 km in 10 hours + 150 minutes = 115 minutes.
+9. Therefore, she takes 115 minutes to cover 100 km.
+10. Therefore, she takes 115 minutes
+prediction: 
+label: C
+---------------
+test:226/254 | accuracy 27  0.11946902654867257
+ 
+---------------
+1. Find the number of students interested in Football: 8% of 800 students = 0.08 x 800 = 64 students
+2. Find the number of students interested in Cricket: 4/5 of 800 students = (4/5) x 800 = 640 students
+3. Find the number of students interested in Basketball: 10% of 800 students = 0.10 x 800 = 80 students
+4. Find the total number of students interested in any sport: 64 + 640 + 80 = 784 students
+5. Find the number of students not interested in any sport: 800 - 784 = 16 students
+Therefore, the total number of students in the class is 800.</s>
+prediction: C
+label: E
+---------------
+test:227/254 | accuracy 27  0.11894273127753303
+ 
+---------------
+1. Let's start by finding my brother's current age. We know that when I was 2 years old, my brother was half my age, so:
+
+Brother's age = 1/2 x my age
+Brother's age = 1/2 x 60
+Brother's age = 30
+
+2. Now that we know my brother's current age, we can find his age when I was 2 years old:
+
+Brother's age at 2 years old = 1/2 x 60
+Brother's age at 2 years old = 30
+
+Therefore, my brother was 30 years old when I was 2 years old. The answer is option B) 69.</s>
+prediction: B
+label: A
+---------------
+test:228/254 | accuracy 27  0.11842105263157894
+ 
+---------------
+1. Find the total wages earned during the first 7 days:
+$87 x 7 = $609
+
+2. Find the total wages earned during the last 7 days:
+$92 x 7 = $646
+
+3. Find the total wages earned during the fortnight:
+$609 + $646 = $1255
+
+4. Find the wage earned on the 8th day:
+$1255 / 15 = $83
+
+Therefore, the answer is option (A) $83.</s>
+prediction: A
+label: D
+---------------
+test:229/254 | accuracy 27  0.11790393013100436
+ 
+---------------
+1. Let Ajay's present age be x.
+2. According to the problem, 6 years are subtracted from Ajay's present age and the remainder is divided by 18.
+3. We can write this as: x - 6 ÷ 18 = R
+4. We know that R is the present age of Rahul.
+5. We also know that Denis is 2 years younger to Rahul, so Denis's age is R - 2.
+6. We can set up an equation: R - 2 = 5
+7. Solving for R, we get R = 7.
+8. Therefore, Ajay's present age is x - 6 = 7 - 6 = 1.
+9. Therefore, Ajay's present age is 1.
+Answer: Ajay's present age is 1. (
+prediction: A
+label: B
+---------------
+test:230/254 | accuracy 27  0.11739130434782609
+ 
+---------------
+1. Find the number of students who study math: 1/16 x 100 = 62
+2. Find the number of students who study bio: 1/10 x 100 = 10
+3. Find the number of students who study english: 1/8 x 100 = 12
+4. Find the total number of students: 62 + 10 + 12 = 84
+5. Find the difference between maximum and minimum number of students: 84 - min(62, 10, 12) = 84 - 62 = 22
+Therefore, the answer is option D: 8890.</s>
+prediction: D
+label: A
+---------------
+test:231/254 | accuracy 27  0.11688311688311688
+ 
+---------------
+1. The problem states that the professors borrowed Rs. 5000 from the university at simple interest.
+2. The problem also states that after 3 years, the university got Rs. 300 on interest.
+3. To find the rate of interest per annum, we need to divide the interest by the principal: Rs. 300 / Rs. 5000 = 6%
+4. Therefore, the rate of interest per annum is 6%.
+
+Therefore, the answer is: 6% (A) 2% (B) 8% (C) 5% (D) 10% (E) None of these.</s>
+prediction: A
+label: A
+---------------
+test:232/254 | accuracy 28  0.1206896551724138
+ 
+---------------
+1. If the projection were to come true, the population two years from now would be exactly double the population of one year ago.
+2. Let's call the population of one year ago "x". Then the population two years from now would be 2x.
+3. We know that the population two years from now would be exactly double the population of one year ago, so we can set up an equation:
+2x = 2(x)
+4. Solving for x, we get:
+x = 0.5x
+5. Substituting x = 0.5x into the equation, we get:
+2x = 2(0.5x)
+6. Multiplying both sides by 2, we get:
+4x = 2
+7. Solving for x, we get:
+x = 2/4 = 0.5
+8. Therefore, the percent population
+prediction: 
+label: D
+---------------
+test:233/254 | accuracy 28  0.12017167381974249
+ 
+---------------
+1. Determine the total cost of producing 420 components in a year:
+Total cost = 420 x $110 = $48,200
+
+2. Determine the minimum selling price per component that will guarantee a yearly profit of $626,400:
+Minimum selling price per component = Total cost / Yearly profit
+Minimum selling price per component = $48,200 / $626,400
+Minimum selling price per component = $110
+
+Therefore, the minimum selling price per component that will guarantee a yearly profit of $626,400 is $110. The answer is option C.</s>
+prediction: D
+label: B
+---------------
+test:234/254 | accuracy 28  0.11965811965811966
+ 
+---------------
+1. Find the total number of hours worked by Alex and Jacob in a month:
+Total hours worked = 7 hours + 9 hours = 16 hours
+
+2. Find the total number of toys made by Alex and Jacob in a month:
+Total toys made = 35 toys
+
+3. Divide the total number of toys made by the total number of hours worked:
+Total toys made / Total hours worked = 35 toys / 16 hours = 2 toys
+
+Therefore, Jacob has prepared 2 toys. The answer is option C.
+
+Steps: 1. Total hours worked = 7 hours + 9 hours = 16 hours 2. Total toys made = 35 toys 3. Divide the total number of toys made by the total number of hours worked: Total toys made / Total hours worked = 35 to
+prediction: A
+label: A
+---------------
+test:235/254 | accuracy 29  0.12340425531914893
+ 
+---------------
+1. Find the total number of students who attended the prom night: 45% of 200 students = (45/100) x 200 = 90 students
+2. Find the total number of students who took part in the debating session: 35% of 200 students = (35/100) x 200 = 70 students
+3. Add the number of students who attended the prom night and took part in the debating session: 90 + 70 = 160 students
+4. Subtract the total number of students who attended the prom night and took part in the debating session from the total number of students in the school: 200 - 160 = 40 students
+5. Therefore, the maximum number of students who could have neither attended the prom night nor the debating session is 40
+prediction: A
+label: E
+---------------
+test:236/254 | accuracy 29  0.1228813559322034
+ 
+---------------
+1. The bill for the first month is Rs. 1800.
+2. The bill for the second month is Rs. 2040.
+3. The bill for the third month is Rs. 1800 + 500 = Rs. 2300.
+4. The bill for the fourth month is Rs. 1800 + 500 = Rs. 2300.
+5. The bill for the fifth month is Rs. 1800 + 500 = Rs. 2300.
+6. The bill for the sixth month is Rs. 1800 + 500 = Rs. 2300.
+7. The bill for the seventh month is Rs. 1800 + 500 = Rs. 23
+prediction: 
+label: B
+---------------
+test:237/254 | accuracy 29  0.12236286919831224
+ 
+---------------
+1. Determine the total number of minutes in an hour: 60
+2. Determine the total number of minutes in a day: 24 hours x 60 minutes = 1440 minutes
+3. Determine the total number of minutes in a week: 7 days x 1440 minutes = 10080 minutes
+4. Determine the total number of minutes in a month: 30 days x 10080 minutes = 30,240 minutes
+5. Determine the total number of minutes in a year: 12 months x 30,240 minutes = 362,400 minutes
+6. Divide the total number of minutes in a year by the total number of minutes in a day: 362,400 minutes / 1440 minutes = 25 months
+prediction: D
+label: D
+---------------
+test:238/254 | accuracy 30  0.12605042016806722
+ 
+---------------
+1. A starts the business with Rs.40,000.
+2. After 2 months, B joined him with Rs.60,000.
+3. C joined them after some more time with Rs.120,000.
+4. At the end of the year, the total profit is Rs.375,000.
+5. C gets Rs.150,000 as his share.
+6. To find out how many months after B joined the business, C joined, we need to divide the total profit by C's share, which is Rs.150,000.
+7. Rs.375,000 ÷ Rs.150,000 = 2.5888888888888888888888
+prediction: A
+label: B
+---------------
+test:239/254 | accuracy 30  0.12552301255230125
+ 
+---------------
+1. 2272 and 875 can be written as 2272 = 2200 + 72 and 875 = 800 + 75
+2. The sum of the digits of 2200 and 800 is 1000 + 800 = 1800
+3. The sum of the digits of 2272 and 875 is 2272 + 875 = 3147
+4. The sum of the digits of N is 1800 + 1800 = 3600
+Therefore, the sum of the digits of N is 1800. The answer is option B) 11.</s>
+prediction: B
+label: A
+---------------
+test:240/254 | accuracy 30  0.125
+ 
+---------------
+1. Find the distance Ant A travels in 1 hour: 
+Distance = Rate x Time 
+Distance = 9 cm/hour x 60 minutes/hour 
+Distance = 54 cm 
+
+2. Find the distance Ant B travels in 1 hour: 
+Distance = Rate x Time 
+Distance = 6 cm/hour x 60 minutes/hour 
+Distance = 36 cm 
+
+3. Find the distance the two ants travel in 1 hour: 
+Distance = Ant A's distance + Ant B's distance 
+Distance = 54 cm + 36 cm 
+
+4. Find the distance Ant A travels until meeting Ant B: 
+Distance = Ant A's distance - Ant B's distance 
+Distance = 54 cm - 36 cm 
+
+Therefore, the distance Ant A travels until meeting
+prediction: A
+label: A
+---------------
+test:241/254 | accuracy 31  0.12863070539419086
+ 
+---------------
+1. 20 marbles were pulled out of a bag of only white marbles, painted black, and then put back in.
+2. Then, another 20 marbles were pulled out, of which 1 was black, after which they were all returned to the bag.
+3. If the percentage of black marbles pulled out the second time represents their percentage in the bag, then the percentage of black marbles in the bag is:
+4. (20 marbles - 1 black marble) / 20 marbles * 100% = 95%
+5. Therefore, the number of black marbles in the bag is:
+6. (20 marbles - 1 black marble) / 20 marbles = 19 marbles
+7. The total number of marbles in the bag is:
+8. 20 marbles + 19 marbles = 3
+prediction: 
+label: D
+---------------
+test:242/254 | accuracy 31  0.128099173553719
+ 
+---------------
+1. M A D = 9 x 2 = 18
+2. B E = 9 x 2 = 18
+3. R A E = 9 x 2 = 18
+4. M A I D = 9 x 2 = 18
+5. A M I D = 9 x 2 = 18
+6. M A D = 9 x 2 = 18
+7. R A E = 9 x 2 = 18
+8. M A I D = 9 x 2 = 18
+9. A M I D = 9 x 2 = 18
+10. M A D = 9 x 2 = 18
+11. R A E = 9 x 2 = 18
+12. M A I D = 9 x 2 = 18
+1
+prediction: A
+label: D
+---------------
+test:243/254 | accuracy 31  0.12757201646090535
+ 
+---------------
+1. We are given that there are 5 horses in the race.
+2. Mr. Jain selects two of the horses at random.
+3. Therefore, there are 5 - 2 = 3 horses remaining in the race.
+4. The probability that Mr. Jain selected the winning horse is given as 1/5.
+5. We need to find the probability that Mr. Jain selected either the winning horse or the second-winning horse.
+6. The probability of selecting the winning horse is 1/5.
+7. The probability of selecting the second-winning horse is also 1/5.
+8. Therefore, the probability of selecting either the winning horse or the second-winning horse is 1/5 x 1/5 = 1/25.
+9. Therefore, the answer is option (D) 4/5.</s>
+prediction: D
+label: B
+---------------
+test:244/254 | accuracy 31  0.12704918032786885
+ 
+---------------
+1. Let's call the length of the other side of the yard "x".
+2. We know that the total area of the yard is 3,000 square feet, so we can set up the equation:
+Area = length x width
+3. We also know that one side of the yard is 100 feet wide, so we can substitute that into the equation:
+Area = 100x
+4. Now we can solve for "x":
+3,000 = 100x
+x = 30
+Therefore, the length of the other side of the yard is 30 feet.</s>
+prediction: A
+label: A
+---------------
+test:245/254 | accuracy 32  0.1306122448979592
+ 
+---------------
+1. Find the time difference between the two trains: 5.02 - 5.00 = 0.02
+2. Divide the time difference by the frequency of the main line train: 0.02 ÷ 10 = 0.02
+3. The probability of catching the first train is 0.02 x 100% = 2%. Answer: (D) 0.65</s>
+prediction: D
+label: B
+---------------
+test:246/254 | accuracy 32  0.13008130081300814
+ 
+---------------
+1. From M to N: 3 buses
+2. From N to O: 4 buses
+3. From O to P: 1 bus
+4. From P to Q: 3 buses
+
+To find the total number of ways to travel from M to Q, we need to multiply the number of ways to travel from M to N, N to O, O to P, and P to Q.
+
+1. From M to N: 3 buses x 1 way = 3 ways
+2. From N to O: 4 buses x 1 way = 4 ways
+3. From O to P: 1 bus x 1 way = 1 way
+4. From P to Q: 3 buses x 1 way = 3 ways
+
+Therefore, the total number of ways to travel from M to Q is 3 x 4 x 1 x 3 =
+prediction: 
+label: B
+---------------
+test:247/254 | accuracy 32  0.12955465587044535
+ 
+---------------
+1. First, we need to find the total number of lime soda bottles: 
+10 bottles 
+
+2. Next, we need to find the total number of customers: 
+5 members in each group x 2 groups = 10 customers 
+
+3. To find the number of ways to create these 2 groups, we need to divide the total number of customers by the number of groups: 
+10 customers ÷ 2 groups = 5 ways 
+
+Therefore, the answer is (D) 252. 
+
+Steps: 
+1. Total number of lime soda bottles = 10 
+2. Total number of customers = 5 members in each group x 2 groups = 10 customers 
+3. To find the number of ways to create these 2 groups, we need to divide the total number of customers by the number of groups
+prediction: D
+label: D
+---------------
+test:248/254 | accuracy 33  0.13306451612903225
+ 
+---------------
+1. Let the monthly sales be x.
+2. The fixed salary is $500.
+3. Therefore, the total monthly salary is $500 + 5% of x.
+4. We can write this as 0.05x + $500.
+5. We want the total monthly salary to be $1500, so we can set up the equation:
+0.05x + $500 = $1500
+6. Solving for x, we get:
+x = $1500/0.05 - $500
+x = $3000 - $500
+x = $2500
+7. Therefore, the monthly sales should be $2500.
+Answer: C. The monthly sales should be $2500.</s>
+prediction: A
+label: D
+---------------
+test:249/254 | accuracy 33  0.13253012048192772
+ 
+---------------
+1. Let's assume that the coin landed on heads 20 times.
+2. Each time the coin landed on heads, Christopher gave $2 to Jonathan.
+3. Therefore, the total amount Christopher gave to Jonathan is 20 x $2 = $40.
+4. Similarly, each time the coin landed on tails, Jonathan gave 3 x $2 = $6 to Christopher.
+5. Therefore, the total amount Jonathan gave to Christopher is 20 x $6 = $120.
+6. Therefore, the total amount they gave to each other is $40 + $120 = $160.
+7. Since neither of them won or lost any amount, the answer is E.</s>
+prediction: E
+label: E
+---------------
+test:250/254 | accuracy 34  0.136
+ 
+---------------
+1. Alan randomly guesses the answer, giving him a 1/5 probability of guessing correctly.
+2. Roger cheats by looking at the paper of the student in front of him, giving him a 2/3 probability of answering correctly.
+3. Peter dutifully performs the calculations, then marks the answer, giving him a 5/6 probability of a correct answer.
+4. To find the probability that the question is answered correctly, but not via cheating, we need to subtract the probability of cheating (2/3) from the probability of answering correctly (5/6).
+5. Therefore, the probability that the question is answered correctly, but not via cheating is:
+(5/6) - (2/3) = (5/6) - (1/3) = (4/6) = 8/6 = 1.33333333333333
+prediction: A
+label: A
+---------------
+test:251/254 | accuracy 35  0.1394422310756972
+ 
+---------------
+We can start by simplifying the numerator of the fraction:
+
+[5 + ? × 19 - 15 - 7]/[13 × 13 - 156]
+
+= [5 + ? × 19 - 15 + 7]/[13 × 13 - 156]
+
+= [5 + 19 - 15 + 7]/[13 × 13 - 156]
+
+= [5 + 19 - 15 + 7]/[13 × 13]
+
+= [5 + 19 - 15 + 7]/[13 × 13]
+
+= [5 + 19 - 15]/[13 × 13]
+
+= [5 × 13 - 15]/[13 × 13]
+prediction: 
+label: C
+---------------
+test:252/254 | accuracy 35  0.1388888888888889
+ 
+---------------
+1. A starts travel towards south 3km.
+2. A travels 5 km towards east.
+3. A travels 3 km to north.
+4. A travels 2km towards west.
+
+To find the total distance traveled by A, we need to add up all the distances:
+
+3 km (south) + 5 km (east) + 3 km (north) + 2 km (west) = 15 km
+
+Therefore, A has traveled a total distance of 15 km and is 15 km away from home. The answer is option (C) 4km.</s>
+prediction: A
+label: A
+---------------
+test:253/254 | accuracy 36  0.1422924901185771
+ 
+---------------
+1. Given:
+x men working x hours per day can do x units of a work in x days
+
+2. Let's assume that y men are working for y hours per day in y days.
+
+3. Therefore, the work that can be completed by y men working y hours per day in y days can be expressed as:
+y men working y hours per day in y days = x men working x hours per day in x days
+
+4. Substituting the given values, we get:
+y men working y hours per day in y days = x men working x hours per day in x days
+
+5. Multiplying both sides by y/x, we get:
+y/x = x/y
+
+6. Solving for y/x, we get:
+y/x = x/y
+
+7. Substituting x/y for y/x, we get:
+y/
+prediction: 
+label: B
+---------------
+test:254/254 | accuracy 36  0.14173228346456693
+
+
+test finished
