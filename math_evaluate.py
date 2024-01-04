@@ -179,7 +179,7 @@ def load_data(args) -> list:
 
 def parse_args():
     parser = argparse.ArgumentParser()
-    parser.add_argument('--dataset', choices=['AddSub', 'MultiArith', 'SingleEq', 'gsm8k', 'AQuA', 'SVAMP', 'mathqa', 'math_addsub'],
+    parser.add_argument('--dataset', choices=['AddSub', 'MultiArith', 'SingleEq', 'gsm8k', 'AQuA', 'SVAMP', 'mathqa', 'math_addsub', "mawps"],
                         required=True)
     parser.add_argument('--model', type=str, required=True)
     parser.add_argument('--test_file', type=str, required=True)
@@ -272,7 +272,7 @@ def load_instruction(args) -> str:
 
 def extract_answer_number(args, sentence: str) -> float:
     dataset = args.dataset.lower()
-    if dataset in ["multiarith", "addsub", "singleeq", "gsm8k", "svamp", "mathqa", "math_addsub"]:
+    if dataset in ["multiarith", "addsub", "singleeq", "gsm8k", "svamp", "mathqa", "math_addsub", "mawps"]:
         if "python" in sentence.lower():
             code = sentence.split("# Python code, return ans")[-1].replace("</s>", "").strip("\n")
             ans = safe_execute(code)

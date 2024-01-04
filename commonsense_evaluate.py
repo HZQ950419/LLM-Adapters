@@ -212,12 +212,12 @@ def load_model(args) -> tuple:
             device_map="auto",
             trust_remote_code=True,
         ) # fix zwq
-        model = PeftModel.from_pretrained(
-            model,
-            lora_weights,
-            torch_dtype=torch.float16,
-            device_map={"":0}
-        )
+        # model = PeftModel.from_pretrained(
+        #     model,
+        #     lora_weights,
+        #     torch_dtype=torch.float16,
+        #     device_map={"":0}
+        # )
     elif device == "mps":
         model = AutoModelForCausalLM.from_pretrained(
             base_model,
